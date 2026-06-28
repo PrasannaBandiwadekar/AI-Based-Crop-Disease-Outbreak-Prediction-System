@@ -1,0 +1,72 @@
+=== Ablation Study ===
+
+Model: raw_rf
+  precision: 0.8233
+  recall: 0.8478
+  f1_score: 0.8354
+  accuracy: 0.8668
+  threshold: 0.4000
+  far: 0.1206
+  brier_score: 0.0991
+  roc_auc: 0.9297
+  event_detection_rate: 0.9512
+  early_warning_success: 0.7561
+  missed_outbreaks: 2.0000
+  total_events: 41.0000
+
+Model: raw_gru
+  precision: 0.8025
+  recall: 0.8696
+  f1_score: 0.8347
+  accuracy: 0.8618
+  threshold: 0.4000
+  far: 0.0000
+  brier_score: 0.1006
+  roc_auc: 0.9282
+  event_detection_rate: 0.8293
+  early_warning_success: 0.6829
+  missed_outbreaks: 7.0000
+  total_events: 41.0000
+
+Model: engineered_rf
+  precision: 0.8120
+  recall: 0.8947
+  f1_score: 0.8514
+  accuracy: 0.8752
+  threshold: 0.3000
+  far: 0.1377
+  brier_score: 0.0930
+  roc_auc: 0.9399
+  event_detection_rate: 0.8780
+  early_warning_success: 0.6341
+  missed_outbreaks: 5.0000
+  total_events: 41.0000
+
+Model: hybrid_rf
+  precision: 0.8120
+  recall: 0.8947
+  f1_score: 0.8514
+  accuracy: 0.8752
+  threshold: 0.3000
+  far: 0.1377
+  brier_score: 0.0930
+  roc_auc: 0.9399
+  event_detection_rate: 0.8780
+  early_warning_success: 0.6341
+  missed_outbreaks: 5.0000
+  total_events: 41.0000
+
+Model: hybrid_gru
+  precision: 0.7863
+  recall: 0.8249
+  f1_score: 0.8051
+  accuracy: 0.8395
+  threshold: 0.3000
+  far: 0.0000
+  brier_score: 0.1221
+  roc_auc: 0.9087
+  event_detection_rate: 0.7561
+  early_warning_success: 0.6341
+  missed_outbreaks: 10.0000
+  total_events: 41.0000
+

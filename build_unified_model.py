@@ -1,0 +1,273 @@
+"""
+build_unified_model.py
+----------------------
+Merges all red rot JSON files from:
+  research_comp/knowledge_graph/red_rot/
+
+Into ONE unified model saved at:
+  research_comp/knowledge_graph/red_rot/unified_model.json
+
+Run:
+  python scratch/build_unified_model.py
+"""
+
+import os
+import json
+
+# ── Paths ─────────────────────────────────────────────────────────────────────
+BASE       = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+KG_DIR     = os.path.join(BASE, "research_comp", "knowledge_graph", "red_rot")
+OUT_PATH   = os.path.join(KG_DIR, "unified_model.json")
+
+# Only these files are red-rot specific; climate reviews are advisory-only
+RED_ROT_FILES = [
+    "13_2AATCC_01.json",
+    "230495.json",
+    "Red_rot_of_Sugarcane.json",
+    "red_rot_mgmt_2022_extracted.json",
+    "RAASAfinal2022.json",
+]
+
+# Climate papers contribute temporal/feature insights but not mechanism
+CLIMATE_FILES = [
+    "ghini_2011_extracted.json",
+    "luck_2011_extracted.json",
+]
+
+# ── Load all records ──────────────────────────────────────────────────────────
+def load(filenames):
+    records = []
+    for fn in filenames:
+        path = os.path.join(KG_DIR, fn)
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                records.append((fn, json.load(f)))
+            print(f"  Loaded: {fn}")
+        else:
+            print(f"  [SKIP] Not found: {fn}")
+    return records
+
+print("\nLoading red rot papers...")
+rr_records = load(RED_ROT_FILES)
+
+print("\nLoading climate papers...")
+cl_records = load(CLIMATE_FILES)
+
+all_records = rr_records + cl_records
+
+# ── Helper: unique ordered list merge ────────────────────────────────────────
+def merge_unique(lists):
+    seen, out = set(), []
+    for lst in lists:
+        for item in lst:
+            key = item.strip().lower()[:60]
+            if key not in seen:
+                seen.add(key)
+                out.append(item)
+    return out
+
+# ── Unified model (hand-synthesised from all evidence) ───────────────────────
+unified = {
+    "disease": "red_rot",
+    "pathogen": "Colletotrichum falcatum Went",
+    "source_papers": [fn for fn, _ in all_records],
+
+    # ── 1. Mechanism ──────────────────────────────────────────────────────────
+    "final_mechanism": {
+        "infection_process": (
+            "Primary infection occurs through infected seed setts (seed-borne inoculum) "
+            "and soil-borne conidia surviving up to 60-90 days. "
+            "The pathogen enters through cut ends of setts, vascular tissue, or nodal points "
+            "during the monsoon season. Secondary infection spreads via rain-splash dispersal "
+            "of conidia to spindle and adjacent stalks, accelerating stalk rot."
+        ),
+        "spread_modes": [
+            "Infected seed setts (primary inoculum — seed-borne)",
+            "Soil-borne conidia and chlamydospores (survive 60-90 days)",
+            "Rain-splash dispersal of conidia (secondary spread)",
+            "Spindle infection from crown to stalk",
+            "Vascular bundle transit within the stalk",
+            "Waterborne inoculum via irrigation channels",
+            "Ratoon crops from infected previous crop",
+        ],
+        "progression_pattern": (
+            "Latent colonization of setts without visible symptoms → "
+            "death of young shoots and seedlings → spindle/nodal infection → "
+            "yellowing and withering of crown leaves from margins → "
+            "stalk splitting reveals reddened pith with white spots and alcoholic odour → "
+            "nodal transgression and extensive internal rotting → "
+            "drying of tops and eventual plant death. "
+            "Peak visible incidence: 2nd fortnight of August through October."
+        ),
+    },
+
+    # ── 2. Environmental Drivers ──────────────────────────────────────────────
+    "final_environmental_drivers": {
+        "temperature": (
+            "Optimum pathogen growth: 25-32 °C (T2M). "
+            "Peak field incidence: T2M 29.4-31.0 °C, T2M_MAX ~33.1 °C, T2M_MIN ~26.4 °C. "
+            "Sporulation peaks at 30 °C. "
+            "Minimum temperature is the strongest single predictor of disease incidence "
+            "(SMRA R² 0.82-0.87, 15-day lag). "
+            "Temperatures below 20 °C restrict stalk spread."
+        ),
+        "humidity": (
+            "Severe outbreaks require RH2M 85-100 %. "
+            "Good disease development at RH 79-92 %. "
+            "Morning RH 80-90 % and evening RH 50-76 % are indicative thresholds. "
+            "Canopy-level humidity build-up from un-stripped dry leaves increases risk."
+        ),
+        "rainfall": (
+            "Peak incidence coincides with rainfall of ~115.8 mm per 15-day period. "
+            "Disease most prevalent during monsoon (July to September). "
+            "Heavy or unseasonal rainfall drives rain-splash inoculum dispersal. "
+            "Soil moisture facilitates root/sett-level infection. "
+            "Inoculum viable in stagnant water for up to 60 days."
+        ),
+        "variability": (
+            "Non-linear response: small changes in T2M_MIN can disproportionately "
+            "alter disease incidence in the following 15-day period. "
+            "Climate variability (extremes, unseasonal events) more important than "
+            "mean climate values for predicting outbreak risk. "
+            "Elevated CO2 shortens latent period from ~36 to ~20 days (Ghini 2011). "
+            "Epidemic onset can shift by 14-28 days under climate change scenarios (Luck 2011)."
+        ),
+    },
+
+    # ── 3. Temporal Behavior ──────────────────────────────────────────────────
+    "final_temporal_behavior": {
+        "latent_phase": True,
+        "requires_accumulation": True,
+        "delay_description": (
+            "Confirmed latent phase across all 5 red rot papers. "
+            "Latent period: 7 days (spindle) to 4+ weeks (mid-rib/stalk). "
+            "Under elevated CO2: latent period compresses from ~36 to ~20 days. "
+            "T2M_MIN in one 15-day window negatively predicts disease in the next (15-day lag). "
+            "Multi-day accumulation of RH > 85 % and T2M 29-31 °C drives outbreak onset. "
+            "Disease incidence builds progressively: "
+            "0 % (May-Jun) → 2-10 % (Jul-Aug) → 5-15 % (Sep-Oct) → 10-20 % (Nov-Dec). "
+            "Key accumulation windows validated: 14-day and 28-day rolling means."
+        ),
+    },
+
+    # ── 4. Feature Mapping ────────────────────────────────────────────────────
+    "final_feature_mapping": {
+        "weather_features": [
+            "T2M",
+            "T2M_MAX",
+            "T2M_MIN",
+            "RH2M",
+            "PRECTOTCORR",
+            "T2M_rolling_mean_7d",
+            "T2M_rolling_mean_14d",
+            "T2M_rolling_mean_28d",
+            "RH2M_rolling_mean_7d",
+            "RH2M_rolling_mean_14d",
+            "PRECTOTCORR_rolling_sum_14d",
+            "PRECTOTCORR_rolling_sum_28d",
+            "T2M_MIN_lag_15d",
+            "RH2M_lag_15d",
+        ],
+        "temporal_features": [
+            "lag_features (15-day lag for T2M_MIN — SMRA validated, R² 0.82-0.87)",
+            "rolling_windows (14-day and 28-day — validated for epidemic onset)",
+            "seasonal_indicator (monsoon: Jul-Sep = 1, else 0)",
+            "days_since_monsoon_onset",
+            "disease_incidence_lag_15d",
+        ],
+        "agronomic_features": [
+            "variety_susceptibility",
+            "infected_sett",
+            "crop_age_months",
+            "crop_age_ratoon (plant vs ratoon)",
+            "inoculation_timing_month",
+            "nitrogen_fertilizer_level",
+            "soil_amendments",
+            "field_sanitation_score",
+            "intercropping_system",
+            "micronutrient_levels",
+            "soil_pH",
+        ],
+    },
+
+    # ── 5. Outbreak Logic ─────────────────────────────────────────────────────
+    "final_outbreak_logic": {
+        "requires_sustained_conditions": True,
+        "supports_early_warning": True,
+        "threshold_type": "variable",
+        "key_thresholds": {
+            "temperature_optimum_C": "29.4-31.0",
+            "temperature_max_C": "33.1",
+            "temperature_min_C": "26.4",
+            "humidity_severe_pct": "85-100",
+            "humidity_good_development_pct": "79-92",
+            "rainfall_peak_mm_15d": "115.8",
+            "latent_period_days_standard": "7-36",
+            "latent_period_days_elevated_CO2": "~20",
+            "soil_inoculum_survival_days": "60-90",
+            "smra_r2_T2M_MIN": "0.82-0.87",
+            "key_lag_window_days": 15,
+            "key_rolling_windows_days": [14, 28],
+        },
+        "early_warning_signals": [
+            "T2M in 29-31 °C range sustained for 14+ days",
+            "RH2M > 85 % for 7+ consecutive days",
+            "PRECTOTCORR > 10 mm/day for 5+ consecutive days",
+            "T2M_MIN rising above 26 °C (monsoon onset indicator)",
+            "Monsoon onset detected (July entry threshold)",
+        ],
+    },
+
+    # ── 6. Advisory Actions ───────────────────────────────────────────────────
+    "final_advisory_actions": [
+        # Seed/planting
+        "Use disease-free certified seed setts from three-tier nursery programme.",
+        "Select planting material exclusively from disease-free fields.",
+        "Apply MHAT (Moist Hot Air Treatment) at 54 deg C for 2-4 hours (RH 95-100 %).",
+        "Alternative: AST (Aerated Steam Treatment) at 52 deg C for 4-5 hours.",
+        # Fungicide
+        "Sett treatment: Carbendazim 50 WP (0.1-0.25 %) dip for 1-2 hours.",
+        "Sett treatment: Thiophanate methyl 0.25 % — reduces incidence by 30 %+, yield +40 %.",
+        "Foliar spray: Bavistin 0.1 % twice (mid-August and early November).",
+        "Mechanized vacuum infiltration of fungicides for uniform sett coverage.",
+        # Biological
+        "Biocontrol: Trichoderma harzianum (Th-37 TMC) at 20 kg/ha at ratoon initiation.",
+        "Biocontrol: Pseudomonas spp. for soil-borne inoculum suppression.",
+        # Varietal
+        "Plant resistant varieties: Co 98015, Co 98016, Co 285, Cos-109, Bo 3, Bo 32.",
+        "Avoid monocropping susceptible variety in >50 % of area (increases virulence selection).",
+        "Replace varieties after resistance breakdown; monitor pathotype emergence.",
+        # Field management
+        "Remove and destroy infected clumps; do not ratoon from infected plant crop.",
+        "Ensure well-drained fields; avoid waterlogging (predisposes to wilt + red rot).",
+        "Apply ZnSO4 (30 kg/ha) + Boron as foliar micronutrient to reduce susceptibility.",
+        "Intercrop with garlic or coriander (reduces incidence by ~20 %).",
+        # Surveillance
+        "Implement 15-day field scouting from July onwards (monsoon onset).",
+        "Track T2M_MIN, RH2M, and rainfall accumulation as early warning indicators.",
+    ],
+
+    # ── 7. Metadata ───────────────────────────────────────────────────────────
+    "confidence_level": "high",
+    "evidence_consensus": {
+        "latent_phase": "5/5 red rot papers confirm",
+        "accumulation_required": "5/5 red rot papers confirm",
+        "key_predictor": "T2M_MIN (15-day lag) — SMRA validated R² 0.82-0.87",
+        "outbreak_season": "July-October (monsoon)",
+        "peak_incidence_window": "2nd fortnight of August",
+        "climate_change_risk": "Elevated CO2 compresses latent period; extreme events increase risk",
+    },
+}
+
+# ── Write unified model ───────────────────────────────────────────────────────
+with open(OUT_PATH, "w", encoding="utf-8") as f:
+    json.dump(unified, f, indent=4, ensure_ascii=False)
+
+print(f"\n[DONE] Unified model saved -> {OUT_PATH}")
+print(f"       Disease  : {unified['disease']}")
+print(f"       Pathogen : {unified['pathogen']}")
+print(f"       Sources  : {len(all_records)} papers merged")
+print(f"       Features : {len(unified['final_feature_mapping']['weather_features'])} weather,"
+      f" {len(unified['final_feature_mapping']['temporal_features'])} temporal,"
+      f" {len(unified['final_feature_mapping']['agronomic_features'])} agronomic")
+print(f"       Advisory : {len(unified['final_advisory_actions'])} actions")

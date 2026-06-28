@@ -1,0 +1,78 @@
+{
+  "project_title": "Red Rot Early Warning System (V11 KG-CTCN)",
+  "system_characteristics": {
+    "target_disease": "Red Rot in Sugarcane (Colletotrichum falcatum)",
+    "paradigm": "Event-Driven Early Warning System (EWS)",
+    "lead_time_goal": "3-7 days (Optimal: 5 days)",
+    "outbreak_definition": "3 consecutive high-risk days",
+    "core_architecture": "Knowledge-Guided Causal Temporal Convolutional Network (KG-CTCN)"
+  },
+  "evolutionary_history": {
+    "v3": {
+      "model": "Random Forest / LSTM",
+      "features": "Engineered rolling windows",
+      "flaw": "Feature leakage (no .shift(1))",
+      "status": "Deprecated"
+    },
+    "v4": {
+      "model": "GRU",
+      "features": "14-day raw sequences",
+      "flaw": "Test-set threshold overfitting",
+      "status": "Experimental"
+    },
+    "v6": {
+      "model": "GRU Trajectory",
+      "innovation": "Biological onset labeling",
+      "status": "Research Baseline"
+    },
+    "v9": {
+      "model": "TCN",
+      "innovation": "Causal dilated convolutions",
+      "status": "Causal Baseline"
+    },
+    "v11": {
+      "model": "KG-CTCN",
+      "innovation": "Knowledge Graph + Multi-modal Fusion",
+      "status": "Production Target"
+    }
+  },
+  "core_innovations": [
+    {
+      "category": "Problem Formulation",
+      "detail": "Predicting outbreak risk using environmental proxy modeling without direct disease labels."
+    },
+    {
+      "category": "Temporal Modeling",
+      "detail": "Causal TCN with multi-scale dilated convolutions (7, 14, 28-day windows) to capture fungal incubation."
+    },
+    {
+      "category": "Evaluation Framework",
+      "detail": "Event-based metrics (Detection Success, Lead Time) over traditional daily accuracy."
+    },
+    {
+      "category": "Hybrid Architecture",
+      "detail": "Knowledge-guided modulation of weather risk by agronomic vulnerability (Variety susceptibility)."
+    }
+  ],
+  "dataset_schema": {
+    "weather_features": [
+      "RH2M (Relative Humidity)",
+      "T2M (Temperature)",
+      "PRECTOTCORR (Precipitation)",
+      "Humidity Streak (Persistence)",
+      "Temperature Lag (15-day)"
+    ],
+    "agronomic_features": [
+      "Variety Susceptibility",
+      "Crop Age",
+      "Ratoon Status",
+      "NDVI Trends"
+    ]
+  },
+  "performance_metrics_v11": {
+    "recall": "100% (Major Events)",
+    "avg_lead_time": "8.5 Days",
+    "fpr": "8.93%",
+    "causal_robustness": "Verified via Rainfall Shift (15d) tests"
+  }
+}

@@ -1,0 +1,4 @@
+Hyperparameters: HiddenSize=64, Layers=1, Epochs=20, BatchSize=32
+Training Time: 38.60s
+Best Threshold: 0.1
+Final F1: 0.2596

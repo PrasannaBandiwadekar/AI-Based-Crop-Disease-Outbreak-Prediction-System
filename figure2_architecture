@@ -1,0 +1,58 @@
+digraph {
+	bgcolor=white dpi=300 fontname=Helvetica fontsize=22 nodesep=0.7 pad=0.6 rankdir=LR ranksep=1.1 ratio=fill size="14,8!"
+	node [fontname=Helvetica fontsize=18 height=0.85 penwidth=1.8 shape=box style="rounded,filled" width=2.4]
+	edge [arrowsize=1.1 fontname=Helvetica fontsize=14 penwidth=2.0]
+	subgraph cluster_inputs {
+		bgcolor="#f9f9f9" color="#7f8c8d" fontname="Helvetica-Bold" fontsize=20 label=Inputs penwidth=1.5 style="rounded,dashed"
+		W [label="Weather Sequence
+(28 days)
+RH2M, T2M, Rain" color="#1a5276" fillcolor="#d6eaf8" fontcolor="#1a5276"]
+		A [label="Agronomic Inputs
+Variety, Age
+Ratoon, NDVI" color="#1e8449" fillcolor="#d5f5e3" fontcolor="#1e8449"]
+	}
+	subgraph cluster_tcn {
+		bgcolor="#eaf4fc" color="#1a5276" fontname="Helvetica-Bold" fontsize=20 label="Causal TCN Encoder" penwidth=2.0 style="rounded,filled"
+		T1 [label="TCN Layer 1
+dilation = 1" color="#1a5276" fillcolor="#aed6f1" fontcolor="#1a5276"]
+		T2 [label="TCN Layer 2
+dilation = 2" color="#1a5276" fillcolor="#7fb3d3" fontcolor="#1a5276"]
+		T3 [label="TCN Layer 3
+dilation = 4" color="#1a5276" fillcolor="#5499c7" fontcolor=white]
+		Ew [label="Temporal
+Embedding  Eᵥᵥ" color="#1a5276" fillcolor="#1a5276" fontcolor=white style="rounded,filled,bold"]
+	}
+	subgraph cluster_mlp {
+		bgcolor="#eafaf1" color="#1e8449" fontname="Helvetica-Bold" fontsize=20 label="Agronomic MLP Encoder" penwidth=2.0 style="rounded,filled"
+		M1 [label="MLP Layer 1
+ReLU" color="#1e8449" fillcolor="#a9dfbf" fontcolor="#1e8449"]
+		M2 [label="MLP Layer 2
+ReLU" color="#1e8449" fillcolor="#52be80" fontcolor=white]
+		Ea [label="Agronomic
+Embedding  Eₐ" color="#1e8449" fillcolor="#1e8449" fontcolor=white style="rounded,filled,bold"]
+	}
+	KG [label="Knowledge Graph
+Modulation Weights" color="#784212" fillcolor="#fdebd0" fontcolor="#784212" fontsize=17 height=1.1 penwidth=2.0 shape=diamond width=2.6]
+	subgraph cluster_fusion {
+		bgcolor="#f5eef8" color="#6c3483" fontname="Helvetica-Bold" fontsize=20 label="Knowledge-Guided Fusion" penwidth=2.0 style="rounded,filled"
+		F [label="Cross-Modal
+Attention Fusion" color="#6c3483" fillcolor="#c39bd3" fontcolor="#6c3483" width=2.6]
+		R [label="Risk Head
+σ(MLP(·))" color="#6c3483" fillcolor="#9b59b6" fontcolor=white width=2.6]
+	}
+	O [label="Risk Score
+0 → 1" color="#c0392b" fillcolor="#fdedec" fontcolor="#c0392b" fontname="Helvetica-Bold" fontsize=20 height=0.9 penwidth=2.5 shape=oval width=2.2]
+	W -> T1 [color="#1a5276"]
+	T1 -> T2 [color="#1a5276"]
+	T2 -> T3 [color="#1a5276"]
+	T3 -> Ew [color="#1a5276"]
+	A -> M1 [color="#1e8449"]
+	M1 -> M2 [color="#1e8449"]
+	M2 -> Ea [color="#1e8449"]
+	Ew -> F [color="#1a5276" penwidth=2.5]
+	Ea -> F [color="#1e8449" penwidth=2.5]
+	KG -> F [label="  biological
+  priors" color="#784212" penwidth=2.0 style=dashed]
+	F -> R [color="#6c3483" penwidth=2.5]
+	R -> O [color="#c0392b" penwidth=2.5]
+}

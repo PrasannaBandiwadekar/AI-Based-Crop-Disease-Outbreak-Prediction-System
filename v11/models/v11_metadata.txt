@@ -1,0 +1,3 @@
+weather_features=WS10M,T2M,RH2M,T2M_MIN,T2M_MAX,PRECTOTCORR,T2M_MIN_lag_15d,RH_high_flag,RH_persist_7d,Rain_sum_7d,Rain_sum_14d,Monsoon_ind,RH2M_latent_window,T2M_latent_window,RH2M_z90,T2M_z90,PRECTOTCORR_z90
+agro_features=variety_susceptibility,is_ratoon,crop_age_days
+seq_len=28

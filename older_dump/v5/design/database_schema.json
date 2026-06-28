@@ -1,0 +1,372 @@
+{
+    "schema_version": "v5",
+    "file": "v5/data/processed/dataset_v5.csv",
+    "generated_from": "scratch/build_dataset_v5.py",
+    "rows": 7270,
+    "total_columns": 41,
+    "feature_columns": 39,
+    "label_column": "outbreak_risk",
+    "date_range": {
+        "start": "2005-01-29",
+        "end": "2024-12-24"
+    },
+    "split_strategy": {
+        "train": "2005-01-29 to 2018-12-31",
+        "validation": "2019-01-01 to 2021-12-31",
+        "test": "2022-01-01 to 2024-12-24",
+        "type": "chronological"
+    },
+    "columns": [
+        {
+            "name": "date",
+            "dtype": "datetime",
+            "category": "index",
+            "description": "Calendar date (daily frequency, sorted ascending). Derived from YEAR + DOY columns in NASA POWER CSV.",
+            "source": "NASA POWER (computed)"
+        },
+        {
+            "name": "T2M",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "weather_raw",
+            "description": "Daily mean 2-metre air temperature.",
+            "source": "NASA POWER MERRA-2"
+        },
+        {
+            "name": "T2M_MIN",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "weather_raw",
+            "description": "Daily minimum 2-metre air temperature. Primary predictor in SMRA models (R² 0.82–0.87).",
+            "source": "NASA POWER MERRA-2"
+        },
+        {
+            "name": "T2M_MAX",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "weather_raw",
+            "description": "Daily maximum 2-metre air temperature.",
+            "source": "NASA POWER MERRA-2"
+        },
+        {
+            "name": "RH2M",
+            "dtype": "float",
+            "unit": "%",
+            "category": "weather_raw",
+            "description": "Daily mean relative humidity at 2 metres.",
+            "source": "NASA POWER MERRA-2"
+        },
+        {
+            "name": "PRECTOTCORR",
+            "dtype": "float",
+            "unit": "mm/day",
+            "category": "weather_raw",
+            "description": "Daily bias-corrected precipitation.",
+            "source": "NASA POWER MERRA-2"
+        },
+        {
+            "name": "T2M_roll3",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_rolling",
+            "window_days": 3,
+            "description": "3-day rolling mean of T2M (past data only, closed-right window ending at t)."
+        },
+        {
+            "name": "T2M_roll5",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_rolling",
+            "window_days": 5,
+            "description": "5-day rolling mean of T2M."
+        },
+        {
+            "name": "T2M_roll7",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_rolling",
+            "window_days": 7,
+            "description": "7-day rolling mean of T2M. Used in env_interaction_score."
+        },
+        {
+            "name": "T2M_roll14",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_rolling",
+            "window_days": 14,
+            "description": "14-day rolling mean of T2M. Primary accumulation window (domain-validated)."
+        },
+        {
+            "name": "T2M_roll28",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_rolling",
+            "window_days": 28,
+            "description": "28-day rolling mean of T2M. Captures long-term monsoon buildup trend."
+        },
+        {
+            "name": "T2M_MIN_roll3",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_rolling",
+            "window_days": 3,
+            "description": "3-day rolling mean of T2M_MIN."
+        },
+        {
+            "name": "T2M_MIN_roll7",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_rolling",
+            "window_days": 7,
+            "description": "7-day rolling mean of T2M_MIN."
+        },
+        {
+            "name": "T2M_MIN_roll14",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_rolling",
+            "window_days": 14,
+            "description": "14-day rolling mean of T2M_MIN. Smoothed version of the primary SMRA predictor."
+        },
+        {
+            "name": "RH2M_roll3",
+            "dtype": "float",
+            "unit": "%",
+            "category": "temporal_rolling",
+            "window_days": 3,
+            "description": "3-day rolling mean of RH2M."
+        },
+        {
+            "name": "RH2M_roll5",
+            "dtype": "float",
+            "unit": "%",
+            "category": "temporal_rolling",
+            "window_days": 5,
+            "description": "5-day rolling mean of RH2M."
+        },
+        {
+            "name": "RH2M_roll7",
+            "dtype": "float",
+            "unit": "%",
+            "category": "temporal_rolling",
+            "window_days": 7,
+            "description": "7-day rolling mean of RH2M. Used in env_interaction_score and early warning rules."
+        },
+        {
+            "name": "RH2M_roll14",
+            "dtype": "float",
+            "unit": "%",
+            "category": "temporal_rolling",
+            "window_days": 14,
+            "description": "14-day rolling mean of RH2M. Primary humidity accumulation indicator."
+        },
+        {
+            "name": "RH2M_roll28",
+            "dtype": "float",
+            "unit": "%",
+            "category": "temporal_rolling",
+            "window_days": 28,
+            "description": "28-day rolling mean of RH2M. Long-term monsoon humidity trend."
+        },
+        {
+            "name": "PREC_sum3",
+            "dtype": "float",
+            "unit": "mm",
+            "category": "temporal_rolling",
+            "window_days": 3,
+            "description": "3-day rolling sum of PRECTOTCORR."
+        },
+        {
+            "name": "PREC_sum5",
+            "dtype": "float",
+            "unit": "mm",
+            "category": "temporal_rolling",
+            "window_days": 5,
+            "description": "5-day rolling sum of PRECTOTCORR."
+        },
+        {
+            "name": "PREC_sum7",
+            "dtype": "float",
+            "unit": "mm",
+            "category": "temporal_rolling",
+            "window_days": 7,
+            "description": "7-day rolling sum of PRECTOTCORR. Used in env_interaction_score."
+        },
+        {
+            "name": "PREC_sum14",
+            "dtype": "float",
+            "unit": "mm",
+            "category": "temporal_rolling",
+            "window_days": 14,
+            "description": "14-day rolling sum of PRECTOTCORR. Base for rainfall_accumulation_14d."
+        },
+        {
+            "name": "PREC_sum28",
+            "dtype": "float",
+            "unit": "mm",
+            "category": "temporal_rolling",
+            "window_days": 28,
+            "description": "28-day rolling sum of PRECTOTCORR. Captures full monsoon rainfall load."
+        },
+        {
+            "name": "T2M_MIN_lag15",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_lag",
+            "lag_days": 15,
+            "description": "T2M_MIN value 15 days ago. PRIMARY LAG FEATURE — SMRA validated R² 0.82–0.87. Negatively correlated with current-day disease incidence.",
+            "leakage_free": true
+        },
+        {
+            "name": "T2M_lag15",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_lag",
+            "lag_days": 15,
+            "description": "T2M value 15 days ago."
+        },
+        {
+            "name": "RH2M_lag15",
+            "dtype": "float",
+            "unit": "%",
+            "category": "temporal_lag",
+            "lag_days": 15,
+            "description": "RH2M value 15 days ago. Secondary SMRA predictor."
+        },
+        {
+            "name": "PREC_lag15",
+            "dtype": "float",
+            "unit": "mm",
+            "category": "temporal_lag",
+            "lag_days": 15,
+            "description": "PRECTOTCORR value 15 days ago."
+        },
+        {
+            "name": "T2M_MIN_lag7",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_lag",
+            "lag_days": 7,
+            "description": "T2M_MIN value 7 days ago. Short-term lag for faster signal detection."
+        },
+        {
+            "name": "RH2M_lag7",
+            "dtype": "float",
+            "unit": "%",
+            "category": "temporal_lag",
+            "lag_days": 7,
+            "description": "RH2M value 7 days ago."
+        },
+        {
+            "name": "T2M_MIN_lag28",
+            "dtype": "float",
+            "unit": "deg C",
+            "category": "temporal_lag",
+            "lag_days": 28,
+            "description": "T2M_MIN value 28 days ago. Long-term pre-monsoon baseline signal."
+        },
+        {
+            "name": "month",
+            "dtype": "int",
+            "range": [1, 12],
+            "category": "domain",
+            "description": "Calendar month (1–12). Explicit seasonality signal for the model."
+        },
+        {
+            "name": "day_of_year",
+            "dtype": "int",
+            "range": [1, 366],
+            "category": "domain",
+            "description": "Day of year (1–366). Continuous intra-annual seasonality encoding."
+        },
+        {
+            "name": "monsoon_flag",
+            "dtype": "int",
+            "values": [0, 1],
+            "category": "domain",
+            "description": "1 if month is in [6,7,8,9,10] (monsoon season), else 0. Hard seasonal gate aligned with red rot outbreak biology."
+        },
+        {
+            "name": "temperature_suitability_flag",
+            "dtype": "int",
+            "values": [0, 1],
+            "category": "domain",
+            "description": "1 if 29 <= T2M <= 33 (optimum pathogen growth range), else 0."
+        },
+        {
+            "name": "temp_suitable_days_14d",
+            "dtype": "float",
+            "range": [0, 14],
+            "category": "domain",
+            "description": "Count of days in the past 14 days where temperature_suitability_flag == 1."
+        },
+        {
+            "name": "humidity_streak_days",
+            "dtype": "int",
+            "range": [0, null],
+            "category": "domain",
+            "description": "Consecutive days (up to t) where RH2M >= 82 %. Resets to 0 on any dry day. Captures sustained humidity accumulation."
+        },
+        {
+            "name": "rainfall_streak_days",
+            "dtype": "int",
+            "range": [0, null],
+            "category": "domain",
+            "description": "Consecutive days (up to t) where PRECTOTCORR > 5 mm. Captures continuous rain-splash dispersal risk."
+        },
+        {
+            "name": "rainfall_accumulation_14d",
+            "dtype": "float",
+            "unit": "mm",
+            "range_observed": [0.0, 273.11],
+            "category": "domain_improved",
+            "description": "Alias of PREC_sum14. Explicit 14-day rainfall accumulation signal. Domain-validated primary rainfall feature for outbreak prediction.",
+            "source_feature": "PREC_sum14"
+        },
+        {
+            "name": "env_interaction_score",
+            "dtype": "int",
+            "values": [0, 1, 2, 3],
+            "category": "domain_improved",
+            "description": "Composite environmental interaction score (0–3). Each past-7-day condition contributes 1 point: (RH2M_roll7 >= 82) + (T2M_roll7 in [29,33]) + (PREC_sum7 >= 15). Uses ONLY past rolling data (no leakage). Score of 3 = all risk conditions simultaneously met.",
+            "leakage_free": true
+        },
+        {
+            "name": "outbreak_risk",
+            "dtype": "int",
+            "values": [0, 1],
+            "category": "label",
+            "description": "Binary outbreak risk label for the future window t+3 to t+7. Label=1 if at least 2 of 3 conditions are met over the 5-day future window: (1) mean T2M in [29,33], (2) mean RH2M >= 82, (3) sum PRECTOTCORR >= 20 mm. Strictly leakage-free.",
+            "prediction_window_days": [3, 7],
+            "class_distribution": {
+                "positive_1": "1021 rows (14.0%)",
+                "negative_0": "6249 rows (86.0%)",
+                "imbalance_ratio": "1:6"
+            },
+            "leakage_free": true
+        }
+    ],
+    "leakage_guarantee": {
+        "features_use_data": "<= t (past and present only)",
+        "label_uses_data": "t+3 to t+7 (future only)",
+        "rolling_alignment": "closed-right window ending at t",
+        "lag_alignment": "shift(n) returns value at t-n",
+        "label_alignment": "shift(-k) used ONLY for label construction, never in features"
+    },
+    "missing_value_policy": {
+        "nasa_sentinel": "-999 replaced with NaN",
+        "forward_fill_limit": 3,
+        "rows_dropped_if_gap_exceeds": 3
+    },
+    "drop_rules": {
+        "warmup_rows_dropped": 28,
+        "tail_rows_dropped": 7,
+        "reason": "First 28 rows lack sufficient rolling history (28-day window); last 7 rows have no valid future label window."
+    },
+    "model_training_notes": {
+        "recommended_class_weight": "balanced OR pos_weight=6 for XGBoost/LightGBM",
+        "scaler_rule": "Fit on train split only; apply to validation and test",
+        "do_not_shuffle": true,
+        "preserve_chronological_order": true
+    }
+}

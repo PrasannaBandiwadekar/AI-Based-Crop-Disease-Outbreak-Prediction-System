@@ -1,0 +1,62 @@
+{
+  "pipeline_version": "v11.6",
+  "weather_features": [
+    "WS10M",
+    "T2M",
+    "RH2M",
+    "T2M_MIN",
+    "T2M_MAX",
+    "PRECTOTCORR",
+    "T2M_MIN_lag_15d",
+    "RH_high_flag",
+    "RH_persist_7d",
+    "Rain_sum_7d",
+    "Rain_sum_14d",
+    "Monsoon_ind",
+    "RH2M_latent_window",
+    "T2M_latent_window"
+  ],
+  "agro_features": [
+    "variety_susceptibility",
+    "is_ratoon",
+    "crop_age_days"
+  ],
+  "seq_len": 28,
+  "num_epochs": 60,
+  "optimal_threshold": 0.08607366681098938,
+  "augmentation": {
+    "factor": 4,
+    "noise_std": 0.05,
+    "noise_features": [
+      "WS10M",
+      "T2M",
+      "RH2M",
+      "T2M_MIN",
+      "T2M_MAX",
+      "PRECTOTCORR",
+      "T2M_MIN_lag_15d",
+      "RH2M_latent_window",
+      "T2M_latent_window"
+    ]
+  },
+  "loss_weights": {
+    "bce": 1.0,
+    "focal": 0.5,
+    "agronomic_monotonicity": 0.1,
+    "mono_warmup_epochs": 20,
+    "mono_batch_subsample": 4,
+    "causal_consistency": 0.0
+  },
+  "train_years": [
+    2005,
+    2018
+  ],
+  "val_years": [
+    2019,
+    2021
+  ],
+  "test_years": [
+    2022,
+    2024
+  ]
+}

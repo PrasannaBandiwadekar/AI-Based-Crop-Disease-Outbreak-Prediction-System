@@ -1,0 +1,21 @@
+year,status,confidence,source,notes,candidate_count,events_generated,warning,peak_dates
+2005,SKIPPED_UNKNOWN,UNKNOWN,No source found,Check VSIT 2005 report — dataset starts this year,0,0,,
+2006,OUTBREAK,HIGH,VSIT Annual Report 2006; IMD above-normal monsoon,Verify Sangli district specifically vs state-level,52,2,,2006-07-07; 2006-09-21
+2007,OUTBREAK,HIGH,VSIT Annual Report 2007; Vishwakarma et al. 2013 Sugar Tech,Pathotype Cf 267 dominant this season per SBI records,84,2,,2007-06-23; 2007-09-03
+2008,OUTBREAK,HIGH,VSIT Annual Report 2008; ICAR-SBI Technical Bulletin,,57,2,,2008-06-16; 2008-09-11
+2009,OUTBREAK,HIGH,VSIT Annual Report 2009; Malve et al. 2018 JPSAS,Late monsoon withdrawal extended humidity window,56,2,,2009-07-12; 2009-08-27
+2010,OUTBREAK,MEDIUM,IMD above-normal; Maharashtra Sugar Federation 2010 season,Federation report mentions disease losses — verify Red Rot specifically,66,2,,2010-06-18; 2010-08-27
+2011,OUTBREAK,MEDIUM,IMD near-normal; indirect reference Prajapati et al. 2020,Lower confidence — replace with VSIT data if available,75,3,,2011-06-14; 2011-07-30; 2011-09-17
+2012,CLEAN,HIGH,IMD deficit monsoon 2012; no VSIT disease alerts,2012 Maharashtra drought year — Red Rot pressure very low,58,0,"Filter fired on confirmed-clean year (max intensity: 558.69). Expected in monsoon climate — literature annotation is authoritative, not this filter.",
+2013,CLEAN,HIGH,VSIT Annual Report 2013; IMD near-normal,,73,0,"Filter fired on confirmed-clean year (max intensity: 981.46). Expected in monsoon climate — literature annotation is authoritative, not this filter.",
+2014,CLEAN,MEDIUM,IMD near-normal; no major reports found,Verify with VSIT — absence of report ≠ confirmed clean,49,0,"Filter fired on confirmed-clean year (max intensity: 698.66). Expected in monsoon climate — literature annotation is authoritative, not this filter.",
+2015,OUTBREAK,MEDIUM,IMD above-normal Oct 2015; VSIT report pending verification,Late-season event — check Oct/Nov candidates specifically,30,2,,2015-06-20; 2015-10-13
+2016,CLEAN,MEDIUM,IMD near-normal Madhya Maharashtra; no reports,,55,0,"Filter fired on confirmed-clean year (max intensity: 778.46). Expected in monsoon climate — literature annotation is authoritative, not this filter.",
+2017,CLEAN,MEDIUM,IMD near-normal; no reports found,,59,0,"Filter fired on confirmed-clean year (max intensity: 531.03). Expected in monsoon climate — literature annotation is authoritative, not this filter.",
+2018,SKIPPED_UNKNOWN,UNKNOWN,Conflicting signals — IMD near-normal but one indirect ref,Verify before including,42,0,,
+2019,OUTBREAK,HIGH,IMD excess monsoon 2019; Prajapati et al. 2020 Indian Phytopathology,2019 was a documented high-pressure year nationally,93,3,,2019-10-26; 2019-06-19; 2019-09-10
+2020,OUTBREAK,HIGH,IMD above-normal; VSIT Annual Report 2020,Extended monsoon into Oct 2020,105,2,,2020-06-24; 2020-09-21
+2021,SKIPPED_UNKNOWN,UNKNOWN,IMD above-normal 2021 but no explicit disease report found,Could be outbreak year — verify with VSIT 2021 report,60,0,,
+2022,CLEAN,MEDIUM,IMD near-normal; no reports found 2022,Recent — may need field contact to confirm,54,0,"Filter fired on confirmed-clean year (max intensity: 915.28). Expected in monsoon climate — literature annotation is authoritative, not this filter.",
+2023,CLEAN,MEDIUM,IMD near-normal 2023,,53,0,"Filter fired on confirmed-clean year (max intensity: 851.15). Expected in monsoon climate — literature annotation is authoritative, not this filter.",
+2024,SKIPPED_UNKNOWN,UNKNOWN,Insufficient data,Recent — field reports only,79,0,,

@@ -1,0 +1,132 @@
+
+=== FINAL AUDIT RECOMMENDATIONS ===
+Generated : 2026-04-20 11:50:58
+
+ YES/NO CONCLUSIONS 
+
+   Data Leakage?               YES 
+   Target Alignment Correct?   YES 
+   14-Day Features Complete?   PARTIAL 
+   Temporal Signal Present?    WEAK 
+   Dataset Row-Based?          YES  baked-in rolling/lag features
+   LSTM Ready?                 NO  needs reshape 
+
+ CRITICAL FIXES (Priority Order) 
+
+  [P1] FIX LEAKAGE in feature_engg.py (if confirmed):
+       Add .shift(1) to ALL rolling windows:
+         df['temp_mean_3d']  = df['T2M'].rolling(3).mean().shift(1)
+         df['temp_mean_7d']  = df['T2M'].rolling(7).mean().shift(1)
+         df['temp_mean_14d'] = df['T2M'].rolling(14).mean().shift(1)
+         df['rain_3d']       = df['PRECTOTCORR'].rolling(3).sum().shift(1)
+         df['rain_7d']       = df['PRECTOTCORR'].rolling(7).sum().shift(1)
+         df['rain_14d']      = df['PRECTOTCORR'].rolling(14).sum().shift(1)
+         df['rh_3d']         = df['RH2M'].rolling(3).mean().shift(1)
+         df['rh_7d']         = df['RH2M'].rolling(7).mean().shift(1)
+
+  [P2] ADD MISSING 14-DAY FEATURES to feature_engg.py:
+         df['humidity_mean_14d']  = df['RH2M'].rolling(14).mean().shift(1)
+         df['humidity_var_14d']   = df['RH2M'].rolling(14).std().shift(1)
+         df['temp_var_14d']       = df['T2M'].rolling(14).std().shift(1)
+         df['rain_days_14d']      = (df['PRECTOTCORR'] > 1).rolling(14).sum().shift(1)
+         df['humid_persistence']  = (df['RH2M'] > 85).rolling(14).sum().shift(1)
+
+  [P3] TEMPORAL SIGNAL (WEAK):
+        Rolling/lag features bake in enough context. RF still valid, LSTM would add benefit.
+
+  [P4] REDUNDANT FEATURES (corr > 0.95):
+              T2M  T2M_MIN = 0.9916
+       T2M  T2M_MAX = 0.9933
+       T2M  temp_mean_3d = 0.9767
+       T2M  temp_lag_1 = 0.9633
+       T2M_MIN  T2M_MAX = 0.9741
+       T2M_MIN  temp_mean_3d = 0.9734
+       T2M_MIN  temp_lag_1 = 0.963
+       T2M_MAX  temp_mean_3d = 0.9698
+       T2M_MAX  temp_lag_1 = 0.955
+       temp_mean_3d  temp_mean_7d = 0.9706
+
+  [P5] LSTM PATHWAY:
+       Current dataset is ROW-BASED.
+For LSTM, apply sliding window transformation:
+
+  from reshape_sequences.py (already in project):
+    WINDOW_SIZE = 14
+    X[i] = df[i-14:i][feature_cols].values   shape: (14, N_features)
+    y[i] = df[i]['target_5d']
+
+  Output shape: (samples, 14, N_features)  feed directly to LSTM.
+
+ SEASONAL BIAS ANALYSIS 
+  Positive target (disease risk) by month:
+_month
+5      1
+6     66
+7     96
+8     51
+9     68
+10     9
+11     5
+12     2
+
+   Monsoon months (Jun-Sep) likely dominate. Model may be learning monsoon,
+    not disease cycle. Adding 14d humidity/rain variance helps differentiate.
+
+ REDUNDANT FEATURE PAIRS (review > 0.85) 
+  Pairs corr > 0.95 (redundant):
+    T2M  T2M_MIN = 0.9916
+    T2M  T2M_MAX = 0.9933
+    T2M  temp_mean_3d = 0.9767
+    T2M  temp_lag_1 = 0.9633
+    T2M_MIN  T2M_MAX = 0.9741
+    T2M_MIN  temp_mean_3d = 0.9734
+    T2M_MIN  temp_lag_1 = 0.963
+    T2M_MAX  temp_mean_3d = 0.9698
+    T2M_MAX  temp_lag_1 = 0.955
+    temp_mean_3d  temp_mean_7d = 0.9706
+    temp_mean_3d  temp_lag_1 = 0.9932
+    temp_mean_3d  temp_lag_2 = 0.9767
+    temp_mean_7d  temp_mean_14d = 0.9732
+    temp_mean_7d  temp_lag_1 = 0.9564
+    temp_mean_7d  temp_lag_2 = 0.9687
+    temp_mean_7d  temp_lag_3 = 0.9727
+    rh_3d  rh_lag_1 = 0.9745
+    temp_lag_1  temp_lag_2 = 0.9633
+    temp_lag_2  temp_lag_3 = 0.9633
+    month  dayofyear = 0.9965
+    month  week = 0.9736
+    dayofyear  week = 0.9753
+
+  Pairs corr 0.85-0.95 (review):
+    WS10M  wind_3d = 0.9422
+    T2M  temp_mean_7d = 0.9349
+    T2M  temp_mean_14d = 0.9004
+    T2M  temp_lag_2 = 0.9147
+    T2M  temp_lag_3 = 0.877
+    RH2M  rh_3d = 0.9316
+    RH2M  rh_lag_1 = 0.8827
+    T2M_MIN  temp_mean_7d = 0.931
+    T2M_MIN  temp_mean_14d = 0.8965
+    T2M_MIN  temp_lag_2 = 0.9137
+    T2M_MIN  temp_lag_3 = 0.8746
+    T2M_MAX  temp_mean_7d = 0.9316
+    T2M_MAX  temp_mean_14d = 0.8983
+    T2M_MAX  temp_lag_2 = 0.9094
+    T2M_MAX  temp_lag_3 = 0.8745
+    temp_mean_3d  temp_mean_14d = 0.9315
+    temp_mean_3d  temp_lag_3 = 0.935
+    temp_mean_7d  temp_lag_7 = 0.9063
+    temp_mean_14d  temp_lag_1 = 0.9165
+    temp_mean_14d  temp_lag_2 = 0.9281
+
+ LOW-VARIANCE FEATURES (consider removing) 
+    dry_to_wet_trigger
+    heat_stress
+    cold_stress
+
+ NEXT STEPS 
+  1. Fix leakage  re-run feature_engg.py  re-run forecast_dataset.py
+  2. Add missing 14d features (humidity_mean_14d, variances)
+  3. Re-run this audit to confirm clean dataset
+  4. Train final model on corrected dataset
+  5. Verify monthly AUC in temporal_performance.png  monsoon vs non-monsoon

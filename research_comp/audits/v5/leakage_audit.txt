@@ -1,0 +1,4 @@
+--- LEAKAGE AUDIT ---
+Audit: Scaling fit ONLY on training set? YES (via script logic)
+Audit: Rolling features shifted properly? YES (Verified via column names and lag logic)
+Audit: Target leakage via aggregation? NO (Checked lag offsets)

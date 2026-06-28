@@ -1,0 +1,54 @@
+{
+    "paper_type": "management",
+    "disease": "red_rot",
+    "mechanism": {
+        "infection_process": "Primary infection via seed-borne and soil-borne inoculum. Infected setts introduce the pathogen; secondary spread occurs via rain-splash dispersal of conidia and spindle infection.",
+        "spread_modes": [
+            "Rain water and rain-splash dispersal of conidia",
+            "Secondary spread through spindle infection and nodal rotting",
+            "Water-borne movement along vascular bundles"
+        ],
+        "progression_pattern": "Early leaf drooping and colour loss → rotten setts and dull/shrunken rind → reddened pith with white spots and alcoholic odour → extensive internal rotting and plant death."
+    },
+    "environmental_drivers": {
+        "temperature": "Optimal disease development at 29–31 °C; disease flares during grand growth phase at 24–30 °C.",
+        "humidity": "85–100 % RH required for severe outbreaks.",
+        "rainfall": "Heavy/unseasonal rains and cloud cover provide moisture for rain-splash inoculum dispersal. Rainy days are the key trigger.",
+        "variability": "Variability in rainfall intensity and timing (heavy or unseasonal rain) increases outbreak risk."
+    },
+    "temporal_behavior": {
+        "latent_phase": true,
+        "requires_accumulation": true,
+        "delay_description": "Latent period of several days to weeks. Spindle infection shows secondary spread ~7 days after inoculation; mid-rib infection may take >1 month before visible symptoms."
+    },
+    "feature_mapping": {
+        "weather_features": [
+            "T2M (29–31 °C optimal)",
+            "T2M_MIN (24 °C)",
+            "T2M_MAX (31 °C)",
+            "RH2M (85–100 %)",
+            "PRECTOTCORR (rainy days)"
+        ],
+        "temporal_features": [
+            "lag_features (latent period days–weeks)",
+            "rolling_windows (3–14 day sustained favorable conditions)"
+        ],
+        "agronomic_features": [
+            "variety_susceptibility",
+            "sett_health",
+            "field_sanitation"
+        ]
+    },
+    "outbreak_logic": {
+        "requires_sustained_conditions": true,
+        "supports_early_warning": true,
+        "threshold_type": "variable"
+    },
+    "advisory_actions": [
+        "Use resistant varieties (Co 98015, Co 98016, Co 285, Cos-109, Cos-443, Bo 3, Bo 32).",
+        "Seed treatment: MHAT at 54 °C for 2 hours (more effective than hot-water at 50 °C).",
+        "Field sanitation: use disease-free setts, well-drained fields, avoid ratooning infected crop.",
+        "Quarantine infected plots; apply proper water management."
+    ],
+    "confidence_level": "high"
+}

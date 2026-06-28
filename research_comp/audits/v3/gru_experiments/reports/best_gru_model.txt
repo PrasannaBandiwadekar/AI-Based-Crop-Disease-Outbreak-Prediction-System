@@ -1,0 +1,13 @@
+=== Best GRU Model ===
+
+Experiment ID: 7
+Hidden: 128
+Layers: 1
+Dropout: 0.2
+LR: 0.0005
+Epochs: 25
+Best Threshold: 0.1
+F1-Score: 0.3224
+Precision: 0.2988
+Recall: 0.3500
+ROC-AUC: 0.8216

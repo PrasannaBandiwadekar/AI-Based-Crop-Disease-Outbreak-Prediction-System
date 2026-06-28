@@ -1,0 +1,22 @@
+=== Multi-Window Temporal Pipeline Summary ===
+
+1. Best Window Size: 5 days (F1-Score: 0.0417)
+
+2. Performance Trend vs Window:
+   - Window 3d: F1=0.0141, AUC=0.8157
+   - Window 5d: F1=0.0417, AUC=0.8301
+   - Window 7d: F1=0.0142, AUC=0.8232
+   - Window 14d: F1=0.0000, AUC=0.8671
+   - Window 28d: F1=0.0000, AUC=0.8799
+
+3. Does longer history help? No. 
+   (F1 went from 0.0141 at 3d to 0.0000 at 28d)
+
+4. Temporal Signal Strength:
+   - Window 3d: Temporal F1=0.0141, Shuffled F1=0.0408 (Diff: -0.0267)
+   - Window 5d: Temporal F1=0.0417, Shuffled F1=0.0000 (Diff: 0.0417)
+   - Window 7d: Temporal F1=0.0142, Shuffled F1=0.0211 (Diff: -0.0069)
+   - Window 14d: Temporal F1=0.0000, Shuffled F1=0.0851 (Diff: -0.0851)
+   - Window 28d: Temporal F1=0.0000, Shuffled F1=0.1786 (Diff: -0.1786)
+
+   Conclusion: Weak temporal signal or high data leakage when shuffled.

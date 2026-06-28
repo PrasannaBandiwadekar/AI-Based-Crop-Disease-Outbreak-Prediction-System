@@ -1,0 +1,96 @@
+V9 TCN DATA LEAKAGE AUDIT
+==================================================
+
+Baseline: Recall=0.0000, FPR=0.0000
+
+Task 1: Feature Dependency Audit
+               feature           type  window_days leakage_risk
+                  RH2M  instantaneous          NaN          LOW
+                   T2M  instantaneous          NaN          LOW
+               T2M_MAX  instantaneous          NaN          LOW
+               T2M_MIN  instantaneous          NaN          LOW
+           PRECTOTCORR        unknown          NaN      UNKNOWN
+          RH2M_mean_14        unknown          NaN      UNKNOWN
+          RH2M_mean_28 rolling_window         28.0  MEDIUM-HIGH
+           T2M_mean_14        unknown          NaN      UNKNOWN
+           T2M_mean_28 rolling_window         28.0  MEDIUM-HIGH
+       humidity_streak        unknown          NaN      UNKNOWN
+           temp_streak        unknown          NaN      UNKNOWN
+       rainfall_streak        unknown          NaN      UNKNOWN
+        rainfall_sum_3        unknown          NaN      UNKNOWN
+        T2M_MIN_lag_15      lag_based         15.0          LOW
+           RH2M_lag_15      lag_based         15.0          LOW
+           RH2M_diff_1        derived          1.0          LOW
+            RH2M_accel        derived          2.0          LOW
+                  NDVI  instantaneous          NaN          LOW
+          NDVI_trend_7 rolling_window          7.0       MEDIUM
+variety_susceptibility         static          NaN          LOW
+           ratoon_flag         static          NaN          LOW
+      sanitation_score         static          NaN          LOW
+
+Task 2: Shift-Based Leakage Test
+ shift_days  recall  fpr  delta_recall           verdict
+          1     0.0  0.0           0.0 LEAKAGE SUSPECTED
+          3     0.0  0.0           0.0 LEAKAGE SUSPECTED
+          7     0.0  0.0           0.0 LEAKAGE SUSPECTED
+
+Task 3: Feature Isolation Influence
+        feature  recall_masked  fpr_masked  delta_recall influence leakage_candidate
+           RH2M            0.0         0.0           0.0       LOW                no
+            T2M            0.0         0.0           0.0       LOW                no
+        T2M_MAX            0.0         0.0           0.0       LOW                no
+        T2M_MIN            0.0         0.0           0.0       LOW                no
+    PRECTOTCORR            0.0         0.0           0.0       LOW                no
+   RH2M_mean_14            0.0         0.0           0.0       LOW                no
+   RH2M_mean_28            0.0         0.0           0.0       LOW                no
+    T2M_mean_14            0.0         0.0           0.0       LOW                no
+    T2M_mean_28            0.0         0.0           0.0       LOW                no
+humidity_streak            0.0         0.0           0.0       LOW                no
+    temp_streak            0.0         0.0           0.0       LOW                no
+rainfall_streak            0.0         0.0           0.0       LOW                no
+ rainfall_sum_3            0.0         0.0           0.0       LOW                no
+ T2M_MIN_lag_15            0.0         0.0           0.0       LOW                no
+    RH2M_lag_15            0.0         0.0           0.0       LOW                no
+    RH2M_diff_1            0.0         0.0           0.0       LOW                no
+     RH2M_accel            0.0         0.0           0.0       LOW                no
+
+Task 4: Temporal Causality
+     event        feature  pre_mean  post_mean          direction
+2005-09-05           RH2M    81.934     88.230    BEFORE (causal)
+2005-09-05 rainfall_sum_3     1.492     17.305 AFTER (suspicious)
+2005-09-05   RH2M_mean_14    82.220     83.302    BEFORE (causal)
+2005-09-05    RH2M_diff_1     0.399      0.262    BEFORE (causal)
+2007-08-26           RH2M    82.569     88.622    BEFORE (causal)
+2007-08-26 rainfall_sum_3     3.370     17.155 AFTER (suspicious)
+2007-08-26   RH2M_mean_14    82.926     83.758    BEFORE (causal)
+2007-08-26    RH2M_diff_1     0.270      0.878 AFTER (suspicious)
+2008-08-10           RH2M    82.979     85.118    BEFORE (causal)
+2008-08-10 rainfall_sum_3     8.179     13.650 AFTER (suspicious)
+2008-08-10   RH2M_mean_14    83.011     83.496    BEFORE (causal)
+2008-08-10    RH2M_diff_1    -0.032      0.637 AFTER (suspicious)
+2009-08-18           RH2M    83.871     85.658    BEFORE (causal)
+2009-08-18 rainfall_sum_3     0.410     12.188 AFTER (suspicious)
+2009-08-18   RH2M_mean_14    84.702     84.211    BEFORE (causal)
+2009-08-18    RH2M_diff_1    -0.102      1.515 AFTER (suspicious)
+2010-06-26           RH2M    83.154     81.475    BEFORE (causal)
+2010-06-26 rainfall_sum_3    53.917     38.655    BEFORE (causal)
+2010-06-26   RH2M_mean_14    81.848     82.947    BEFORE (causal)
+2010-06-26    RH2M_diff_1    -0.066     -0.965    BEFORE (causal)
+2011-07-15           RH2M    83.111     84.938    BEFORE (causal)
+2011-07-15 rainfall_sum_3    15.191     22.332 AFTER (suspicious)
+2011-07-15   RH2M_mean_14    83.013     83.395    BEFORE (causal)
+2011-07-15    RH2M_diff_1    -0.029      0.232 AFTER (suspicious)
+2015-10-10           RH2M    78.583     86.808    BEFORE (causal)
+2015-10-10 rainfall_sum_3     7.197     21.208 AFTER (suspicious)
+2015-10-10   RH2M_mean_14    76.771     81.571    BEFORE (causal)
+2015-10-10    RH2M_diff_1     0.492      1.713 AFTER (suspicious)
+2019-06-23           RH2M    85.041     86.248    BEFORE (causal)
+2019-06-23 rainfall_sum_3    48.663     19.540    BEFORE (causal)
+2019-06-23   RH2M_mean_14    83.103     85.524    BEFORE (causal)
+2019-06-23    RH2M_diff_1     0.382      0.690 AFTER (suspicious)
+2020-07-02           RH2M    83.826     83.802    BEFORE (causal)
+2020-07-02 rainfall_sum_3    23.684     51.297 AFTER (suspicious)
+2020-07-02   RH2M_mean_14    82.556     84.007    BEFORE (causal)
+2020-07-02    RH2M_diff_1     0.116     -1.040    BEFORE (causal)
+
+LEAKAGE STATUS: SUSPICIOUS

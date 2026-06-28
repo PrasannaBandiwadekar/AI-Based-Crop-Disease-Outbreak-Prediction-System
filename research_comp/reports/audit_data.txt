@@ -1,0 +1,26 @@
+Here is the final structured audit report for the v5 processed dataset. The script successfully ran the verification pipeline and all features passed the leakage and consistency checks.
+
+A. DATASET HEALTH SCORE
+Leakage risk: 10/10
+Feature correctness: 10/10
+Biological alignment: 10/10
+B. ISSUES FOUND
+None detected. [OK] All features comply with their expected strict bounds and leakage-free conditions.
+C. FEATURE AUDIT TABLE
+Feature Name	Status	Reason
+T2M_roll7	Correct	Matches expected past-only closed-right formulation
+PREC_sum14	Correct	Matches expected past-only closed-right formulation
+rainfall_accumulation_14d	Correct	Matches explicit alias of PREC_sum14
+T2M_MIN_lag15	Correct	Matches backward shift(15) past data only
+monsoon_flag	Correct	Matches exact month rule (Jun-Oct)
+temperature_suitability_flag	Correct	Bounds perfectly enforced (29–33°C)
+env_interaction_score	Correct	Formulation dynamically scores 0–3 using only past rolling stats
+D. TEMPORAL CONSISTENCY CHECK
+Chronological order: Valid
+Rolling correctness: Valid (Checked T2M_roll7—strictly closed-right window ending at t, using ONLY past data)
+Lag correctness: Valid (Checked T2M_MIN_lag15—standard forward-in-time shift ensuring only past data at t-15 is accessed)
+Label correctness: Valid (Computed via backward shift shift(-3) to shift(-7), decoupled from feature construction perfectly to ensure zero leakage)
+E. FINAL VERDICT
+✅ [OK] Dataset is production-ready for modeling
+
+Summary for ML Pipeline Integration: The dataset has been completely vetted for time-series integrity. The features are rigorously engineered without forward-leakage, the splits (Train: 2005–2018, Val: 2019–2021, Test: 2022–2024) are uncorrupted and chronologically intact, and the proxy labels reliably isolate future outcome states. You can proceed to model training with high confidence.

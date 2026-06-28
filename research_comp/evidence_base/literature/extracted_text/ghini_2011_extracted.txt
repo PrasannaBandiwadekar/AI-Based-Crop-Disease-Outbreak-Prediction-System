@@ -1,0 +1,1261 @@
+REVIEW
+Diseases in tropical and plantation crops as affected by
+climate changes: current knowledge and perspectives
+R. Ghini*, W. Bettiol and E. Hamada
+Embrapa Environment, CP69, CEP 13820-000 Jaguariu´na, SP, Brazil
+Tropical and plantation crops include important crops for food security and alternative energy resources. Even so, there are
+few studies on the impact of climate change on diseases of thesecrops. Findings from previous studies concerning some cli-
+mate-change effects on diseases of coffee,sugarcane, eucalyptus, cassava, citrus, banana, pineapple, cashew, coconut and
+papaya have been summarized to provide a context. By revi ewing available methods to evaluate the impact of climate
+change on diseases of tropical and plantation crops, we present trends for some diseases and their management strategies,
+identify critical gaps in knowledge, and suggest experimentaland analytical approaches to advance knowledge. As the pro-
+jected climate conditions will probably vary greatly in the future from continent to continent and from developed to develop-
+ing countries, studies must be conducted under tropical regi ons considering their speciﬁc environmental conditions.
+Multifactor studies under realistic ﬁeld situations, such as free air CO2 enrichment with increasing CO2 and O3 concentra-
+tions incorporating spectral reﬂectance measuresin situ for realistic assessment of plant growth, are a way forward. Effects
+of a changing climate on chemical and biological controls are discussed in the context of changing global outlook on envi-
+ronmental demands for the future.
+Keywords: atmospheric CO 2 and O 3 concentration, crop management strategies, FACE facilities, open top cham-
+bers, tropical plant diseases
+Introduction
+Potential effects of climate change on agriculture, accord-
+ing to the IPCC (Solomon et al., 2007), include reduced
+yields in warmer regions as a result of heat stress; damage
+to crops, soil erosion and inability to cultivate land
+caused by heavy precipitation events; and land degrada-
+tion resulting from increasing drought. Crop simulation
+models, driven by future climate scenarios from global
+circulation models, suggest that the reduction in agricul-
+tural production would be more severe in tropical
+regions, where there is still a shortage of food production
+(Cerri et al., 2007).
+Certainly, the increased frequency of extreme weather
+events will result in the increased importance of abiotic
+stresses under future climate. With respect to biotic stres-
+ses, few studies have been done on the impact of climate
+change on diseases of tropical and plantation crops,
+despite coffee, sugarcane, eucalyptus, rubber, oil palm,
+cassava, coconut, citrus and other fruits being important
+tropical crops for domestic consumption and export
+earnings. Diseases are responsible for losses of at least
+10% of global food production, representing a threat to
+food security (Strange & Scott, 2005). Agrios (2005) esti-
+mated that annual losses by disease cost $220 billion and
+stated that to these should be added 6–12% losses of
+crops after harvest, which are particularly high in devel-
+oping tropical countries lacking infrastructure. Besides
+direct losses, the methods for disease control – especially
+the chemical methods – can result in environmental con-
+tamination and in residual chemicals in food, in addition
+to social and economic problems.
+Climate change will increase uncertainty in the produc-
+tion of many crops in tropical countries, including many
+developing countries where these crops may form an
+important basis of the gross domestic product. For exam-
+ple, Gay et al. (2006) veriﬁed that the projected climate-
+change conditions for the year 2020 indicate that coffee
+production in Veracruz (Mexico) might not be economi-
+cally viable for producers, since the model indicates a
+reduction of 34% of the current production. For Brazil,
+according to Assad et al. (2004), a reduction in suitable
+coffee-growing areas greater than 95% is expected in
+Goia´ s, Minas Gerais and Sa ˜ o Paulo States, and about*E-mail: raquel@cnpma.embrapa.br
+122
+ª 2011 The Authors
+Plant Pathology ª 2011 BSPP
+Plant Pathology (2011) 60, 122–132 Doi: 10.1111/j.1365-3059.2010.02403.x
+
+75% in Parana´ State in the case of a temperature increase
+of 5 Æ8/C176 C. Any disruption to production caused by plant
+diseases will impact on the economy and society, with
+far-reaching implications beyond simple production
+losses. Coffee leaf rust, caused by Hemileia vastatrix ,i s
+considered the main disease of the crop, as it is estimated
+that disease losses, in the absence of effective control mea-
+sures, can amount to 30% of production (Kushalappa &
+Eskes, 1989; Zambolim et al., 1999). In South America,
+production of green coffee was almost 4 million tonnes in
+2008 (FAO, 2010), constituting an important export
+product in several countries. Analysis of the potential
+impact of climate change on coffee leaf rust is essential
+for the adoption of adaptation measures, in order to
+avoid more serious losses. The limited information avail-
+able on climate-change impact on tropical crops and
+future projections are mostly based on modelling studies.
+Little empirical knowledge necessary for the develop-
+ment of adaptation strategies is available.
+In general, long-term datasets are particularly rare in
+relation to tropical and plantation crop diseases, which
+are a prerequisite for ﬁnding ﬁngerprints of inter-annual
+climatic variation on plant diseases (Jeger & Pautasso,
+2008), making it difﬁcult to check if changes are already
+occurring.
+A discussion of the potential impact of climate change
+on plant diseases of economic signiﬁcance in Australia,
+including sugarcane and eucalyptus diseases, was pub-
+lished by Chakraborty et al. (1998). Ghini & Hamada
+(2008) edited a book discussing the impact of climate
+change on diseases of the main crops in Brazil, including
+important diseases of the tropical region. Given the lim-
+ited empirical data, the purpose of the present review is to
+discuss experimental approaches available for evaluating
+the impact of climate change on diseases of tropical and
+plantation crops, present the trends and management
+strategies for some diseases, identify critical gaps in
+knowledge and suggest experimental and analytical
+approaches to advance knowledge.
+Experimental approaches
+Understanding and predicting climate-change impact in
+crops requires approaches involving experimental
+manipulation of temperature, precipitation, CO
+2 and O3.
+A multifactor approach mimics the way climate change
+alters agroecosystems, allowing realistic impact assess-
+ment. Nevertheless, multifactor studies of climate-
+change effects have never been done with tropical and
+plantation crop diseases. There are some examples of
+studies dealing with more than one factor, mostly in con-
+trolled environments, for diseases of annual crops (Tiede-
+mann & Firsching, 2000; Plessl et al., 2007) and in free to
+air CO
+2 enrichment (FACE) facilities for forestry species
+(Karnosky et al., 2002), but temperature has been a difﬁ-
+cult parameter to control in ﬁeld studies. Mikkelsen et al.
+(2008) discussed the design and functionality of multifac-
+torial experiments with particular focus on interactions
+and artefacts related to the combined treatments. The
+experimental design of a multifactor climate-change
+experiment with elevated CO
+2, warming and drought at
+Brandbjerg, Denmark, described by the authors, conﬁrms
+that it is difﬁcult to reach the target temperature. Experi-
+mental studies of the long-term effects of increased CO
+2
+and O 3 concentrations on tropical and plantation crops
+in more realistic ﬁeld settings have not yet been done on a
+comprehensive scale. The general rule that high concen-
+tration of atmospheric CO 2 results in higher yield and
+plant development is not always applicable to these
+crops. Trials conducted by Gleadow et al. (2009) demon-
+strated that total cassava biomass and edible-tuber yield
+decreased linearly with rising atmospheric CO
+2 concentra-
+tion, probably as a result of lower photosynthetic capacity
+caused by stomata exceptionally sensitive to CO2.
+Despite general evidence of beneﬁcial effects of CO2 on
+the host plant, it is not well known if these effects will still
+take place in the presence of pathogens or other limiting
+factors, particularly in tropical countries. Studies under
+controlled conditions might not reﬂect plant responses in
+the ﬁeld, where there are variations and interactions
+among temperature, precipitation and other variables.
+FACE and open-top chambers (OTCs) offer more realis-
+tic options to understand how rising atmospheric compo-
+sition of CO
+2 and O 3 can inﬂuence host–pathogen
+interaction, disease severity and management of tropical
+and plantation crops. There are several OTC (Bortier
+et al. , 2000; Riikonen et al. , 2008) and FACE facilities
+worldwide, ranging from annual crops to forestry spe-
+cies, and some of these have dealt with plant diseases
+(Percy et al., 2002; Mitchell et al., 2003; Eastburn et al.,
+2010). Recently, Ainsworth & Long (2005), Erbs & Fan-
+gmeier (2006) and Chakraborty et al. (2008) have
+reviewed and summarized FACE research in several
+FACE facilities. However, among the FACE and OTC
+studies described by them, none were with tropical or
+plantation crops.
+The OTCs designed for temperate climate are not sui-
+ted to tropical regions, because they alter the microcli-
+mate within an OTC. The temperature reached inside the
+OTC, in tropical situations is much higher than ambient
+conditions when compared with temperate situations,
+causing signiﬁcant changes in the microenvironment.
+Light intensity is particularly diminished, wind velocity is
+lower and relative humidity is higher (Lessin & Ghini,
+2009). New OTC designs and environmental control sys-
+tems are necessary to address the requirements of tropical
+plant pathosystems.
+A FACE facility is under construction in Brazil to study
+the effects of increased CO
+2 concentration on coffee dis-
+eases, pests and weeds, as well as plant physiology and
+other related organisms (Climapest project, website:
+http://www.macroprograma1.cnptia.embrapa.br/clima
+pest). Six 10-m-diameter elevated CO
+2 rings have been
+constructed, each with separated controllers that measure
+CO
+2 concentration, air humidity and temperature, pre-
+cipitation, wind speed and direction, barometric pres-
+sure, soil temperature and humidity. The system
+instrumentation is based on wireless sensor network
+Climate change and diseases of tropical and plantation crops 123
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+technology. Environmental sensors have been adapted to
+ZigBee modules. The wireless sensor network-based
+instrumentation will facilitate system installation and
+maintenance, and will increase its portability. The experi-
+mental site is situated at Jaguariu´ na, Sa˜ o Paulo State (lati-
+tude 22 /C176 14¢10¢¢S, longitude 46 /C176 59¢09¢¢W, 570 m a.s.l.).
+The coffee plantation that includes the experimental plots
+is 7 ha in size. The Climapest FACE aims to study the
+individual and combined effects of high CO
+2 concentra-
+tion, water and N supply. To evaluate the impact of
+increased CO2 concentration on plant diseases, pests and
+weeds in forest species, apple, peach, soybean, grape,
+corn, cotton, castor beans, forage crops, coffee, cassava
+and banana, the Climapest project is installing six mini-
+FACE facilities throughout the country (Bele ´m, Para´
+State; Petrolina, Pernambuco State; Sete Lagoas, Minas
+Gerais State; Londrina, Parana ´ State; Jaguariu´ na, Sa˜ o
+Paulo State; and Vacaria, Rio Grande do Sul State).
+Both the fabrication of facilities and the running of
+long-term FACE studies on tropical and plantation crops
+are expensive because of plant height, high temperatures
+promoting greater loss of gases and increased cost of
+monitoring equipment. These problems may present
+impediments to the establishment of new FACE facilities
+in tropical regions. Ainsworth et al. (2008) stated that the
+major limiting factor for FACE is the cost of the large
+quantities of CO
+2 that are released, which varies dramati-
+cally between FACE experiments, depending on the ﬁnal
+concentration of CO2, source of CO 2, plot volume fumi-
+gated, wind speed and uniformity of the vegetation.
+These authors proposed a new generation of large-scale
+and low-cost FACE experiments. For example, the use of
+gradients of each climate variable is important to obtain
+more accurate models of disease development, instead of
+discrete levels (Chakraborty et al., 2008).
+Pritchard & Amthor (2005) discussed the beneﬁts and
+limitations of different methods of studying effects of
+environmental change on crops. Each method of experi-
+mentally controlling environmental conditions has
+advantages and disadvantages. Under controlled condi-
+tions, superior control of temperature, humidity, gas con-
+centrations and other variables can be reached. However,
+studies conducted in controlled conditions might not
+reﬂect plant responses in the ﬁeld, where there are varia-
+tions and interactions among temperature, precipitation
+and other factors. Light levels, for example, are often low
+inside chambers and the spectral quality usually differs
+from that of the sun. Despite these limitations, controlled
+conditions are useful for evaluating epidemiological
+parameters, changes in aggressiveness of pathogen popu-
+lations (Chakraborty & Datta, 2003) and plant physiol-
+ogy. A particular approach is the European Ecotron,
+which is a closed controlled-environment facility dedi-
+cated to the study of ecosystems and organisms under cur-
+rent and future environmental changes. There is a set of
+three experimental facilities housing a series of conﬁne-
+ment units on a large (macrocosm), medium (mesocosm)
+or small scale (microcosm), allowing a range of high
+quality simultaneous environmental simulations, with
+high quality measurements. The purpose is to keep the
+conditions as realistic as possible by working with natural
+light, intact soil monoliths, large samples of ecosystems
+and with in situ reference measurements.
+Studies on the effects of CO
+2 and O 3 should be per-
+formed with methods that allow changes only in the tar-
+get variable, whilst others remain constant. These studies
+become difﬁcult because of the inability to create an envi-
+ronment free from artefacts and equipment necessary to
+expose the plant to the target gas to be tested. The search
+for more realistic conditions has led to the use of OTC
+and FACE experiments. The OTCs can be used for studies
+with increased concentrations of CO
+2 and O3 because of
+the ability to conduct trials at all stages of plant develop-
+ment, with less interference from the structures, except
+for the reduction of solar radiation and the increase in
+temperature caused by the plastic. Plants can be grown
+directly in soil, which is an advantage compared with pot
+trials. Studies in pots should be avoided because they may
+limit of root growth and change the soil structure. More-
+over, using OTCs it is possible to obtain responses to the
+gas in natural conditions, including daily ﬂuctuations and
+seasonal climate. However, FACE experiments allow
+more natural conditions, because of the release of CO
+2
+and O3 under ﬁeld conditions.
+In addition to the high cost of establishing FACE and
+OTC facilities, assessing and measuring disease severity
+and other pathogen-related traits in large plant canopies
+of tropical and plantation crops is another factor limiting
+research in this area. Remote sensing has been useful for
+monitoring areas planted to speciﬁc crops, for detecting
+plant diseases and insect infestations, and for contribut-
+ing to accurate crop production forecasts (Campbell,
+2007). Factors of plant stress, such as insufﬁcient water
+or nutrients, adverse climatic conditions, plant diseases,
+and insect damage on crops, cause physiological and
+morphological changes within plants; and these factors
+can be associated with the spectral behaviour of the
+plants. For example, plant pathogens may alter leaf col-
+our by causing chemical changes within plant cells or by
+growing on plant surfaces; and insects and pathogens can
+change morphological characteristics by ingesting or
+detaching plant material (Jackson, 1986).
+Remote sensing applications rely on knowledge of the
+spectral properties of individual leaves and plants above a
+background of soil and plant litter, and this information,
+often termed ‘ground truth’ is acquired in situ, which for
+plant diseases relies on plant pathology expertise. Field
+measurements are obtained by a ﬁeld spectroradiometer
+which is a unit consisting of an array of photosensitive
+detectors, with ﬁlters or a diffraction grating to separate
+radiation into several spectral regions, and this procedure
+is called ground-based radiometry.
+One of the earliest studies examining the spectral
+responses of a diseased crop is credited to Colwell (1956),
+and since then other research has been conducted by
+adopting ground-based radiometry, for example, with
+Maize dwarf mosaic virus-infected andHelminthosporium
+maydis-infected corn leaves (Ausmus & Hilty, 1972);
+124 R. Ghini et al.
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+barley infected by cereal powdery mildew (Lorenzen &
+Jensen, 1989); leaf spectral reﬂectance for powdery mil-
+dew disease in golden euonymus (Carter, 1993); bean
+infected by Botrytis fabae (Malthus & Madeira, 1993);
+and powdery mildew and take-all disease in wheat
+(Graeff et al. , 2006). Studies relating the spectral
+responses of diseased crop canopies with ground-based
+radiometry are essential as a scientiﬁc base to the use of
+satellite multispectral scanner data to detect and monitor
+plant disease.
+The use of hyperspectral data and hyperspectral ana-
+lytical approaches have increased in the past decade, with
+technological advances in aircraft-borne sensors and
+satellite remote sensing. Hamid Muhammed & Larsolle
+(2003) used the whole spectrum in the objective examina-
+tion of how different parts of it contribute in describing
+disease severity in wheat with hyperspectral reﬂectance
+measures, processing them using independent component
+analysis and principal component analysis. Blackburn
+(2007) proposed the use of hyperspectral data combined
+with light detection and ranging (lidar) remote sensing
+for quantifying chlorophyll pigments of plants. Accord-
+ing to Osama et al. (2007), numerous studies have shown
+the applicability of lidar-based remote sensing to estimate
+plant properties such as canopy height, canopy structure,
+carbon stock, and species; and several studies have also
+demonstrated the usefulness of lidar in assessing large-
+scale plant growth responses. However, the potential of
+3D lidar has not yet been fully exploited for monitoring
+plant responses to stress, including plant diseases and
+insect damage on crops. Under the forecasted conditions
+of climate change, i.e. the enrichment of CO
+2 and O 3
+atmospheric concentrations, higher temperature and
+water stress, new interactions between plants and their
+environment could occur and the host–pathogen interac-
+tion could be altered, with consequent changes in the
+spectral properties of the plant.
+Potential impact of climate change on
+tropical and plantation crop diseases
+A limited number of studies have considered the potential
+impact of climate change on diseases and pests of tropical
+and plantation crops. Much of the literature deals with
+modelling approaches to determine how the distribution
+of a particular disease⁄ pest may change under a future cli-
+mate scenario and only a handful have used experimental
+approaches (Ghini & Hamada, 2008; Ghini et al. ,
+2008a). The effects of elevated CO
+2 and ⁄ or O 3 have
+rarely been included in these assessments.
+Deutsch et al. (2008) integrated empirical ﬁtness curves
+describing the thermal tolerance of terrestrial insects with
+the projected geographic distribution of climate change
+for the next century to estimate the direct impact of
+warming on insect ﬁtness across latitudes. The authors
+observed that warming in the tropics, although relatively
+small in magnitude, is likely to have the most deleterious
+consequences because tropical insects are relatively sensi-
+tive to temperature change and are currently living very
+close to their optimal temperature. In contrast, species at
+higher latitudes have broader thermal tolerance and are
+living in climates that are currently cooler than their phys-
+iological optima, so that warming may even enhance their
+ﬁtness. Thus, it was concluded that the greatest extinction
+risks from global warming may be in the tropics. This is
+particularly important for viruses transmitted by insect
+vectors, such as Pineapple mealybug wilt-associated
+virus, transmitted by Dysmicoccus brevipes and D. neo-
+brevipes (Sether et al. , 2001, 2005); Papaya ringspot
+virus (PRSV-P), transmitted by different species of aphid
+(Rezende & Martins, 2005); and Citrus leprosis virus,
+transmitted by Brevipalpus phoenicis (Feichtenberger
+et al. , 2005). A reduction in vector population may
+decrease the importance of some viruses in tropical
+regions.
+A modelling approach has been used to determine the
+potential impact of climate change on the most important
+diseases of coffee, sugarcane, eucalyptus, cassava, citrus,
+banana, pineapple, cashew, coconut, mango and papaya,
+employing detailed knowledge of environmental condi-
+tions favourable for disease development and predicted
+climate change projected for the next several decades.
+In coffee, the potential impact of climate change on the
+spatial distribution of the coffee nematode (races of
+Meloidogyne incognita ) and leaf miner ( Leucoptera
+coffeella) in Brazil was determined using a geographic
+information system (Ghini et al., 2008b). Future scenar-
+ios focused on the 2020s, 2050s and 2080s [IPCC scenar-
+ios A2 and B2 (Nakicenovic & Swart, 2000)] were
+obtained from ﬁve General Circulation Models, available
+from the Data Distribution Centre of Intergovernmental
+Panel on Climate Change (http://www.ipcc-data.org/
+sres/gcm_data.html; Watson, 2001). Geographic distri-
+bution maps were prepared using models to predict the
+number of generations of the two pests. Maps obtained
+for scenario A2 projected an increased infestation of the
+nematode and of the insect pest as a result of a greater
+number of generations per month than occurred during
+1961–1990. The number of generations also increased in
+the B2 scenario, but the magnitude was lower than in the
+A2 scenario for both organisms.
+Coffee leaf rust, caused by H. vastatrix , is the most
+destructive disease of coffee in all tropical regions (Ku-
+shalappa & Eskes, 1989; Zambolim et al. , 1999). The
+fungus attacks all commercial coffee cultivars, causing
+premature drop of infected leaves and reduced yield.
+Besides rainfall and temperature, the severity of coffee
+leaf rust is inﬂuenced by the amount of initial inoculum
+and the capacity of cultivars to shed infected leaves (Berg-
+amin Filho et al. , 1990). In Brazilian conditions, Chal-
+foun et al. (2001) observed changes in the annual date of
+the ﬁrst reported occurrence of coffee rust, compared to
+what had been observed during the 1980s and 1990s. Pos-
+sibly, these results were related to the increase in mini-
+mum average temperature during the winter, extending
+the sporulation period for the pathogen to September–
+October. The effect of elevated atmospheric CO
+2
+concentration on the latent period of coffee leaf rust was
+Climate change and diseases of tropical and plantation crops 125
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+evaluated by Mendes (2009). Coffee seedlings were
+grown at concentrations of 400, 500, 700 and 900 p.p.m.
+CO
+2 and inoculated with urediniospores of the pathogen
+under controlled conditions (22 /C176 C and 100% relative
+humidity). The average latent period of coffee leaf rust
+was 36 Æ4 days at 400 p.p.m., reduced to 21 Æ2, 21 Æ4 and
+18Æ7 days at 500, 700 and 900 p.p.m. CO2, respectively.
+According to Sanguino (2008), the importance of dis-
+eases that affect sugarcane, such as smut ( Ustilago sci-
+taminea), Sugarcane mosaic virus (SCMV), leaf scald
+disease ( Xanthomonas albilineans ) and ratoon stunting
+disease (Leifsonia xyli subsp. xyli), can be changed only
+by direct human interference. Climate change is unlikely
+to affect the importance of these diseases. As these dis-
+eases are systemic, their main means of spreading is by the
+use of infected material for vegetative propagation, or by
+infected cutting instruments. However, according to
+Chakraborty et al. (1998), diseases such as leaf scald may
+undergo increased spread via severe storms and cyclones.
+Pineapple disease of sugarcane, caused by Ceratocystis
+paradoxa, will probably be reduced in signiﬁcance as it is
+favoured by low soil temperatures (Chakraborty et al. ,
+1998).
+Booth et al. (2000) performed a risk analysis for the
+occurrence of Cylindrocladium quinqueseptatum ,a n
+important causal agent of leaf blight in eucalyptus in sev-
+eral production regions in the world. The authors also
+used some simple climate-change scenarios to suggest
+areas in mainland South East Asia which may become
+vulnerable to C. quinqueseptatum over the next 50 years.
+Moraes et al. (2008) studied the potential impact of cli-
+matic change on eucalyptus rust disease (Puccinia psidii),
+elaborating distribution maps of the disease under sce-
+narios A2 and B2. The maps showed that there will be a
+reduction of the favourable area in Brazil. Considering
+the environmental conditions for the pathogen, such a
+reduction will be gradual for the decades of 2020, 2050
+and 2080, mainly in warm regions.
+The nursery diseases caused by Ralstonia solanacea-
+rum, Xanthomonas sp. and Quambalaria eucalypti
+should remain the most important diseases in the future
+for eucalyptus, because they are favoured by high temper-
+atures (Alfenas et al., 2004). Under ﬁeld conditions, dis-
+eases caused by Ceratocystis ﬁmbriata, Cylindrocladium
+sp., R. solanacearum and Xanthomonas sp. will require
+special attention because they are also favoured by high
+temperatures and the pathogens are aggressive. Further-
+more, secondary pathogens will have a greater chance of
+causing losses, mainly through plant stress, caused by
+changes in temperature and precipitation, especially
+because resistant genetic material is not being selected to
+control these pathogens. Among the factors responsible
+for the increased importance of secondary diseases, there
+is increased plant predisposition to unfavourable climate
+conditions (R. G. Maﬁa, A. C. Alfenas and R. A. Loss,
+Aracruz Celulose and Vic¸osa University, Brazil, personal
+communication).
+Bacterial blight caused by Xanthomonas axonopodis
+pv. manihotis is the most important disease of cassava
+(Manihot esculenta ), limiting production and causing
+losses of 50–100% in susceptible cultivars, compared
+with only 5–7% in resistant cultivars (Verdier, 2002;
+Massola Jr & Bedendo, 2005). In regions where the cur-
+rent temperature is above the bacterium’s optimum tem-
+perature (22–26 /C176 C, according to Verdier, 2002), the
+importance of the disease will tend to remain similar or
+lower because rising projected temperatures will be unfa-
+vourable to it. For regions where current temperature is
+below the optimum, the increase in temperature will
+favour the occurrence of epidemics.
+The Brazilian citrus industry is the largest among the
+tropical countries and the state of Sa˜ o Paulo accounts for
+83% of the country’s production. Jesus Ju
+´ nior et al.
+(2008a) analysed the impact of climate change on citrus
+diseases in Sa˜ o Paulo State and predicted that for citrus
+variegated chlorosis caused by Xylella fastidiosa , under
+future scenarios of climate change for the central and
+southern regions of Brazil, the production of shoots in
+spring and summer would increase, increasing the popu-
+lation of leafhoppers ( Dilobopterus costalimai , Onco-
+metopia facialis and Acrogonia sp.), considered the main
+vectors of the bacterium (Milanez et al., 2002) and conse-
+quently the incidence of the disease. Symptoms of dis-
+eased plants may be aggravated by increased temperature
+and period of water deﬁcit. With rising temperatures,
+there should also be a change in the abundance of leaf-
+hoppers. Citrus huanglongbing (= greening; ‘Candidatus
+Liberibacter’ spp.) can also show an increase in intensity
+under more favourable conditions for the vector ( Di-
+aphorina citri ). The projected reduction in precipitation
+in this region could stimulate the early development of
+the mite population ( Brevipalpus phoenicis ) and conse-
+quently increase the viral disease, citrus leprosis. How-
+ever, extreme drought events can reduce the mite
+population. Jesus Ju´ nior et al. (2008a) concluded that the
+importance of citrus black spot ( Guignardia citricarpa )
+and ﬂoral rot ( Colletotrichum acutatum ) could increase
+with rising temperatures.
+Black Sigatoka (Mycosphaerella ﬁjiensis) is considered
+the most damaging and costly disease of banana in the
+world (Ploetz et al., 2003). Ghini et al. (2007) studied the
+potential impact of climatic change on black Sigatoka by
+using IPCC scenarios A2 and B2 to project distribution
+maps of the disease. The maps projected a reduction of
+the favourable area to the disease in Brazil resulting from
+a reduction in relative humidity to levels below 70%.
+Such reduction will be gradual for the 2020s, 2050s and
+2080s and will be greater for scenario A2 than for B2.
+Despite this, extensive areas will remain favourable to
+this disease, especially from November to April, which is
+currently the most favourable period. Jesus Ju ´ nior et al.
+(2008b) used the IPCC scenarios and classiﬁed areas as
+highly favourable, favourable, relatively favourable, little
+favourable and unfavourable to develop maps represent-
+ing future worldwide spatial distribution of black Siga-
+toka. The predictions suggested the same results obtained
+by Ghini et al. (2007), i.e. in the future, favourable areas
+for the development of the disease will decrease. Panama
+126 R. Ghini et al.
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+disease ( Fusarium oxysporum f. sp. cubense) is another
+important disease which is prevalent in most banana-
+growing regions (Ploetz et al. , 2003). In contrast to the
+black Sigatoka story, Gasparotto & Pereira (2008) sug-
+gested that the importance of Panama disease will
+increase with climate change, explaining that rising tem-
+peratures and periods of drought will alter plant physi-
+ology, causing stress, and possibly increasing the
+aggressiveness of F. oxysporum f. sp. cubense in suscep-
+tible cultivars.
+Pineapple fusariosis, caused by Fusarium subglutinans
+f. sp. ananas, may be reduced in signiﬁcance by increased
+temperatures. This observation is based on the work of
+Matos et al. (2000), who reported a reduction in the inci-
+dence of Fusarium when the temperature exceeded 35 /C176 C
+and rainfall decreased. The importance of pineapple
+mealybug wilt, caused by the complex called Pineapple
+mealybug wilt-associated virus (PMWaV-1, PMWaV-2
+and PMWaV-3), transmitted and spread by D. brevipes
+and D. neobrevipes (Sether et al. , 2001, 2005), on the
+other hand, may increase because the vectors could be
+stimulated by rising temperatures. PMWaV is wide-
+spread in all pineapple-producing areas (Sanches et al. ,
+2000).
+Climate change will favour the occurrence of epidem-
+ics of cashew (Anacardium occidentale) powdery mildew
+(Oidium anacardii), both in Africa and Brazil, where cur-
+rently they are of secondary importance (Freire et al. ,
+2002; Adejumo, 2005). Epidemics of anthracnose ( Col-
+letotrichum gloeosporioides and Colletotrichum acuta-
+tum), which is the most important disease of cashew in
+Brazil, will be more frequent under the IPCC future cli-
+mate scenarios for Brazil (Hamada et al. , 2008). Rela-
+tively major changes in the incidence of anthracnose,
+black mould (Pilgeriella anacardii) and powdery mildew
+of cashew with droughts during 2005 and 2006, and
+excessive rainfall in 2008 and 2009, suggests that these
+diseases may be easily inﬂuenced by a changing climate
+(J. E. Cardoso and F. M. P. Viana, Embrapa Tropical Agr-
+oindustry, Brazil, personal communication).
+Climate change will reduce the importance of black
+leaf spot ( Camarotella torrendiella and Camarotella
+acrocomiae), phytomonas wilt ( Phytomonas sp.), blight
+and leaf spots ( Bipolaris incurvata ) and heart rot
+(Phytophthora spp.), but not of leaf blight (Botryosphae-
+ria cocogena) of coconut palm ( Cocos nucifera) in Brazil
+(D. R. N. Warwick, V. Talamini, R. R. C. Carvalho and
+A. M. F. Silva, Embrapa Coastal Tablelands, Brazil, per-
+sonal communication). Again, these assessments are pro-
+jected based on observed effects of reduced precipitation
+and increased temperature.
+Papaya ringspot virus (PRSV-P) is transmitted by dif-
+ferent species of aphid. It is estimated that the damage
+caused by this disease will increase in severity with the
+expected increase in temperature. Mangrauthia et al.
+(2009) observed that at temperatures between 26 and
+31/C176 C symptoms were more severe. Jesus Ju ´ nior et al.
+(2007) evaluated the impact of climate change on leaf
+lesions ( Asperisporium caricae ) of papaya in Brazil and
+found that in the future, there will be a reduction in the
+area favourable to this disease. However, the authors
+point out that large areas will still be favourable to it, par-
+ticularly in Espirito Santo State, a leading producer of
+papaya in Brazil.
+In summary, there is limited information on the impact
+of climate change on diseases of tropical and plantation
+crops as a result of lack of experimental studies (Table 1).
+The potential effects of climate change depend on speciﬁc
+host–pathogen combinations, and associated beneﬁcial
+microorganisms; hence, impact cannot be generalized
+without further detailed studies. In general, the discus-
+sions above are based on projected future scenarios using
+the knowledge available in the literature for hosts, patho-
+gens and diseases. Thus, there is an uncertainty associated
+with the ﬁtness of hosts and pathogens. In some cases, cer-
+tain cultivars will not be grown where they are currently
+growing and there will be a change in the geographical
+distribution of crops, and this aspect has not been consid-
+ered.
+Impact on disease management strategies
+Disease management strategies are inﬂuenced by climate
+conditions. Because of the limited information about the
+impact of climate change on tropical and plantation crop
+diseases, pests and weeds, it is difﬁcult to predict the
+effects on integrated pest management. Certainly, quar-
+antine measures to control emerging pathogens, for
+example, will be very important in order to prevent the
+spread of the pathogens into new areas, because of the
+alterations in disease geographical and temporal distribu-
+tion resulting from climate change.
+According to Coakley & Scherm (1996), soilborne
+pathogens will remain more difﬁcult to control than
+foliar pathogens because of fewer management options.
+Once the soil is infested, some pathogens can survive for
+years, even in the absence of a susceptible host. Therefore,
+quarantine measures and exclusion will continue to play
+an important role in controlling these diseases.
+There have been few discussions on how chemical con-
+trol will be affected by climate change, despite the impor-
+tance of this subject. One of the few papers on this subject
+was published by Ziska & Goins (2006), who concluded
+that depending on weed species (C
+3 or C 4 metabolism),
+elevated CO2 concentration can increase weed biomass,
+decrease yields, and reduce glyphosate herbicide efﬁcacy
+for Roundup Ready soybean. Changes in temperature
+and precipitation can alter fungicide residue dynamics in
+foliage, and product degradation can be modiﬁed (Coak-
+ley et al., 1999). Alterations in plant morphology or phys-
+iology, resulting from growth in a CO
+2-enriched
+atmosphere or from different temperature and precipita-
+tion conditions, can affect the penetration, translocation
+and mode of action of systemic fungicides, as demon-
+strated by Edis et al. (1996) for the herbicide chlorotolu-
+ron. Besides, changes in plant growth can alter the period
+of higher susceptibility to pathogens, which can deter-
+mine a new fungicide application calendar (Coakley
+Climate change and diseases of tropical and plantation crops 127
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+et al., 1999; Chakraborty & Pangga, 2004; Pritchard &
+Amthor, 2005).
+The fungicide market will certainly change. Chen &
+McCarl (2001) performed a regression analysis between
+pesticide usage [provided by the United States Depart-
+ment of Agriculture (USDA)] and climate variations in
+several US locations, with climate data provided by the
+National Oceanic Atmospheric Administration
+(NOAA). Average per-acre pesticide usage cost for corn,
+cotton, potatoes, soybeans and wheat were found to
+increase as precipitation increased. Similarly, average
+pesticide usage cost for corn, cotton, soybean and pota-
+toes increased, whilst the pesticide usage cost for wheat
+decreased with rising temperatures. Despite the increas-
+ing fungicides market in tropical areas, no study has been
+performed to assess these changes.
+However, the main impact of climate change on chemi-
+cal control may be felt via changing attitudes towards the
+use of chemicals for plant disease control. The fact that
+humankind is suffering the consequences of anthropo-
+genic activity on this planet to sustain the ever-growing
+human population and its increasing needs will raise
+awareness that this activity must be conducted in a sus-
+tainable way. Society may increasingly exert pressure to
+phase out chemicals such as fungicides in favour of non-
+chemical methods for plant disease control.
+Table 1 Potential effects of climate change on tropical and plantation crop diseases
+Host Pathogen Disease severity Reasons for effects Reference
+Banana Mycosphaerella ﬁjiensis ) Reduced relative humidity Ghini et al. (2007),
+Jesus Ju´nior et al. (2008b)
+Fusarium oxysporum f. sp. cubense + Increased temperatures and
+periods of drought
+Gasparotto & Pereira (2008)
+Cashew Oidium anacardier, Colletotrichum
+gloeosporioides, Colletotrichum
+acutatum, Pilgeriella anacardii
++ Increased precipitation J.E. Cardoso and F.M.P. Viana,
+personal communication
+Cassava Xanthomonas axonopodis
+pv. manihotis
+± Depends on the region H.S.A. Silva and E.C. Andrade,
+personal communication
+Citrus Xylella fastidiosa, ‘Candidatus
+Liberibacter’ spp.), Citrus leprosis
+virus
++ Increased vector population Jesus Ju ´nior et al. (2008a)
+Guignardia citricarpa, Colletotrichum
+acutatum
++ Increased temperatures Jesus Ju ´nior et al. (2008a)
+Coconut palm Camarotella torrendiella, Camarotella
+crocomiae, Phytomonas sp.,
+Bipolaris incurvata, Phytophthora
+spp.
+) Reduced precipitation and
+increased temperature
+D.R.N. Warwick, V. Talamini,
+R.R.C. Carvalho and A.M.F. Silva,
+personal communication
+Coffee Hemileia vastatrix + Increased winter
+temperatures and CO2
+concentration
+Chalfoun et al. (2001);
+Pozza & Alves (2008); Mendes
+(2009)
+Meloidogyne incognita + Increased temperatures Ghini et al. (2008b)
+Eucalyptus Cylindrocladium quinqueseptatum + Increased temperatures and
+precipitation
+Booth et al. (2000)
+Puccinia psidii ) Increased temperatures Moraes et al. (2008)
+Ralstonia solanacearum,
+Xanthomonas sp.,
+Quambalaria eucalypti
+= Increased temperatures Alfenas et al. (2004)
+Ceratocystis ﬁmbriata,
+Cylindrocladium sp., R.
+solanacearum, Xanthomonas sp.
++ Increased temperatures and
+stressed plants
+R.G. Maﬁa, A.C. Alfenas and
+R.A. Loss, personal communication
+Papaya Asperisporium caricae ) Increased temperatures and
+reduced relative humidity
+Jesus Ju´nior et al. (2007)
+Pineapple Fusarium subglutinans f. sp. ananas ) Increased temperatures Matos et al. (2000)
+Sugarcane Ustilago scitaminea, SCMV Potyvirus,
+Xanthomonas albilineans, Leifsonia
+xyli subsp. xyli
+= Spread by the use of infected
+material for vegetative
+propagation or infected
+cutting instrument
+Sanguino (2008)
+Ceratocystis paradoxa ) Increased temperatures Chakraborty et al. (1998)
++: increased severity; ): decreased severity; =: no change.
+128 R. Ghini et al.
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+One of the direct consequences of climate change on
+pathogen–host relationships will be altered genetic resis-
+tance to diseases. Many changes in plant physiology can
+alter the resistance mechanisms of cultivars obtained by
+both traditional and genetic-engineering methods.
+Several studies provide evidence of these alterations, such
+as signiﬁcant increases in photosynthetic rates, papillae
+production, silicon accumulation in appressorial penetra-
+tion sites, higher carbohydrate accumulation in leaves,
+more wax, additional epidermal cell layers, increased
+ﬁbre content, reduction in nutrient concentration and
+alteration in the production of resistance-related enzymes
+(Hibberd et al. , 1996; Chakraborty et al. , 2000). There
+are few studies to verify the effects of increased CO
+2 con-
+centration on disease control using resistant cultivars.
+According to Braga et al. (2006), exposure to CO
+2-
+enriched atmospheres changed inducible defence
+responses in soybean plants against pathogens. These
+changes occurred in individual metabolites and were
+dependent on cultivar resistance patterns. On the other
+hand, there are a larger number of studies regarding the
+effects of temperature and other climate variables. Huang
+et al. (2006), for example, concluded that temperature
+and leaf wetness duration affected the phenotypic expres-
+sion of Rlm6-mediated resistance in leaves and subse-
+quent spread of Leptosphareria maculans in Brassica
+napus down petioles to produce stem cankers.
+There is almost no information on the impact of cli-
+mate change on biological control of plant disease (Ghini
+et al. , 2008a). Stacey (2003) discussed evidence of the
+effects of climate change on biological control agents
+(entomopathogens, predators and parasitoids) of pests.
+The few results obtained focus on the impact of climate
+change on the composition and dynamics of the microbial
+community of the phyllosphere and the soil, which can be
+very important for plant health (Reza ´ cova´ et al. , 2005;
+Kanerva et al. , 2006; Lagomarsino et al., 2007). Analy-
+sing the effects of climate change on commercialized bio-
+control agents of plant diseases in Brazil, Bettiol & Ghini
+(2009) stated that Bacillus subtilis and Trichoderma spp.,
+the main agents available in the tropics, will be less
+affected than some others. However, they stated that
+Coniothyrium minitans and Clonostachys rosea, depend-
+ing on region, may have reduced efﬁcacy in controlling
+diseases.
+Key soil aspects for microbial activity will be modiﬁed
+under a changing climate, including soil nutrient avail-
+ability, soil temperature and soil water content. In addi-
+tion, the amount of nitrogen introduced into natural and
+agricultural systems through fertilizers and pollutants
+can have signiﬁcant effects on the microbiota (Nosengo,
+2003). Gru¨ ter et al. (2006) concluded that exposing soil
+to an environment of 600 p.p.m. CO
+2 did not quantita-
+tively alter the soil’s bacterial community. This is not sur-
+prising given that the level of soil CO 2 ﬂuctuates widely
+and can easily exceed these levels. The same authors con-
+cluded that one of the potential effects of climate change
+is on plant diversity, which can lead to changes in soil bac-
+terial composition (types of bacteria and frequency of
+occurrence). Using a FACE experiment to evaluate the
+effects on saprotrophic fungi, Reza ´ cova´ et al. (2005)
+observed that C. rosea , an important biological control
+agent of Botrytis and other pathogens, and Metarrhizium
+anisopliae, one of the most important entomopathogens
+for insect pest control, were strongly associated with the
+cover crop in a high-CO
+2-concentration environment.
+The authors suggest the abundance of these fungus spe-
+cies can indicate an increase in the suppressiveness of soil
+to phytopathogenic fungi and other pests.
+Warwick (2001) conducted one of the few detailed
+studies on the effect of climatic conditions on biological
+control efﬁciency, demonstrating the effects of rainfall
+regime and time of application of Acremonium persici-
+num for control of black leaf spot of coconut, caused by
+Camarotella torrendiella and C. acrocomiae . The appli-
+cation of the biocontrol agent gave best results in the
+rainy season and when performed in the afternoon. Such
+studies will be important for maintaining the efﬁciency of
+biological control both natural and through the introduc-
+tion of bioagents. The prediction of the effects of climate
+change on biological control of plant disease is complex
+and currently based on indirect observations. Neverthe-
+less, the vulnerability of biocontrol agents will surely be
+higher with climate change, since this is one of the prob-
+lems with applying antagonists (Garrettet al., 2006).
+The adaptability of some agricultural systems can help
+minimize the negative impact of climate change with the
+adoption of new cultivars and other practices. Most trop-
+ical and plantation crops are perennial, which hinders the
+adoption of management measures in the short term
+because of the high cost of replacing the plants. Cultures
+located in marginal areas will suffer a period of chronic
+stress, leading to increased predisposition to diseases.
+Developing countries will have more difﬁculties adapting
+to climate change, because of lower technological devel-
+opment and scarce resources available for the adoption of
+measures. Developing countries need strong cooperation
+from industrial countries, as well as non-governmental
+organizations and international scientiﬁc societies, to
+adapt to the impact on food production caused by plant
+diseases under future climate scenarios.
+In general, climate change will favour biological con-
+trol, both natural and introduced, since awareness
+towards environmental problems will demand measures
+that minimize pollutant emissions, reduce the use of
+chemical pesticides and increase sustainability. There-
+fore, the biological equilibrium of agricultural systems
+will be beneﬁted, leading to an increase in the complexity
+of the system, and consequently, to biological control. To
+achieve that, specialists from different agriculture-related
+areas need to go beyond disciplinary boundaries and posi-
+tion the impact of climate change in a broader context,
+including the whole agroecosystem.
+The way forward
+Maintaining the sustainability of agricultural systems
+directly depends upon plant protection. In a few decades,
+Climate change and diseases of tropical and plantation crops 129
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+climate change may alter the current scenario of plant dis-
+eases and their management. These changes will certainly
+have effects on productivity. Therefore, studying the
+impact on important plant diseases is essential to mini-
+mize yield and quality losses, helping in the selection of
+strategies to work around problems (Chakraborty et al.,
+2000). For pathosystems discussed above, long-term
+studies on host physiology, epidemiology, genetics and
+evolution of host–pathogen populations under changing
+climate using different experimental strategies (OTC,
+FACE, controlled conditions) should be considered when
+planning investigations.
+Interdisciplinary approaches, preferably by interna-
+tional programmes, must be adopted to assess the effects
+of climate change on diseases of tropical and plantation
+crops. The complexity of the processes involved and their
+relationships require communication between profes-
+sionals in the various areas concerned.
+Acknowledgement
+The authors would like to acknowledge the research
+grant from The National Council for Scientiﬁc and Tech-
+nological Development (CNPq), Brazil.
+References
+Adejumo TO, 2005. Crop protection strategies for major diseases
+of cocoa, coffee and cashew in Nigeria.African Journal of
+Biotechnology 4, 143–50.
+Agrios GN, 2005.Plant Pathology, 5th edn. London, UK: Elsevier.
+Ainsworth EA, Long SP, 2005. What have we learned from
+15 years of free-air CO2 enrichment (FACE)? A meta-analytic
+review of the responses of photosynthesis, canopy properties and
+plant production to rising CO2. New Phytologist 165, 351–72.
+Ainsworth EA, Beier C, Calfapietra Cet al., 2008. Next generation
+of elevated [CO2] experiments with crops: a critical investment
+for feeding the future world.Plant, Cell & Environment 31,
+1317–24.
+Alfenas AC, Zauza EAV, Maﬁa RG, Assis TF, 2004.Clonagem e
+Doenc¸as do Eucalipto.V i c¸osa, Brazil: Universidade Federal
+de Vic¸osa (UFV).
+A s s a dE D ,P i n t oH S ,Z u l l oJ u´nior J, A´ vila AMH, 2004. Impacto
+das mudanc¸as clima´ticas no zoneamento agroclima´tico do cafe´
+no Brasil.Pesquisa Agropecua´ ria Brasileira 39, 1057–64.
+Ausmus BS, Hilty JW, 1972. Reﬂectance studies of healthy, maize
+dwarf mosaic virus-infected, andHelminthosporium maydis-
+infected corn leaves.Remote Sensing of Environment 2, 77–81.
+Bergamin Filho A, Salgado CL, Fegies NC, Ribeiro IJA, 1990.
+Horizontal resistance in threeCoffea arabicacultivars to
+Hemileia vastatrix. Fitopatologia Brasileira 15, 308–13.
+Bettiol W, Ghini R, 2009. Impactos das mudanc¸as clima´ticas sobre
+o controle biolo´ gico de doenc¸as de plantas. In: Bettiol W,
+Morandi MAB, eds.Biocontrole de Doenc¸as de Plantas: Uso e
+Perspectivas.J a g u a r i u´na, Brazil: Embrapa Meio Ambiente,
+29–48.
+Blackburn GA, 2007. Hyperspectral remote sensing of plant
+pigments.Journal of Experimental Botany 58, 855–67.
+Booth TH, Jovanovic T, Old KM, Dudzinski MJ, 2000. Climatic
+mapping to identify high-risk areas forCylindrocladium
+quinqueseptatumleaf blight on eucalypts in mainland South East
+Asia and around the world.Environmental Pollution 108,
+365–72.
+Bortier K, De Temmerman L, Ceulemans R, 2000. Effects of ozone
+exposure in open-top chambers on poplar (Populus nigra)a n d
+beech (Fagus sylvatica): a comparison.Environmental
+Pollution 109, 509–16.
+Braga MR, Aidar MPM, Marabesi MA, Godoy JRL, 2006. Effects
+of elevated CO2 on the phytoalexin production of two soybean
+cultivars differing in the resistance to stem canker disease.
+Environmental and Experimental Botany 58, 85–92.
+Campbell JB, 2007.Introduction to Remote Sensing.N e wY o r k ,
+USA: The Guilford Press.
+Carter GA, 1993. Responses of leaf spectral reﬂectance to plant
+stress.American Journal of Botany 80, 239–43.
+Cerri CEP, Sparovek G, Bernoux M, Easterling WE, Melillo
+JM, Cerri CC, 2007. Tropical agriculture and global
+warming: impacts and mitigation options.Scientia Agricola
+64, 83–99.
+Chakraborty S, Datta S, 2003. How will plant pathogens adapt to
+host plant resistance at elevated CO2 under a changing climate?
+New Phytologist 159, 733–42.
+Chakraborty S, Pangga IB, 2004. Plant disease and climate change.
+In: Gillings M, Holmes A, eds.Plant Microbiology. London, UK:
+BIOS Scientiﬁc Publishers, 163–80.
+Chakraborty S, Murray GM, Magarey PAet al., 1998. Potential
+impact of climate change on plant diseases of economic signiﬁcance
+to Australia.Australasian Plant Pathology27, 15–35.
+Chakraborty S, Tiedemann AV, Teng PS, 2000. Climate change:
+potential impact on plant diseases.Environmental Pollution
+108, 317–26.
+Chakraborty S, Luck J, Hollaway Get al., 2008. Impacts of global
+change on diseases of agricultural crops and forest trees.CAB
+Reviews: Perspectives in Agriculture, Veterinary Science,
+Nutrition and Natural Resources 3, 054.
+Chalfoun SM, Carvalho VL, Pereira MC, 2001. Efeito de
+alterac¸o˜ es clima´ticas sobre o progresso da ferrugem (Hemileia
+vastatrixBerk. & Br.) do cafeeiro (Coffea arabicaL.). Cieˆncia e
+Agrotecnologia 25, 1248–52.
+Chen CC, McCarl BA, 2001. An investigation of the relationship
+between pesticide usage and climate change.Climatic Change
+50, 475–87.
+Coakley SM, Scherm H, 1996. Plant disease in a changing global
+environment.Aspects of Applied Biology 45, 227–38.
+Coakley SM, Scherm H, Chakraborty S, 1999. Climate change and
+plant disease management.Annual Review of Phytopathology
+37, 399–426.
+Colwell RN, 1956. Determining the prevalence of certain cereal
+crop diseases by means of aerial photography.Hilgardia 26,
+223–86.
+Deutsch CA, Tewksbury JJ, Huey RBet al., 2008. Impacts of
+climate warming on terrestrial ectotherms across latitude.
+Proceedings of the National Academy of Sciences, USA 105,
+6668–72.
+Eastburn DM, Degennaro MM, Delucia EH, Dermody O,
+McElrone AJ, 2010. Elevated atmospheric carbon dioxide and
+ozone alter soybean diseases at SoyFACE.Global Change
+Biology 16, 320–30.
+Edis D, Hull MR, Cobb AH, Sanders-Mills GE, 1996. A study of
+herbicide action and resistance at elevated levels of carbon
+dioxide.Aspects of Applied Biology 45, 205–9.
+130 R. Ghini et al.
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Erbs M, Fangmeier A, 2006. Atmospheric carbon dioxide
+enrichment effects on ecosystems – experiments and the real
+world.Progress in Botany 67, 441–59.
+FAO, 2010.ProdSTAT[http://faostat.fao.org/site/291/
+default.aspx].
+Feichtenberger E, Bassanezi RB, Spo´ sito MB, Belasque Jr J, 2005.
+Doenc¸as dos citros (Citrus spp.). In: Kimati H, Amorim L,
+Rezende JAM, Bergamin Filho A, Camargo LEA, eds.Manual
+de Fitopatologia.S a˜o Paulo, Brazil: Agronoˆ mica Ceres,
+239–69.
+Freire FCO, Cardoso JE, Santos AA, Viana FMP, 2002. Diseases of
+cashew nut plants (Anacardium occidentaleL.) in Brazil.Crop
+Protection 21, 489–94.
+Garrett KA, Dendy SP, Frank EE, Rouse MN, Travers SE, 2006.
+Climate change effects on plant disease: genomes to ecosystems.
+Annual Review of Phytopathology 44, 489–509.
+Gasparotto L, Pereira JCR, 2008. Impacto potencial das mudanc¸as
+clima´ticas sobre as doenc¸as da bananeira no Brasil. In: Ghini R,
+Hamada E, eds.Mudanc¸as Clima´ticas: Impactos sobre Doenc¸as
+de Plantas no Brasil. Brası´lia, Brazil: Embrapa, 201–6.
+Gay C, Estrada CG, Conde C, Eakin H, Villers L, 2006. Potential
+impacts of climate change on agriculture: a case of study of
+coffee production in Veracruz, Mexico.Climatic Change 79,
+259–88.
+Ghini R, Hamada E, 2008.Mudanc¸as Clima´ticas: Impactos sobre
+Doenc¸as de Plantas no Brasil. Brası´lia, Brazil: Embrapa⁄ SCT.
+G h i n iR ,H a m a d aE ,G o n c¸alves RRV, Gasparotto L, Pereira JC,
+2007. Ana´lise de risco das mudanc¸as clima´ticas globais sobre a
+sigatoka-negra da bananeira no Brasil.Fitopatologia Brasileira
+32, 197–204.
+Ghini R, Hamada E, Bettiol W, 2008a. Climate change and plant
+diseases.Scientia Agricola 65, 98–107.
+G h i n iR ,H a m a d aE ,P e d r oJ u´ nior MJ, Marengo JA, Gonc¸alves
+RRV, 2008b. Risk analysis of climate change on coffee
+nematodes and leaf miner in Brazil.Pesquisa Agropecua´ ria
+Brasileira 43, 187–94.
+Gleadow RM, Evans JR, McCaffery S, Cavagnaro TR, 2009.
+Growth and nutritive value of cassava (Manihot esculenta
+Cranz.) are reduced when grown in elevated CO2. Plant
+Biology 11, 76–82.
+Graeff S, Link J, Chaupein W, 2006. Identiﬁcation of powdery
+mildew (Erysiphe graminissp. tritici) and take-all disease
+(Gaeumannomyces graminissp. tritici)i nw h e a t(Triticum
+aestivumL.) by means of leaf reﬂectance measurements.Central
+European Journal of Biology 1, 275–88.
+Gru¨ ter D, Schmid B, Brandl H, 2006. Inﬂuence of plant diversity
+and elevated atmospheric carbon dioxide levels on belowground
+bacteria diversity.BMC Microbiology 6, 1–8.
+Hamada E, Gonc¸alves RRV, Marengo JA, Ghini R, 2008.
+Cena´rios clima´ticos futuros para o Brasil. In: Ghini R, Hamada
+E, eds.Mudanc¸as Clima´ticas: Impactos sobre Doenc¸as de
+Plantas no Brasil. Brası´lia, Brazil: Embrapa, 25–73.
+Hamid Muhammed H, Larsolle A, 2003. Feature vector based
+analysis of hyperspectral crop reﬂectance data for discrimination
+and quantiﬁcation of fungal disease severity in wheat.
+Biosystems Engineering 86, 125–34.
+Hibberd JM, Whitbread R, Farrar JF, 1996. Effect of elevated
+concentrations of CO2 on infection of barley byErysiphe graminis.
+Physiological and Molecular Plant Pathology48, 37–53.
+H u a n gY J ,E v a n sN ,L iZ Qet al., 2006. Temperature and leaf
+wetness duration affect phenotypic expression ofRlm6-mediated
+resistance toLeptosphaeria maculansin Brassica napus. New
+Phytologist 170, 129–41.
+Jackson RD, 1986. Remote sensing of biotic and abiotic plant
+stress.Annual Review of Phytopathology 24, 265–87.
+Jeger MJ, Pautasso M, 2008. Plant disease and global change—the
+importance of long–term data sets.New Phytologist 177, 8–11.
+Jesus Ju´ nior WC, Cecı´lio RA, Valadares Ju´ nior R et al., 2007.
+Aquecimento global e potencial impacto na cultura e doenc¸as
+do mamoeiro. In: Martins DS, Costa NA, Costa AFS, eds.
+Papaya Brasil: Manejo, Qualidade e Mercado do Mama ˜o.
+Vito´ ria, Brazil: Incaper, 83–100.
+Jesus Ju´ nior WC, Morandi MAB, Christiano RSC, Yamamoto PT,
+2008a. Impacto potencial das mudanc¸as clima´ticas sobre as
+principais doenc¸as de citros no estado de Sa˜o Paulo. In: Ghini R,
+Hamada E, eds.Mudanc¸as Clima´ticas: Impactos sobre Doenc¸as
+de Plantas no Brasil.B r a s ı´lia, Brazil: Embrapa, 235–56.
+Jesus Ju´ nior WC, Valadares Ju´ nior R, Cecı´lio RV et al., 2008b.
+Worldwide geographical distribution of Black Sigatoka for
+banana: predictions based on climate change models.Scientia
+Agricola 65, 40–53.
+Kanerva T, Palojarvi A, Ramo K, Ojanpera K, Esala M, Manninen
+S, 2006. A 3-year exposure to CO2 and O3 induced minor
+changes in soil N cycling in a meadow ecosystem.Plant and Soil
+286, 61–73.
+Karnosky DF, Percy KE, Xiang Bet al., 2002. Interacting elevated
+CO2 and tropospheric O3 predisposes aspen (Populus
+tremuloidesMichx.) to infection by rust (Melampsora medusaef.
+sp. tremuloidae). Global Change Biology 8, 329–38.
+Kushalappa AC, Eskes AB, 1989. Advances in coffee rust research.
+Annual Review of Phytopathology 27, 503–31.
+Lagomarsino A, Knapp BA, Moscatelli MC, De Angelis P, Grego S,
+Insam H, 2007. Structural and functional diversity of soil
+microbes is affected by elevated CO2 and N addition in a poplar
+plantation.Journal of Soils and Sediments 7, 399–405.
+Lessin RC, Ghini R, 2009. Efeito do aumento da concentrac¸a˜od e
+CO2 atmosfe´rico sobre o oı´d i oeoc r e s c i m e n t od ep l a n t a sd e
+soja.Tropical Plant Pathology 34, 385–92.
+Lorenzen B, Jensen A, 1989. Changes in spectral properties induced
+in barley by cereal powdery mildew.Remote Sensing of
+Environment 27, 201–9.
+Malthus TJ, Madeira AC, 1993. High resolution
+spectroradiometry: spectral reﬂectance of ﬁeld bean leaves
+infected byBotrytis fabae. Remote Sensing of Environment
+45, 107–16.
+Mangrauthia SK, Shakya VPS, Jain RK, Praveen S, 2009. Ambient
+temperature perception in papaya for papaya ringspot virus
+interaction.Virus Genes 38, 429–34.
+Massola Jr NS, Bedendo IP, 2005. Doenc¸as da mandioca (Manihot
+esculenta) .I n :K i m a t iH ,A m o r i mL ,R e z e n d eJ A M ,B e r g a m i n
+Filho A, Camargo LEA, eds.Manual de Fitopatologia.S a˜o
+Paulo, Brazil: Agronoˆ mica Ceres, 449–55.
+Matos AP, Cabral JRS, Sanches NF, Caldas RC, 2000. Effect of
+temperature and rainfall on the incidence ofFusarium
+subglutinanson pineapple fruits.Acta Horticulturae 529,
+265–72.
+Mendes L, 2009.Impacto do Aumento da Concentrac¸a˜od eC O2
+Atmosfe´rico sobre o Perı´odo Latente e o Controle Biolo´ gico da
+Ferrugem do Cafeeiro. Botucatu, Brazil: UNESP, MSc
+dissertation.
+Mikkelsen TN, Beier C, Jonasson Set al., 2008. Experimental
+design of multifactor climate change experiments with elevated
+Climate change and diseases of tropical and plantation crops 131
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CO2, warming and drought: the CLIMAITE project.Functional
+Ecology 22, 185–95.
+Milanez JM, Parra JRP, Custo´ dio IC, Magri DC, Cera C, 2002.
+Biologia e exigeˆncias te´rmicas de treˆse s p e´cies de cigarrinhas
+vetoras da bacte´ria Xylella fastidiosa. Laranja 23, 127–40.
+Mitchell CE, Reich PB, Tilman D, Groth JV, 2003. Effects of
+elevated CO2, nitrogen deposition, and decreased species
+diversity on foliar fungal plant disease.Global Change Biology
+9, 438–51.
+Moraes WB, Jesus Ju´ nior WC, Cosmi FC, Maﬁa RG, 2008. The
+potential effect of climatic changes on the geographical
+distribution of eucalyptus rust disease in Brazil. In:IV World
+Congress of Agronomists and Professionals in Agronomy, 2008,
+Madrid,v o l .1 ,5 – 8 .
+Nakicenovic N, Swart R, 2000.Emissions Scenarios. Cambridge,
+UK: Cambridge University Press.
+Nosengo N, 2003. Fertilized to death.Nature 425, 894–5.
+Osama K, Hosoi F, Konishi A, 2007. 3D lidar imaging for
+detecting and understanding plant responses and canopy
+structure.Journal of Experimental Botany 58, 881–98.
+Percy KE, Awmack CS, Lindroth RLet al., 2002. Altered
+performance of forest pests under atmospheres enriched by CO2
+and O3. Nature 420, 403–7.
+Plessl M, Elstner Ef, Rennenberg H, Habermeyer J, Heiser I, 2007.
+Inﬂuence of elevated CO2 and ozone concentrations on late
+blight resistance and growth of potato plants.Environmental
+and Experimental Botany 60, 447–57.
+Ploetz RC, Thomaz JE, Slabaugh WR, 2003. Diseases of banana
+and plantain. In: Ploetz RC, ed.Diseases of Tropical Fruit Crops.
+Wallingford, UK: CABI Publishing, 73–134.
+Pozza EA, Alves MC, 2008. Impacto potencial das mudanc¸as
+clima´ticas sobre as doenc¸as fu´ ngicas do cafeeiro no Brasil. In:
+G h i n iR ,H a m a d aE ,e d s .Mudanc¸as Clima´ticas: Impactos sobre
+Doenc¸as de Plantas no Brasil. Brası´lia, Brazil: Embrapa, 215–33.
+Pritchard SG, Amthor JS, 2005.Crops and Environmental Change.
+Binghamton, NY, USA: Food Products Press.
+Reza´cova´ V, Blum H, Hrselova´ H, Gamper H, Gryndler M, 2005.
+Saprobic microfungi underLolium perenneand Trifolium repens
+at different fertilization intensities and elevated atmospheric CO2
+concentration.Global Change Biology 11, 224–30.
+Rezende JAM, Martins MC, 2005. Doenc¸as do mamoeiro (Carica
+papaya) .I n :K i m a t iH ,A m o r i mL ,R e z e n d eJ A M ,B e r g a m i n
+Filho A, Camargo LEA, eds.Manual de Fitopatologia.S a˜o
+Paulo, Brazil: Agronoˆ mica Ceres, 435–43.
+Riikonen J, Syrja¨la¨ L, Tulva Iet al., 2008. Stomatal characteristics
+and infection biology ofPyrenopeziza betulicolain Betula
+pendulatrees grown under elevated CO2 and O3.
+Environmental Pollution 156, 536–43.
+Sanches NF, Matos AP, Meissner Filho PE, 2000. Murcha
+associada a` cochonilha. In: Reinhardt DH, Souza LFS, Cabral
+JRS, eds.Abacaxi: Produc¸a˜o – Aspectos Te´cnicos.B r a s ı´lia,
+Brazil: Embrapa, 62–5.
+Sanguino A, 2008. Impacto potencial das mudanc¸as clima´ticas
+sobre as principais doenc¸as da cana-de-ac¸u´ car no Brasil. In:
+G h i n iR ,H a m a d aE ,e d s .Mudanc¸as Clima´ticas: Impactos sobre
+Doenc¸as de Plantas no Brasil. Brası´lia, Brazil: Embrapa,
+207–13.
+Sether DM, Karasev AV, Okumura Cet al., 2001. Differentiation,
+distribution and elimination of two different pineapple mealybug
+wilt-associated viruses found in pineapple.Plant Disease 85,
+856–64.
+Sether DM, Melzer MJ, Busto J, Zee F, Hu JS, 2005. Diversity and
+mealybug transmissibility of ampeloviruses in pineapple.Plant
+Disease 89, 450–6.
+Solomon S, Qin D, Manning Met al., 2007.Climate Change 2007:
+The Physical Science Basis. Contribution of Working Group I
+for the Fourth Assessment Report of the Intergovernmental
+Panel on Climate Change. Cambridge, UK: Cambridge
+University Press.
+Stacey D, 2003. Climate and biological control in organic crops.
+International Journal of Pest Management 49, 205–14.
+Strange RN, Scott PR, 2005. Plant disease: a threat to global food
+security.Annual Review of Phytopathology 43, 83–116.
+Tiedemann AV, Firsching KH, 2000. Interactive effects of elevated
+ozone and carbon dioxide on growth and yield of leaf rust-
+infected versus non-infected wheat.Environmental Pollution
+108, 357–63.
+Verdier V, 2002. Bacteriosis vascular (o an˜ ublo bacteriano) della
+yuca causada porXanthomonas axonopodispv. manihotis.I n :
+Ospina PB, Ceballos H, Alvarez Eet al.,e d s .La Yuca en el
+Tercer Milenio: Sistemas Modernos de Produccio´ n,
+Procesamiento, Utilizacio´ n y Comercializacio´ n.C a l i ,
+Colombia: Centro Internacional de Agricultura Tropical (CIAT),
+CIAT publication no. 327.
+Warwick DRN, 2001. Colonizac¸a˜o de estromas deSphaerodothis
+acrocomiaeagente causal da lixa grande do coqueiro por
+Acremonium persicinum. Fitopatologia Brasileira 26, 220.
+Watson RT, 2001.Climate Change 2001: Synthesis Report.
+Cambridge, UK: Cambridge University Press.
+Zambolim L, Vale FXR, Pereira AA, Chaves GM, 1999. Manejo
+integrado das doenc¸as do cafeeiro. In: Zambolim L, ed.
+Produc¸a˜od eC a f e´ com Qualidade.V i c¸osa, Brazil: Universidade
+Federal de Vic¸osa (UFV), 134–215.
+Ziska LH, Goins EW, 2006. Elevated atmospheric carbon dioxide
+and weed populations in glyphosate treated soybean.Crop
+Science 46, 1354–9.
+132 R. Ghini et al.
+Plant Pathology (2011) 60, 122–132
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02403.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

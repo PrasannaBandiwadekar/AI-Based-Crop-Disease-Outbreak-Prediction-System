@@ -1,0 +1,27 @@
+{
+    "window_size": 28,
+    "samples": 7257,
+    "feature_count": 15,
+    "feature_list": [
+        "WS10M",
+        "T2M",
+        "RH2M",
+        "PRECTOTCORR",
+        "T2M_MIN",
+        "T2M_MAX",
+        "temp_mean_7d",
+        "rain_7d",
+        "rh_7d",
+        "sin_day",
+        "cos_day",
+        "crop_age_days",
+        "moisture_stress",
+        "fungal_risk",
+        "red_rot_risk_composite"
+    ],
+    "target": "target_5d",
+    "date_range": [
+        "2005-02-11T00:00:00.000000000",
+        "2024-12-24T00:00:00.000000000"
+    ]
+}

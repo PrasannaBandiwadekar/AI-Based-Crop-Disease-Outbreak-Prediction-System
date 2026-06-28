@@ -1,0 +1,21 @@
+peak_start,region,confidence,intensity,event_index_in_year,source
+2006-07-07,Sangli,HIGH,585.3371,0,VSIT Annual Report 2006; IMD above-normal monsoon
+2006-09-21,Sangli,HIGH,377.731,1,VSIT Annual Report 2006; IMD above-normal monsoon
+2007-06-23,Sangli,HIGH,1119.0158,0,VSIT Annual Report 2007; Vishwakarma et al. 2013 Sugar Tech
+2007-09-03,Sangli,HIGH,465.4559,1,VSIT Annual Report 2007; Vishwakarma et al. 2013 Sugar Tech
+2008-06-16,Sangli,HIGH,517.7625,0,VSIT Annual Report 2008; ICAR-SBI Technical Bulletin
+2008-09-11,Sangli,HIGH,375.7884,1,VSIT Annual Report 2008; ICAR-SBI Technical Bulletin
+2009-07-12,Sangli,HIGH,926.2307,0,VSIT Annual Report 2009; Malve et al. 2018 JPSAS
+2009-08-27,Sangli,HIGH,233.3505,1,VSIT Annual Report 2009; Malve et al. 2018 JPSAS
+2010-06-18,Sangli,MEDIUM,1037.0014,0,IMD above-normal; Maharashtra Sugar Federation 2010 season
+2010-08-27,Sangli,MEDIUM,430.0299,1,IMD above-normal; Maharashtra Sugar Federation 2010 season
+2011-06-14,Sangli,MEDIUM,1090.8442,0,IMD near-normal; indirect reference Prajapati et al. 2020
+2011-07-30,Sangli,MEDIUM,532.8589,1,IMD near-normal; indirect reference Prajapati et al. 2020
+2011-09-17,Sangli,MEDIUM,111.7626,2,IMD near-normal; indirect reference Prajapati et al. 2020
+2015-06-20,Sangli,MEDIUM,1029.8534,0,IMD above-normal Oct 2015; VSIT report pending verification
+2015-10-13,Sangli,MEDIUM,367.1256,1,IMD above-normal Oct 2015; VSIT report pending verification
+2019-06-19,Sangli,HIGH,1267.0233,1,IMD excess monsoon 2019; Prajapati et al. 2020 Indian Phytopathology
+2019-09-10,Sangli,HIGH,438.0636,2,IMD excess monsoon 2019; Prajapati et al. 2020 Indian Phytopathology
+2019-10-26,Sangli,HIGH,1372.8078,0,IMD excess monsoon 2019; Prajapati et al. 2020 Indian Phytopathology
+2020-06-24,Sangli,HIGH,783.4896,0,IMD above-normal; VSIT Annual Report 2020
+2020-09-21,Sangli,HIGH,607.8247,1,IMD above-normal; VSIT Annual Report 2020

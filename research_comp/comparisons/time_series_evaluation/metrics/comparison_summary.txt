@@ -1,0 +1,24 @@
+
+=== STEP 6: Temporal Dependency Test  Comparison Summary ===
+Generated : 2026-04-20 11:50:58
+
+Metric        | Original (Temporal) | Shuffled | Delta
+
+Accuracy      | 0.9471             | 0.9643  | -0.0172
+F1-Score      | 0.0941              | 0.2353   | -0.1412
+ROC-AUC       | 0.8579             | 0.9604  | -0.1025
+
+ VERDICT 
+  Temporal Signal : WEAK
+  Interpretation  :
+      Similar performance on shuffled data  features may encode enough history in each row (rolling windows).
+
+ WHY THIS MATTERS 
+  If shuffled model performs equally:
+     The row already encodes sufficient temporal context via rolling/lag features.
+     Not necessarily bad  this is expected for well-engineered features.
+     BUT explicit LSTM sequences would capture deeper dependencies.
+
+  If original is significantly better:
+     Model genuinely exploits temporal order (trend, momentum).
+     Strong case for LSTM / temporal RF.

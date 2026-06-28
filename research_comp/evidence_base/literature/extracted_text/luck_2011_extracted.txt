@@ -1,0 +1,954 @@
+REVIEW
+Climate change and diseases of food crops
+J. Luck abc*, M. Spackman d, A. Freeman d, P. Tre˛ bickid, W. Grifﬁths ce, K. Finlay ac
+and S. Chakraborty cf
+aBiosciences Research Division, Department Primary Industries Victoria, PMB 15 Ferntree Gully Delivery Centre Knoxﬁeld, Vic 3156;
+bBiological Sciences, La Trobe University, Bundoora, Vic 3086; cCooperative Research Centre for National Plant Biosecurity,
+Innovation Centre, University of Canberra, Bruce, Act 2617; dBiosciences Research Division, Department Primary Industries Victoria,
+Private Bag 260, Horsham; eFuture Farming Systems Research, Department Primary Industries Victoria, Private Bag 260, Horsham,
+Vic 3401; and fCSIRO Plant Industry, 306 Carmody Road, St Lucia, Qld 4067, Australia
+Despite complex regional patterns of projected climate change, signiﬁcant decreases in food crop yields have been predicted
+using the ‘worst case’ CO2 emission scenario (A1FI) of the Intergovernmental Panel on Climate Change. Overall, climate
+change is predicted to have a progressively negative effect on the yield of food crops, particularly in the absence of efforts to
+mitigate global CO2 emissions. As with all species, plant pathogens willhave varying responses toclimate change. Whilst
+the life cycle of some pathogens will be limited by increasing temperatures, e.g.Puccinia striiformisf.sp. tritici, other climatic
+factors such as increasing atmospheric CO 2, may provide more favourable conditions for pathogens such as Fusarium
+pseudograminearum.Based on published literature and unpublished work in progress, we have reviewed the qualitative
+effects of climate change on pathogens that cause disease offour major food crops: wheat, rice, soybean and potato. The
+limited data show that the inﬂuence will be positive, negative or neutral, depending on the host–pathogen interaction. Quan-
+titative analysis of climate change on pathogens of these cropsis largely lacking, either from ﬁeld or laboratory studies or
+from modelling-based assessments. Systematic quantitative analysis of these effects will be necessary in developing future
+disease management plans, such as plant breeding, altered planting schedules, chemical and biological control methods and
+increased monitoring for new disease threats.
+Keywords: climate change, ﬁeld crop diseases, potato, rice, soybean, wheat
+Introduction
+The importance of climate to the development of plant
+diseases has been observed for over 2000 years. The
+ancient Greeks (370–286 BC) recognized that cereals cul-
+tivated at higher altitudes had lower disease incidence
+than cereals cultivated at lower altitudes (Ghini et al. ,
+2008), but because of the complex nonlinear relation-
+ships between a plant and its environment, an assessment
+of climate-change effects on food cropping systems is not
+trivial (Semenov, 2009). Analysis of pathogen response
+to climate in isolation ignores the critical changes that
+may occur in the host as a result of climate change and the
+subsequent indirect effects on the pathogen. Increases in
+leaf waxes and epidermal thickness as a result of
+increased CO2 atmospheres (Fuhrer, 2003), for instance,
+may result in the host having increased physical resistance
+to some pathogens. Changes to the architecture of a crop,
+due to increasing CO 2, may lead to increased humidity
+within the canopy and more favourable condition for
+pathogen survival (Chakraborty & Datta, 2003; Pangga
+et al. , 2011). Increased photosynthetic rate under ele-
+vated CO2 levels (Fuhrer, 2003) could lead to the avail-
+ability of new growth ﬂushes earlier in the season for
+pathogens to colonize and the subsequent increase in
+plant biomass will result in a larger reservoir for patho-
+gens to colonize and multiply in. These are just some of
+the potential indirect effects of rising CO 2 concentration
+that need to be accounted for when assessing climate
+change and plant disease.
+The major climate-change factors likely to inﬂuence
+plant disease severity and spread include: increased atmo-
+spheric CO 2, heavy and unseasonal rains, increased
+humidity, drought, cyclones and hurricanes and warmer
+winter temperatures (Cannon, 1998; Chakraborty et al.,
+2000; Pimentel et al. , 2001; Rosenzweig et al. , 2001;
+Berry et al., 2002; Anderson et al., 2004). Changes to any
+one (or all) of these climatic factors may inﬂuence the*E-mail: Jo.Luck@dpi.vic.gov.au
+ª 2011 CSIRO
+Plant Pathology ª 2011 BSPP 113
+Plant Pathology (2011) 60, 113–121 Doi: 10.1111/j.1365-3059.2010.02414.x
+
+distribution and biology of plant pathogens with positive,
+negative or neutral effects (Coakley et al., 1999; Fuhrer,
+2003).
+As an example, the mean temperature in Australia has
+risen by 0Æ7/C176 C over the last century, leading to an increase
+in the number of very warm days and a decrease in frost
+and cold days. Relative to 1900, the projected increase in
+annual average temperature varies from 0 Æ4–2Æ0/C176 C for
+the year 2030 to 1 Æ0–6Æ0/C176 C for 2070 (Natural Resource
+Management Ministerial Council, 2004; CSIRO, BOM,
+2007). The Australian continent extends from the tropics
+to mid-latitudes and covers a wide variety of climates and
+ecosystems. In mid- to high latitudes, increases in temper-
+atures of 1–3/C176 C, and associated elevated CO
+2 and rainfall
+changes, can have small beneﬁcial impacts on crop yields.
+In low-latitude regions, even moderate temperature
+increases of 1–2/C176 C are likely to have negative impacts on
+yield for major cereals. These results, on the whole, pro-
+ject the potential for global food production to increase
+with increases in local average temperature over a range
+of 1–3/C176 C, but above this range they will decrease (Easter-
+ling et al., 2007).
+The Australian climate is strongly inﬂuenced by tropi-
+cal cyclones and monsoons in Northern Australia and the
+El Ninˇ o-Southern Oscillation (ENSO) phenomenon in
+Eastern Australia. The ENSO is responsible for signiﬁ-
+cant variations in seasonal to decadal rainfall and can
+lead to ﬂoods and prolonged droughts (Coakley et al. ,
+1999; Pittock et al., 2003). The expected increase in glo-
+bal minimum temperature may enable some plants to
+start growing earlier in the season, especially in Mediter-
+ranean environments in parts of Australia, where growth
+of winter crops is often limited by low temperatures
+(Ludwig & Asseng, 2006). The increase in minimum
+temperature linked to climate change is estimated to be
+responsible for as much as 30–50% of the observed
+Australian wheat yield increase (Coakleyet al., 1999).
+The total annual rainfall over Australia has increased
+by about 6% over the last hundred years, although this
+was not homogenous across the continent (Pittock et al.,
+2003). The future distribution of rainfall is also expected
+to be spatially and temporarily heterogenous. Increased
+precipitation is expected in summer and autumn, mainly
+in parts of southern and inland Australia, whilst winter
+and spring are expected to be drier in south-eastern Aus-
+tralia, except Tasmania (Pittock et al., 2003). Projections
+also suggest potential increases in extreme rainfall in
+many regions, even where average rainfall may decrease
+(Natural Resource Management Ministerial Council,
+2004).
+Changes in rainfall patterns and temperature
+increases may alter current land use for food crops,
+resulting in novel plant pathogen or pest problems
+(Cannon, 1998; Coakley et al., 1999; Parker & Gilbert,
+2004) through the introduction of a pest ⁄ pathogen in a
+new crop, which then may infect a previously unaffected
+indigenous (native or non-native) host; the introduction
+of a new host, which an indigenous (native or non-
+native) pest ⁄ pathogen may infect; and the introduction
+of both new host and new pest ⁄ pathogen which may
+interact with each other. Conversely, climate change
+may restrict the prevalence of a pest ⁄ pathogen or a crop,
+subsequently restricting the occurrence of disease or pest
+infestation. Direct, multiple effects on the epidemiology
+of plant diseases are expected, including the survival of
+primary inoculum (Melloy et al. , 2010), the rate of dis-
+ease progress during a growing season, and the duration
+of epidemics.
+Rising CO
+2 associated with climate change may affect
+the distribution, abundance and performance of plant
+insect pests and pathogens (Chakraborty et al. , 2008).
+Increased CO 2 may modify pathogen aggressiveness
+and ⁄ or host susceptibility, affecting the initial establish-
+ment of the pathogen on the host (Coakley et al. , 1999;
+Plessl et al., 2005; Matros et al., 2006). Also reported is
+increased fecundity and growth of some fungal pathogens
+under elevated CO2 (Hibberd et al., 1996; Coakley et al.,
+1999; Chakraborty et al., 2000). Together, an increase in
+plant canopy size (especially in combination with humid-
+ity), and an increase in host abundance and biomass can
+increase the size of pathogen populations (Manning &
+Tiedemann, 1995; Chakraborty & Datta, 2003; Mitchell
+et al., 2003; Pangga et al., 2004).
+In agriculture, plant breeding programmes are
+expected to adapt many crops to increased duration of
+growing seasons and, concurrently, to develop drought
+and temperature stress tolerance. There will be opportu-
+nities for new cultivars to be introduced, but effective dis-
+ease screening systems must be in place to prevent
+pathogens from being introduced with these new crops
+(Boland et al. , 2004). The adaptation of pathogens to a
+changing climate may prove to be one of the most impor-
+tant challenges under future climates (Garrett et al. ,
+2006), especially in terms of managing the productivity
+and sustainability of food crops.
+The aim of this paper is to summarize research on the
+inﬂuence of climate change on diseases of food crops,
+enabling the identiﬁcation of future weaknesses in the
+pathogens that may be exploited in designing manage-
+ment strategies. This paper complements assessments of
+climate-change impacts on diseases of forest trees (Stur-
+rock et al. , 2011), tropical and plantation crops (Ghini
+et al., 2011).
+Climate change and diseases of food crops
+This paper focuses on four food crops grown globally:
+wheat, rice, soybean and potatoes, and reviews the effects
+of climate change on key diseases affecting their produc-
+tion.
+Wheat diseases
+In the US, predicted negative effects on yield of crops such
+as wheat, maize and barley have implications for the
+continued production of food for the entire world.
+A decrease in crop yield by 25–44% under the slowest
+warming projections and 60–79% under the most rapid
+114 J. Luck et al.
+Plant Pathology (2011) 60, 113–121
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02414.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+warming projections (Lobell & Field, 2007) will signiﬁ-
+cantly diminish this supply. In China, models predict that
+without CO
+2 fertilization (derived from increasing atmo-
+spheric CO 2) enhancing biomass and yield of crops, cli-
+mate change could reduce rice, maize and wheat yields by
+up to 37% in the next 20–80 years (Erdaet al., 2005).
+Rust diseases, such as wheat stripe rust caused by Puc-
+cinia striiformis f.sp. tritici (Pst), are serious pathogens of
+cereals around the world. Moisture, temperature and
+wind are the three most important weather factors affect-
+ing epidemics of Pst. Increasing global temperatures may
+limit the development and survival of Pst in some wheat-
+growing regions around the world. In the laboratory, the
+optimum constant temperature for urediniospore germi-
+nation in P. striiformis was reported as 10–13 /C176 C and the
+maximum temperature 20–26 /C176 C (Tollenaar, 1985),
+although the disease was shown to ﬂourish under ﬁeld
+conditions at 19–30 /C176 C (Park, 1990). For example, in
+China, the prevalence of Pst decreased in association with
+increase in average annual temperature from 1950 to
+1995 (Yang et al., 1998). Similarly, increased frequency
+and severity of Pst epidemics was associated with
+increased winter temperatures and lower spring tempera-
+tures in the Paciﬁc Northwest in the USA (Coakley,
+1979). In contrast, new isolates of Pst, better adapted to
+high temperatures, now dominate the pathogen popula-
+tion in south central USA (Milus et al. , 2006, 2009).
+Another example of pathogen response to temperature
+was demonstrated in the UK, where approximately half
+of the wheat cultivars used showed differential resistance
+expression when tested against isolates of brown rust
+(leaf rust) (caused byPuccinia triticina), either effective at
+10/C176 C and not at 25 /C176 C, or vice versa (Jones & Clifford,
+1997; Jones, 2000). The effect was not necessarily attrib-
+utable simply to resistance gene expression response to
+temperature, as fungal isolates also showed differential
+temperature responses independent of resistance
+responses.
+Stripe rust infection has also been the focus of model-
+ling studies to assess the potential impact of climate
+change. White et al. (2004) developed process-based
+models linking life cycles of stripe rust and its host, wheat,
+to help formulate disease management strategies. Chakr-
+aborty et al. (2002) assessed climate-change scenarios
+with stripe rust levels in terms of temperature, rainfall
+and humidity changes in Australia. There was a clear
+location effect, making it difﬁcult to generalize, but the
+overall stripe rust levels at many sites were predicted to be
+higher for 2070.
+Resistant wheat varieties are used to control the devel-
+opment of disease, although Pst can evolve and overcome
+resistance genes. For example, Pst was monitored in
+annual surveys in Australia from the ﬁrst recording in
+1979 and 15 pathotypes were detected in wheat in Aus-
+tralia and New Zealand during the 10-year period to
+1988 (Wellings & McIntosh, 1990). It is not known how
+a changing climate will inﬂuence the ability of the patho-
+gen to overcome resistant cultivars. If temperature
+increases do not limit the development of Pst in wheat,
+the effect of increasing CO
+2 could increase plant biomass,
+thereby increasing the area susceptible for Pst infection
+and Pst populations. One study suggests that predicted
+climate change may result in reduced incidence of wheat
+stripe rust in future climates for some regions and culti-
+vars and a trend towards lower disease levels in El Nin ˜ o
+years (Chakraborty et al., 2002). In a recent review, Cha-
+kraborty et al. (2010) gave increased crop losses from
+rusts, faster evolution of new rust races and reduced effec-
+tiveness of rust resistance as the three major risks arising
+from climate-change inﬂuence on wheat rusts.
+Necrotrophic pathogens have always been a major
+constraint to wheat production worldwide, but unlike
+rusts, internationally coordinated research efforts are not
+common for these pathogens. In Australia, of the three
+most economically important pathogens, Pyrenophora
+tritici-repentis, Puccinia striiformis and Phaeosphaeria
+nodorum, two are necrotrophs (Murray & Brennan,
+2009). Other important diseases, such as fusarium head
+blight and crown rot of wheat caused by severalFusarium
+species, have re-emerged with the adoption of stubble
+retention practices. A comprehensive analysis of climate-
+change inﬂuence on fusarium head blight and crown rot
+affecting yield and quality of wheat appears in Chakra-
+borty & Newton (2011). Crown rot caused by Fusarium
+pseudograminearum has been prevalent in southern Aus-
+tralia during the last 12 years of drought where soil mois-
+ture has been low. The decreases in mean precipitation
+projected for winter and spring for the southern Austra-
+lian wheat belt indicate continued drought conditions
+which are likely to result in crown rot remaining an
+important disease for wheat growers. Under elevated
+CO
+2 (825 p.p.m.), fungal biomass signiﬁcantly increased
+in the wheat stems compared to infected wheat grown at
+ambient CO2 in a relative comparison of fungal DNA to
+wheat DNA using quantitative RT-PCR (Melloy et al. ,
+2010). The production and survival of crown rot inocu-
+lum in stubble will increase as a consequence. The contin-
+ued drought and warming conditions indicate that crown
+rot will remain an important disease for Australian wheat
+growers (Spackman et al. , 2008). Among other necro-
+trophic pathogens, severity of spot blotch caused by
+Cochliobolus sativus has increased in South Asia with
+higher average night-time temperatures (Sharma et al. ,
+2007).
+Yellow dwarf viruses (YDVs) cause some of the most
+serious diseases of cereal crops worldwide (Lister &
+Ranieri, 1995). They have recently been classiﬁed into
+two groups: barley yellow dwarf viruses (BYDV) ( Luteo-
+viridae: Luteovirus) and cereal yellow dwarf viruses
+(CYDV) ( Luteoviridae: Polerovirus) (Mayo & D’Arcy,
+1999), the strains of which are distinguished by distinct
+genome properties and their primary aphid vectors
+(Lapierre & Signoret, 2004; Katiset al., 2007).
+Outbreaks of YDVs are likely to be worst in years when
+wet cool summers allow larger than normal numbers of
+aphids and alternate hosts to survive summer. The pre-
+dicted changes in rainfall in south-eastern Australia are
+likely to favour the early buildup of aphid populations,
+Diseases of food crops 115
+Plant Pathology (2011) 60, 113–121
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02414.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+resulting in more frequent and severe YDV infections.
+Increased autumn rain predicted for some regions and
+milder winters would allow greater aphid activity and
+therefore an increase in the incidence and severity of dis-
+ease (Chakraborty et al., 1998). Some degree of control
+of YDVs can be achieved by monitoring and spraying for
+aphids early in the season, but resistance breeding is the
+most effective solution (Hollaway & Bedggood, 2003).
+YDV infection of oats (Avena sativa) under elevated CO
+2
+can lead to increased biomass compared to uninfected oat
+plants, potentially increasing the aphid infestation and
+virus reservoir (Malmstro¨ m & Field, 1997).
+The response of insect herbivores to temperature have
+been reviewed by Bale (2002) and found to be the pre-
+dominant inﬂuence on development, survival, range and
+abundance of herbivore populations, including aphids.
+Also important are changes mediated through the host
+plant. Elevated CO
+2 can change the nutritional quality of
+the plant leading to alterations in herbivore feeding
+behaviour, growth rates, fecundity and population den-
+sity (Awmack et al. , 1996; Whittaker, 1999; Fuhrer,
+2003; Stiling & Cornelissen, 2007). Vegetation range
+shifts and increases in the length of the growing season
+can be the result of altered temperature and rainfall pat-
+terns (Parmesan & Yohe, 2003), which will inﬂuence
+host plant availability and phenologies. Any inﬂuences
+on the vector will in turn impact on the incidence and
+severity of any potential YDV infection.
+Rice diseases
+Rice is a staple food crop of the world’s population. The
+demand for this crop continues to grow steadily as the
+population increases, whilst land and water resources are
+on the decline (Nguyen, 2002). Increasing temperature,
+rising sea levels and changes in patterns of rainfall will
+most likely lead to substantial modiﬁcations in land and
+water resources for rice production (Nguyen, 2002).
+Rice blast ( Magnaporthe grisea ⁄ oryzae complex) and
+sheath blight ( Rhizoctonia solani ) causes crop losses
+annually worldwide. Rice blast severity was predicted to
+increase for most of the simulated scenarios using a
+CERES-
+Rice model coupled with BLASTSIM (Luo et al., 1998). Tem-
+perature change emerged as the main determinant of crop
+loss; in the cool subtropics such as Japan and northern
+China, an increase above normal temperature resulted in
+more severe blast epidemics, whilst in the warm ⁄ cool
+humid subtropics, temperature increase caused signiﬁ-
+cantly fewer blast epidemics (Luo et al. , 1998). Rising
+temperature can also boost effectiveness of some resis-
+tance genes, such as Xa7, which is more effective against
+Xanthomonas oryzae pv. oryzae at high temperatures
+(Webb et al., 2010).
+In the rice free air CO
+2 enrichment (FACE, Okada
+et al., 2001) experiment in Shizukuishi, northern Japan,
+rice plants were grown under elevated CO 2 to primarily
+assess yield effects under future climates. For the ﬁrst
+time, plant diseases were studied in open facilities under
+enriched atmospheric CO
+2 environments over three
+seasons (1998–2000). The ﬁrst pathogen assessed was M.
+oryzae, with a pathosystem that comprises two elements:
+leaf blast and panicle blast. On rice grown under elevated
+CO
+2, leaf blast severity was signiﬁcantly higher than on
+rice grown under ambient CO 2. However, panicle blast
+severity was unchanged when artiﬁcially inoculated,
+but slightly higher under natural infection conditions
+(Kobayashi et al., 2006).
+When R. solani was inoculated onto susceptible rice
+plants in the same experiments, the percentage of dis-
+eased plants was signiﬁcantly higher under elevated CO
+2,
+but the size of lesions was unaltered (Kobayashi et al. ,
+2006). The authors postulated that the increase in leaf
+blast and sheath blight severity was caused by the lower
+leaf silicon content in rice grown under elevated CO 2,
+which may have contributed to the susceptibility of the
+rice plants.
+Soybean diseases
+As one of the world’s major and fastest-expanding crops,
+soybean contributes signiﬁcantly to overall human nutri-
+tion in terms of both calorie and protein intake. Soybean
+is an oilseed crop grown for a variety of uses, e.g. vegeta-
+ble oils, processed foods such as tofu and soymilk, and
+soy meal for animal feed. Cultivation is highly concen-
+trated geographically, with only four main producers –
+USA, Brazil, Argentina and China accounting for almost
+90% of world output. The effects of climate change on
+soybean production have been simulated based on studies
+under elevated CO
+2 in SoyFACE (Ainsworth & Long,
+2005; Ainsworth et al., 2008).
+Eastburn et al. (2010) evaluated the effects of elevated
+CO2 and ozone (O 3) on downy mildew, septoria brown
+spot and sudden death syndrome (SDS) in SoyFACE.
+Elevated CO2 alone or in combination with elevated O 3
+signiﬁcantly reduced downy mildew disease severity by
+39–66%. In contrast, the same conditions signiﬁcantly
+increased brown spot severity, but the increase was small.
+The atmospheric treatments had no effect on the inci-
+dence of SDS or brown spot over three seasons.
+Phakospora pachyrhizi causing Asian soybean rust
+(ASR) is an exceptionally aggressive species that has
+spread rapidly over the past decade, moving from Asia
+through Africa on to South America. In September 2004,
+hurricane Ivan struck the US Gulf Coast, introducing
+ASR into Louisiana, and by 3 December 2004 there were
+20 new detections in eight states, outlining the periphery
+of the hurricane impact zone (Isardet al., 2005).
+In another example, hurricane Wilma (2005) spread
+Xanthomonas citri subsp. citri through citrus orchards in
+Florida, to a point where the US Department of Agricul-
+ture declared that containment was no longer an econom-
+ically feasible option. Wind speeds and driving rain
+associated with Wilma had not been accounted for in the
+citrus canker quarantine zone calculations (Irey et al. ,
+2006; Gottwald & Irey, 2007). An increased frequency of
+severe storm events such as Wilma and Ivan may see the
+increased dispersal of airborne plant pathogens such as
+116 J. Luck et al.
+Plant Pathology (2011) 60, 113–121
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02414.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+rusts, splash-borne pathogens such as bacteria, and wind-
+borne insects and vectors such as aphids and psyllids.
+There is observational evidence of an increase in
+intense tropical cyclone activity in the North Atlantic
+since about 1970 (Pachauri & Reisinger, 2007), but only
+suggestions of increased intense tropical cyclone activity
+in other regions where concerns over data quality are
+greater. Multi-decadal variability and the quality of the
+tropical cyclone records prior to routine satellite observa-
+tions (approx. 1970) complicate the detection of long-
+term trends in tropical cyclone activity (Pachauri & Rei-
+singer, 2007). Although increased cyclone activity on a
+global scale is less certain than other climate-change pre-
+dictions, severe storm events have the ability to spread
+plant pathogens through damaging plant parts and dis-
+persing cells through wind and driving rain.
+Potato diseases
+Potatoes are important for the diets and livelihoods of
+millions of people worldwide. Global potato production
+has grown markedly in the past years and in 2005, for the
+ﬁrst time, more potatoes were grown in developing coun-
+tries than in industrialized nations. The main producer is
+China, with a crop yield of 71 million tonnes, which
+amounts to over 20% of global production (Sta¨ ubli et al.,
+2008).
+Without adaptation measures, it is predicted that
+potato yield will decrease by 18–32% with climate
+change.
+At high latitudes, incremental warming will most likely
+lead to changes in the time of planting, the use of later-
+maturing cultivars, and a shift of the location of potato
+production (Hijmans, 2003). Higher temperatures in
+growing areas at higher latitudes will lead to a longer
+growing season and this will in turn lead to increased pest
+and disease pressure (Haverkort & Verhagen, 2008).
+The effects of climate change on ﬁve diseases caused by
+fungi ⁄ oomycetes affecting potato in Canada were pub-
+lished by Boland et al. (2004). In this study, which
+included the assessment of inoculum levels, disease estab-
+lishment, disease progress and duration of epidemic, only
+necrotrophic Verticillium spp. (Table 1), were predicted
+to increase as a result of climate change (primarily
+because of increasing temperature). Whilst the primary
+inoculum levels and duration of P. infestans epidemics
+would increase, Boland et al. (2004) predicted that the
+rate of disease progress would decrease.
+In a historical evaluation of climate-change trends on
+late blight in Finland between 1933 and 2002, and in con-
+trast to the Canadian assessment, the risk of potato late
+blight outbreak was 17-fold higher during the period
+1998–2002 than the periods 1933–62 and 1983–97.
+Simultaneously, it was quantiﬁed that the outbreaks of
+the epidemics began 2–4 weeks earlier during 1998–
+2002. The authors associated these observed trends with
+a climate more conducive to blight in the late 1990s (Han-
+nukkala et al., 2007). Furthermore, simulation modelling
+found that an increase in mean temperature in southern
+Finland of 1/C176 C will extend the late blight infection period
+by 10–20 days (Kaukoranta, 1996).
+Of the three bacterial diseases of potato, only Strepto-
+myces scabies was likely to increase in prevalence in
+Canada (Boland et al. , 2004). A net positive increase in
+prevalence of Potato leafroll virus was seen in this study
+as a reﬂection of the importance of increased vector
+populations resulting from warmer winter temperatures
+(Table 1).
+Haverkort & Verhagen (2008) suggested that higher
+temperatures and irregular rainfall (with the risk of ﬂood-
+ing) increases the risks of bacterial infections of potato
+such as Pectobacterium carotovorum var. carotovorum
+and P. chrysanthemi (Dickeya chrysanthemi ) and the
+increased spread of Ralstonia solanacearum.
+Knowledge gaps and future research
+We have reviewed climate-change-related research on
+diseases of four important crops, grown for food or oil on
+large scales around the globe. Overall, there has been lim-
+ited research on diseases and pathogens of broadacre
+crops. Most assessments have used existing data on the
+inﬂuence of environmental factors such as temperature to
+project potential climate-change impacts and only three
+have used empirical research under realistic ﬁeld condi-
+tions. However, none has used combinations of changing
+climatic and atmospheric variables in its projection, for
+instance, combining the inﬂuence of increasing tempera-
+ture with rising CO
+2. These limited ﬁndings show that
+diseases caused by necrotrophic or biotrophic pathogens
+may increase or decrease, or severity may remain
+unchanged (Table 1). In some instances, a disease has
+been projected to increase or decrease depending on the
+region and ⁄ or the weather variables used. A regional bias
+is to be expected given that projections of changes in
+climatic factors including temperature and rainfall vary
+according to geographical regions. Given the overall pau-
+city of knowledge and the variability associated with the
+fragmented studies, it is not possible to generalize about
+how diseases of food crops may behave under a changing
+climate.
+Given the number of interacting factors determining
+disease outcomes, modelling approaches will offer the
+best approach for developing realistic projections
+(Scherm, 2004). Models used to predict the likely effects
+of climate change on a pathogen’s distribution or biology
+are increasingly able to account for the complex interac-
+tions between a pathogen, its host and the environment.
+Despite this, there are critical gaps resulting from a fun-
+damental lack of species data (both spatial and temporal)
+at a ﬁeld scale and at the cellular and genomic levels. Mea-
+suring how a pathogen is affected by climate change at a
+cellular or genetic level, such as at elevated CO
+2 levels
+(Matros et al. , 2006; Lake & Wade, 2009) will provide
+insight into the prevalence of the disease in future
+climates. The challenge will be in linking this data to
+host–pathogen interactions on a spatial scale in order
+to determine future management options. Detailed
+Diseases of food crops 117
+Plant Pathology (2011) 60, 113–121
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02414.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 1 Summary of the effects of selected climate change parameters on diseases of ﬁeld crops
+Crop Disease ⁄ pathogen
+Pathogen
+mode of nutrition Summary of inﬂuence
+Overall
+assessment Reference
+Barley Powdery mildew – Blumeria graminis Biotrophic Decrease at high CO 2 Decrease Hibberd et al. (1996)
+Barley Barley yellow dwarf virus Biotrophic Decrease at high CO 2 Decrease Malmstro ¨m & Field (1997)
+Barley Smut – Ustilago hordei Biotrophic Increased smutted ears at high CO 2 Increase Manning & Tiedemann (1995)
+Maize Smut – Ustilago maydis Biotrophic Inhibited at high CO 2 Decrease Manning & Tiedemann (1995)
+Potato Potato leafroll virus Biotrophic Increase Increase Boland et al. (2004)
+Potato Six necrotrophic pathogens Necrotrophic Decrease Decrease Boland et al. (2004)
+Potato Two necrotrophic pathogens Necrotrophic Increase Increase Boland et al. (2004)
+Potato Late blight – Phytophthora infestans Necrotrophic Historically earlier start of more severe epidemics
+with changing climate
+Increase Hannukkala et al. (2007)
+Potato Early blight – Alternaria solani Necrotrophic No effect of high CO 2 No change Manning & Tiedemann (1995)
+Rice Leaf blast – Magnaporthe oryzae Necrotrophic Increased at high CO 2 Increase Kobayashi et al. (2006)
+Rice Sheath blight – Rhizoctonia solani Necrotrophic Increased at high CO 2 Increase Kobayashi et al. (2006)
+Soybean Downy mildew – Peronospora manshurica Biotrophic Decrease Decrease Boland et al. (2004)
+Soybean Downy mildew – Peronospora manshurica Biotrophic Severity decreased at high CO 2 with ⁄ without high O3 Decrease Eastburn et al.(2010)
+Soybean Six necrotrophic pathogens Necrotrophic Decrease Decrease Boland et al. (2004)
+Soybean Stem canker – Phytophthora sojae Necrotrophic Increased phytoalexin glyceollin production at high
+CO2 in resistant but not in susceptible cultivar
+Increase or
+decrease
+Braga et al. (2006)
+Soybean 2 necrotrophic pathogens Necrotrophic Increase Increase Boland et al. (2004)
+Soybean Brown spot – Septoria glycines Necrotrophic Increased at high CO 2 with ⁄ without high O3 in 1 of 3 years Increase Eastburn et al. (2010)
+Soybean Sudden death syndrome – Fusarium virguliforme Necrotrophic No effect of elevated CO 2 or O3 No change Eastburn et al. (2010)
+Wheat Barley yellow dwarf virus Biotrophic Increase with climate change Increase Chakraborty et al. (1998)
+Wheat Two biotrophic pathogens Biotrophic Decrease under climate change Decrease Boland et al. (2004)
+Wheat Stripe rust – Puccinia striiformis Biotrophic Stimulation with small rise but inhibition at higher CO 2 concentration Increase or
+decrease
+Manning & Tiedemann (1995)
+Wheat Stripe rust – Puccinia striiformis Biotrophic Increase with milder winter temperature Increase Coakley 1979
+Wheat Stripe rust – Puccinia striiformis Biotrophic Increase with pathogen adapting to higher temperature Increase Milus et al. (2006)
+Wheat Stripe rust – Puccinia striiformis Biotrophic Stripe rust severity increase with rising temperature Increase Chakraborty et al. (1998)
+Wheat Stripe rust – Puccinia striiformis Biotrophic Decrease with increased average annual temperature Decrease Yang et al. (1998)
+Wheat Stem rust – Puccinia graminis Biotrophic Stimulation with small rise but inhibition at higher CO 2 concentration Increase or
+decrease
+Manning & Tiedemann (1995)
+Wheat Leaf rust – Puccinia triticina Biotrophic Stimulation with small rise but inhibition at higher CO 2 concentration Increase or
+decrease
+Manning & Tiedemann (1995)
+Wheat Powdery mildew – Blumeria graminis Biotrophic Increase or decrease based on plant nitrogen content Increase or
+decrease
+Thompson et al. (1993)
+Wheat Dwarf bunt – Tilletia controversa Biotrophic Increase under climate change Increase Boland et al. (2004)
+Wheat Four necrotrophic pathogens Necrotrophic Decrease under climate change Decrease Boland et al. (2004)
+Wheat Snow mould – Fusarium sp. Necrotrophic Enhanced snow mould high CO 2 Increase Manning & Tiedemann (1995)
+Wheat Spot blotch – Cochliobolus sativus Necrotrophic Increase under climate change Increase Sharma et al. (2007)
+Wheat Crown rot – Fusarium pseudograminearum Necrotrophic Increased inoculum at high CO 2, increased severity
+depending on cultivar and soil water
+Increase Chakraborty et al. (1998);
+Melloy et al. (2010)
+Wheat Head blight – Fusarium sp. Necrotrophic No effect of climate change No change Boland et al. (2004)
+118 J. Luck et al.
+Plant Pathology (2011) 60, 113–121
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02414.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+knowledge of the host, pathogen and disease epidemiol-
+ogy in a farming-systems context is essential for this, and
+since both parasitic and saprotrophic ﬁtness will have to
+be considered for necrotrophs the list is considerably
+longer than for biotrophs. The retrospective analysis of
+long term-datasets such as herbarium specimens
+reviewed by Jeger & Pautasso (2008) and Fitt et al.
+(2011) will add to knowledge on the biology, distribution
+and adaptative responses of plant pathogens (and their
+vectors) to climate change. Quantitative data will
+increase the ability to counteract new risks posed by cli-
+mate change for endemic pathogens and assist in the abil-
+ity to circumvent any new introduction, potentially
+driven by climate-change events.
+The ability to generate genetic variations as a response
+to changes in the environment enables plant pathogens to
+become highly adaptive organisms (Pangga et al., 2011).
+New phenotypic strains or pathogenic races often arise in
+response to changing climate (Milus et al. , 2009) or the
+deployment of resistant host cultivars, such as with wheat
+rusts (Chakraborty et al. , 2010). Therefore, it is impor-
+tant to consider pathogen evolution and the effectiveness
+of resistant plant varieties for an accurate assessment of
+diseases on food crops in the future. It is also important to
+bear in mind that climate is only one driver of change
+when examining the future effects of plant disease on
+food crops. Other factors to consider include disease
+management practices such as the use of resistant culti-
+vars and crop management practices such as time of
+planting, irrigation practices, stubble retention and crop
+rotations.
+References
+Ainsworth E, Long S, 2005. What have we learned from
+15 years of free-air CO2 enrichment (FACE)? A meta-analytic
+review of the responses of photosynthesis, canopy properties
+and plant production to rising CO2. New Phytologist 165,
+351–72.
+Ainsworth E, Beier C, Calfapietra Cet al., 2008. Next generation
+of elevated [CO2] experiments with crops: a critical investment
+for feeding the future world.Plant, Cell & Environment 31,
+1317–24.
+Anderson P, Cunningham A, Patel N, Morales F, Epstein P, Daszak
+P, 2004. Emerging infectious diseases of plants: pathogen
+pollution, climate change and agrotechnology drivers.Trends in
+Ecology and Evolution 19, 535–44.
+Awmack C, Harrington R, Leather S, Lawton J, 1996. The impacts
+of elevated CO2 on aphid–plant interactions.Aspects of
+Applied Biology 45, 317–22.
+Bale J, 2002. Herbivory in global climate research: direct effects of
+rising temperature on insect herbivores.Global Change Biology
+8, 1–16.
+Berry P, Dawson T, Harrison P, Pearson R, 2002. Modelling
+potential impacts of climate change on the bioclimatic envelope
+of species in Britain and Ireland.Global Ecology and
+Biogeography 11, 453–62.
+Boland G, Melzer M, Hopkin A, Higgins V, Nassuth A, 2004.
+Climate change and plant diseases in Ontario.Canadian
+Journal of Plant Pathology 26, 335–50.
+Braga MR, Aidar MPM, Marabes MA, de Godoy RL, 2006.
+Effects of elevated CO2 on the phytoalexin production of two
+soybean cultivars differing in the resistance to stem canker
+disease.Environmental and Experimental Botany 58, 85–92.
+Cannon R, 1998. The implications of predicted climate change for
+insect pests in the UK, with emphasis on non-indigenous species.
+Global Change Biology 4, 785–96.
+Chakraborty S, Datta S, 2003. How will plant pathogens adapt to
+host plant resistance at elevated CO2 under changing climate?
+New Phytologist 159, 733–42.
+Chakraborty S, Newton AC, 2011. Climate change, plant diseases
+a n df o o ds e c u r i t y :a no v e r v i e w .Plant Pathology 60, 2–14.
+Chakraborty S, Murray G, Magarey Pet al., 1998. Potential impact
+of climate change on plant diseases of economic signiﬁcance to
+Australia.Australasian Plant Pathology 27, 15–35.
+Chakraborty S, Tiedemann A, Teng P, 2000. Climate change:
+potential impact on plant diseases.Environmental Pollution
+108, 317–26.
+Chakraborty S, Murray G, White N, 2002.Impact of Climate
+Change on Important Plant Diseases in Australia. Kingston,
+ACT, Australia: Rural Industries Research and Development
+Corporation. Publication No. WO2⁄ 010 (RIRDC Project No.
+CST-4A).
+Chakraborty S, Luck J, Hollaway Get al., 2008. Impacts of global
+change on diseases of agricultural crops and forest trees.CAB
+Reviews: Perspectives in Agriculture, Veterinary Science,
+Nutrition and Natural Resources 3, 1–15.
+Chakraborty S, Luck J, Hollaway G, Fitzgerald G, White N, 2010.
+Rust-prooﬁng wheat for a changing climate.BGRI 2010
+Technical Workshop, 30–31 May 2010, St Petersburg, Russia.
+[http://www.globalrust.org/db/attachments/bgriiwc/21/2/10-
+Chakraborty-A4-ca-embargo.pdf].
+Coakley S, 1979. Climate variability in the Paciﬁc Northwest and
+its effect on stripe rust disease of winter wheat.Climatic Change
+2, 33–51.
+Coakley S, Scherm H, Chakraborty S, 1999. Climate change and
+plant disease management.Annual Review of Phytopathology
+37, 399–426.
+CSIRO, BOM, 2007.Climate Change in Australia. Technical
+Report 2007. Canberra, Australia: CSIRO.
+Eastburn D, Degennaro M, Delucia E, Dermody O, McElrone A,
+2010. Elevated atmospheric carbon dioxide and ozone alter
+soybean diseases at SoyFACE.Global Change Biology 16,
+320–30.
+Easterling WE, Aggarwal PK, Batima Pet al., 2007. Food, ﬁbre
+and forest products. In: Parry ML, Canziani OF, Palutikof PJ,
+van der Linden PJ, Hanson CE, eds.Climate Change 2007:
+Impacts, Adaptation and Vulnerability. Contribution of
+Working Group II to the Fourth Assessment Report of the
+Intergovernmental Panel on Climate Change. Cambridge, UK:
+Cambridge University Press, 273–313.
+E r d aL ,W e iX ,H u iJet al., 2005. Climate change impacts on
+crop yield and quality with CO2 fertilization in China.
+Philosophical Transactions of the Royal Society B:
+Biological Sciences 360, 2149–54.
+Fitt BDL, Fraaije BA, Chandramohan P, Shaw MW, 2011. Impacts
+of changing air composition on severity of arable crop disease
+epidemics.Plant Pathology 60, 44–53.
+Fuhrer J, 2003. Agroecosystem response to combinations of
+elevated CO2,o z o n e ,a n dg l o b a lc l i m a t ec h a n g e .Agriculture,
+Ecosystems & Environment 97, 1–20.
+Diseases of food crops 119
+Plant Pathology (2011) 60, 113–121
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02414.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Garrett K, Dendy S, Frank E, Rouse M, Travers S, 2006. Climate
+change effects on plant disease: genomes to ecosystems.Annual
+Review of Phytopathology 44, 489–509.
+Ghini R, Hamada E, Bettiol W, 2008. Climate change and plant
+diseases.Scientia Agricola 65, 98–107.
+Ghini R, Bettiol W, Hamada E, 2011. Diseases in tropical and
+plantation crops as affected by climate changes: current
+knowledge and perspectives.Plant Pathology 60, 122–32.
+Gottwald T, Irey M, 2007. Post-hurricane analysis of citrus canker
+II: predictive model estimation of disease spread and area
+potentially impacted by various eradication protocols following
+catastrophic weather events.Plant Health Progress doi:
+10.1094/PHP-2007-0405-01-RS.
+Hannukkala A, Kaukoranta T, Lehtinen A, Rahkonen A, 2007.
+Late-blight epidemics on potato in Finland, 1933–2002;
+increased and earlier occurrence of epidemics associated
+with climate change and lack of rotation.Plant Pathology 56,
+167–76.
+Haverkort A, Verhagen A, 2008. Climate change and its
+repercussions for the potato supply chain.Potato Research 51,
+223–37.
+Hibberd J, Whitbread R, Farrar J, 1996. Effect of 700lmol mol)1
+CO2 and infection by powdery mildew on the growth and
+carbon partitioning of barley.New Phytologist 134, 309–15.
+Hijmans R, 2003. The effect of climate change on global potato
+production.American Journal of Potato Research 80,
+271–9.
+Hollaway G, Bedggood W, 2003.Barley Yellow Dwarf Virus.
+Melbourne, VIC, Australia: Department of Primary Industries.
+Agriculture Note AG1113.
+Irey M, Gottwald T, Graham J, Riley T, Carlton G, 2006. Post-
+hurricane analysis of citrus canker spread and progress towards
+the development of a predictive model to estimate disease spread
+due to catastrophic weather events.Plant Health Progress doi:
+10.1094/PHP-2–6-0822-01-RS.
+Isard S, Gage S, Comtois P, Russo J, 2005. Principles of
+aerobiology applied to soybean rust as an invasive species.
+BioScience 55, 851–62.
+Jeger MJ, Pautasso M, 2008. Plant disease and global change – the
+importance of long-term data sets.New Phytologist 177, 8–11.
+Jones E, 2000. Brown rust of wheat. In:UK Cereal Pathogen
+Virulence Survey 1999. Annual Report. Cambridge, UK: NIAB,
+37–44.
+Jones E, Clifford B, 1997. Brown rust of wheat. In:UK Cereal
+Pathogen Virulence Survey 1996 Annual Report.C a m b r i d g e ,
+UK: NIAB, 18–28.
+Katis M, Tsitsipis J, Stevens M, Powell G, 2007. Transmission of
+plant viruses. In: Van Emden H, Harrington R, eds.Aphids as
+Crop Pests. Wallingford, UK: CABI Publishing, 353–90.
+Kaukoranta T, 1996. Impact of global warming on potato late
+blight: risk, yield loss and control.Agricultural and Food
+Science in Finland 5, 311–28.
+K o b a y a s h iT ,I s h i g u r oK ,N a k a j i m aT ,K i mH ,O k a d aM ,
+Kobayashi K, 2006. Effects of elevated atmospheric CO2
+concentration on the infection of rice blast and sheath blight.
+Phytopathology 96, 425–31.
+Lake J, Wade R, 2009. Plant–pathogen interactions and elevated
+CO
+2: morphological changes in favour of pathogens.Journal of
+Experimental Botany 60, 3123–31.
+Lapierre H, Signoret P, 2004.Viruses and Virus Diseases of
+Poaceae (Gramineae).P a r i s ,F r a n c e :I N R A .
+Lister R, Ranieri R, 1995. Distribution and economic importance
+of barley yellow dwarf. In: D’Arcy C, Burnett P, eds.Barley
+Yellow Dwarf: 40 Years of Progress.S tP a u l ,M N ,U S A :A P S
+Press, 29–54.
+Lobell D, Field C, 2007. Global scale climate–crop yield
+relationships and the impacts of recent warming.
+Environmental Research Letters 2, 014002, doi: 10.1088/
+1748-9326/2/1/014002.
+Ludwig F, Asseng S, 2006. Climate change impacts on wheat
+production in a Mediterranean environment in Western
+Australia.Agricultural Systems 90, 159–79.
+Luo Y, Teng P, Fabellar N, TeBeest D, 1998. The effects of global
+temperature change on rice leaf blast epidemics: a simulation
+study in three agroecological zones.Agriculture, Ecosystems &
+Environment 68, 187–96.
+Malmstro¨ m C, Field C, 1997. Virus-induced differences in the
+response of oat plants to elevated carbon dioxide.Plant, Cell &
+Environment 20, 178–88.
+Manning W, Tiedemann A, 1995. Climate change: potential
+effects of increased atmospheric carbon dioxide (CO2), ozone
+(O3) ,a n du l t r a v i o l e t - B( U V - B )r a d i a t i o no np l a n td i s e a s e s .
+Environmental Pollution 88, 219–45.
+Matros A, Ammer S, Kettig B, Buck-Sorlin G, Sonnewald U,
+Mock H, 2006. Growth at elevated CO2 concentrations leads to
+modiﬁed proﬁles of secondary metabolites in tobacco cv.
+SamsunNN and to increased resistance against infection with
+Potato virus Y. Plant, Cell & Environment 29, 126–37.
+Mayo M, D’Arcy C, 1999. Family Luteoviridae: a reclassiﬁcation
+of luteoviruses. In: Smith H, Barker H, eds.The Luteoviridae.
+Wallingford, UK: CABI Publishing, 15–22.
+Melloy P, Hollaway G, Luck J, Norton R, Aitken ESC, 2010.
+Production and ﬁtness ofFusarium pseudograminearum
+inoculum at elevated carbon dioxide in FACE.Global Change
+Biology 16, 3363–73.
+Milus E, Seyran E, McNew R, 2006. Aggressiveness ofPuccinia
+striiformisf. sp. triticiisolates in the south-central United States.
+Plant Disease 90, 847–52.
+Milus E, Kristensen K, Hovmøller M, 2009. Evidence for increased
+aggressiveness in a recent widespread strain ofPuccinia
+striiformisf. sp. triticicausing stripe rust of wheat.
+Phytopathology 99, 89–94.
+Mitchell CE, Reich PB, Tilman D, Groth JV, 2003. Effects of elevated
+CO2, nitrogen deposition, and decreased species diversity on foliar
+fungal plant disease.Global Change Biology9, 438–51.
+Murray G, Brennan J, 2009. Estimating disease losses to the
+Australian wheat industry.Australasian Plant Pathology 38,
+558–70.
+Natural Resource Management Ministerial Council, 2004.
+National Biodiversity and Climate Change Action Plan
+2004–2007.C a n b e r r a ,A C T ,A u s t r a l i a :A u s t r a l i a nG o v e r n m e n t ,
+Department of the Environment and Heritage.
+Nguyen N, 2002.Global Climate Changes and Rice Food Security.
+R o m e ,I t a l y :F A O .
+O k a d aM ,L i e f f e r i n gM ,N a k a m u r aH ,Y o s h i m o t oM ,K i mH ,
+Kobayashi K, 2001. Free-air CO2 enrichment (FACE) using
+pure CO2 injection: system description.New Phytologist 150,
+251–60.
+Pachauri RK, Reisinger A, eds, 2007.Climate Change 2007:
+Synthesis Report. Contribution of Working Groups I, II and III
+to the Fourth Assessment Report of the Intergovernmental Panel
+on Climate Change. Geneva, Switzerland: IPCC.
+120 J. Luck et al.
+Plant Pathology (2011) 60, 113–121
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02414.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Pangga I, Chakraborty S, Yates D, 2004. Canopy size and induced
+resistance inStylosanthes scabradetermine anthracnose severity
+at high C.Phytopathology 94, 221–7.
+Pangga R, Hanan J, ChakrabortyS, 2011. Pathogen dynamics in a
+crop canopy and their evolution under changing climate.Plant
+Pathology 60, 70–81.
+Park R, 1990. The role of temperature and rainfall in the
+epidemiology ofPuccinia striiformisf.sp.triticiin the summer
+rainfall area of eastern Australia.Plant Pathology 39, 416–23.
+Parker I, Gilbert G, 2004. The evolutionary ecology of novel plant–
+pathogen interactions.Annual Review of Ecology, Evolution,
+and Systematics 35, 675–700.
+Parmesan C, Yohe G, 2003. A globally coherent ﬁngerprint of
+climate change impacts across natural systems.Nature 421,
+37–42.
+Pimentel D, McNair S, Janecka Jet al., 2001. Economic and
+environmental threats of alien plant, animal, and microbe
+invasions.Agriculture, Ecosystems & Environment 84, 1–20.
+Pittock B, Arthington A, Booth Tet al., 2003.Climate Change:
+An Australian Guide to the Science and Potential Impacts.
+Canberra, ACT, Australia: Australian Greenhouse Ofﬁce.
+Plessl M, Heller W, Payer H, Elstner E, Habermeyer J, Heiser I,
+2005. Growth parameters and resistance againstDrechslera teres
+of spring barley (Hordeum vulgareL. cv. Scarlett) grown at
+elevated ozone and carbon dioxide concentrations.Plant
+Biology 7, 694–705.
+Rosenzweig C, Iglesias A, Yang X, Epstein P, Chivian E, 2001.
+Climate change and extreme weather events; implications for
+food production, plant diseases, and pests.Global Change and
+Human Health 2, 90–104.
+Scherm H, 2004. Climate change: can we predict the impacts on
+plant pathology and pest management?Canadian Journal of
+Plant Pathology 26, 267–73.
+Semenov M, 2009. Impacts of climate change on wheat in
+England and Wales.Journal of the Royal Society Interface 6,
+343–50.
+Sharma R, Duveiller E, Ortiz-Ferrara G, 2007. Progress and
+challenge towards reducing wheat spot blotch threat in the
+E a s t e r nG a n g e t i cP l a i n so fS o u t hAsia: is climate change already
+taking its toll?Field Crops Research 103, 109–18.
+Spackman M, Finlay K, Crnov Ret al., 2008.Identifying Priorities
+for Pest and Disease Research in Key Victorian Grain and
+Horticultural Crops under Elevated CO2. Recommendations for
+Free-Air Carbon Dioxide Enrichment (FACE) Research.
+Melbourne, Vic., Australia: Department of Primary Industries.
+Research Report.
+Sta¨ubli B, Wenger R, Wymann Von Dach S, 2008.Potatoes and
+Climate Change. Zollikofen, Switzerland: InfoResources Focus
+No. 1⁄ 08. [http://www.inforesources.ch/pdf/focus08_1_e.pdf].
+Stiling P, Cornelissen T, 2007. How does elevated carbon dioxide
+(CO2) affect plant–herbivore interactions? A ﬁeld experiment
+and meta-analysis of CO2-mediated changes on plant chemistry
+and herbivore performance.Global Change Biology 13,
+1–20.
+Sturrock RN, Frankel SJ, Brown AVet al., 2011. Climate change
+and forest diseases.Plant Pathology 60, 133–49.
+Thompson GB, Brown JKM, Woodward FI, 1993. The effects of
+host carbon dioxide, nitrogen and water supply on the infection
+of wheat by powdery mildew and aphids.Plant, Cell &
+Environment 16, 687–94.
+Tollenaar H, 1985. Uredospore germination and development
+of some cereal rusts from south-central Chile at constant
+temperatures.Phytopathologische Zeitschrift 114,
+118–25.
+W e b bK M ,O n aI ,B a iJet al., 2010. A beneﬁt of high temperature:
+increased effectiveness of a rice bacterial blight disease resistance
+gene.New Phytologist 185, 568–76.
+Wellings C, McIntosh R, 1990.Puccinia striiformisf. sp. triticiin
+Australasia: pathogenic changes during the ﬁrst 10 years.Plant
+Pathology 39, 316–25.
+White N, Chakraborty S, MurrayG, 2004. A linked process-based
+model to study the interaction betweenPuccinia striiformisand
+wheat. In: Fischer T, Turner N, Angus Jet al.,e d s .New
+Directions for a Diverse Planet: Proceedings of the Fourth
+International Crop Sciences Congress, September 2004.
+Brisbane, Australia. [http://regional.org.au/au/asa/2004/poster/2/
+8/1242_white.htm].
+Whittaker J, 1999. Impacts and responses at population level of
+herbivorous insects to elevated CO2. European Journal of
+Entomology 96, 149–56.
+Yang X, Sun P, Hu B, 1998. Decadal change of plant diseases as
+affected by climate in Chinese agroecosystems. In:International
+Plant Pathology Congress. Edinburgh, UK. [http://www.bspp.
+org.uk/icpp98/4.2/1.html].
+Diseases of food crops 121
+Plant Pathology (2011) 60, 113–121
+ 13653059, 2011, 1, Downloaded from https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-3059.2010.02414.x, Wiley Online Library on [26/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

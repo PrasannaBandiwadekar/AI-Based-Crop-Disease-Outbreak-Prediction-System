@@ -1,0 +1,10 @@
+=== Comparison With Baseline ===
+
+Old F1 vs New F1:
+Window 3d: Old F1 = 0.0141 | New F1 = 0.2742 | Improvement = +0.2601
+Window 5d: Old F1 = 0.0417 | New F1 = 0.3104 | Improvement = +0.2687
+Window 7d: Old F1 = 0.0142 | New F1 = 0.3035 | Improvement = +0.2893
+Window 14d: Old F1 = 0.0000 | New F1 = 0.3161 | Improvement = +0.3161
+Window 28d: Old F1 = 0.0000 | New F1 = 0.1966 | Improvement = +0.1966
+
+Window that benefited most: 14 days (Improvement: +0.3161)

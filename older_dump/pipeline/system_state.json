@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-04-16",
+  "last_calibration_date": "2026-04-16",
+  "thresholds": {
+    "critical": 0.30,
+    "warning": 0.15,
+    "watch": 0.05,
+    "moisture_gate_mm": 25
+  },
+  "performance": {
+    "total_feedback": 0,
+    "correct_critical": 0,
+    "total_critical": 0,
+    "missed_outbreaks": 0,
+    "total_outbreaks": 0,
+    "avg_lead_time": 0.0,
+    "adjustment_history": []
+  }
+}

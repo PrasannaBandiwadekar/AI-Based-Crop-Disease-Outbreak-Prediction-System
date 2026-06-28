@@ -1,0 +1,17 @@
+=== Master Multi-Scale Comparison (RF vs GRU) ===
+
+ window model       f1   recall      auc  early_warning  missed
+      3   GRU 0.326870 0.421429 0.861767       0.473684       7
+      3    RF 0.348066 0.450000 0.835220       0.578947       7
+      5   GRU 0.310448 0.371429 0.862986       0.473684       8
+      5    RF 0.350404 0.464286 0.828547       0.578947       7
+      7   GRU 0.320242 0.378571 0.868549       0.526316       9
+      7    RF 0.355670 0.492857 0.837303       0.473684       7
+     14   GRU 0.341935 0.378571 0.850937       0.421053      10
+     14    RF 0.360563 0.457143 0.818373       0.315789       8
+     28   GRU 0.265683 0.257143 0.856246       0.368421       9
+     28    RF 0.173913 0.157143 0.772825       0.263158      13
+
+=== Interpretation ===
+Average F1 - GRU: 0.3130 | RF: 0.3177
+Verdict: Predictability is primarily driven by TEMPORAL WINDOW STRUCTURE.

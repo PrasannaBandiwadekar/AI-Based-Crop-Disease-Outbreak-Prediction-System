@@ -1,0 +1,56 @@
+{
+    "paper_type": "epidemiology",
+    "disease": "red_rot",
+    "mechanism": {
+        "infection_process": "Primary infection via infected setts (seed-borne). Pathogen can traverse from sett to stalk and crown without conspicuous early symptoms. July inoculations produce more potent secondary spread than August/September ones.",
+        "spread_modes": [
+            "Infected setts (primary inoculum)",
+            "Spindle infection (conidia spreading from stalk to crown)",
+            "Vascular bundle transit",
+            "Soil survival (3–4 months in natural soil)"
+        ],
+        "progression_pattern": "Death of young shoots → spindle infection → yellowing/withering of crown leaves from margin → internal reddening with white patches and alcoholic odor → nodal rotting and plant death."
+    },
+    "environmental_drivers": {
+        "temperature": "Optimum pathogen germination at 25 °C. Disease flares up during grand growth phase (T2M 24–30 °C). Lower temperatures push pathogen towards stool base.",
+        "humidity": "Monsoon humidity drives grand growth phase and pathogen flare-up.",
+        "rainfall": "Monsoon rain provides moisture for grand growth and secondary spread of inoculum.",
+        "variability": "July timing of infection is critical — produces more severe secondary spread than later months."
+    },
+    "temporal_behavior": {
+        "latent_phase": true,
+        "requires_accumulation": true,
+        "delay_description": "Pathogen traverses sett → stalk without visible symptoms. Mid-rib isolates remain reservoir before acquiring stalk infection capability. Symptoms manifest mainly during monsoon (July–Sept) but depend on 14–21 day weather accumulation."
+    },
+    "feature_mapping": {
+        "weather_features": [
+            "T2M",
+            "T2M_MIN",
+            "T2M_MAX",
+            "RH2M",
+            "PRECTOTCORR"
+        ],
+        "temporal_features": [
+            "lag_features (14–21 day pre-symptom accumulation window)",
+            "rolling_windows (14-day, 28-day)"
+        ],
+        "agronomic_features": [
+            "variety_susceptibility",
+            "infected_sett",
+            "crop_age",
+            "inoculation_timing"
+        ]
+    },
+    "outbreak_logic": {
+        "requires_sustained_conditions": true,
+        "supports_early_warning": true,
+        "threshold_type": "variable"
+    },
+    "advisory_actions": [
+        "Three-tier seed nursery programme using disease-free setts.",
+        "Physical heat treatment of setts.",
+        "Field sanitation: remove and destroy infected clumps.",
+        "Select planting material from disease-free fields only."
+    ],
+    "confidence_level": "high"
+}

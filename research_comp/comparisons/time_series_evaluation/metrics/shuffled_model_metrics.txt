@@ -1,0 +1,15 @@
+
+=== Shuffled Model (Broken Time Order) ===
+Accuracy  : 0.9643
+F1-Score  : 0.2353
+ROC-AUC   : 0.9604
+
+              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.98      1397
+           1       0.80      0.14      0.24        58
+
+    accuracy                           0.96      1455
+   macro avg       0.88      0.57      0.61      1455
+weighted avg       0.96      0.96      0.95      1455
+

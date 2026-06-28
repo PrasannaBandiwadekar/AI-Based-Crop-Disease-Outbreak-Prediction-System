@@ -1,0 +1,142 @@
+[
+  {
+    "year": 2006,
+    "outbreak_occurred": true,
+    "confidence": "HIGH",
+    "source": "VSIT Annual Report 2006; IMD above-normal monsoon",
+    "notes": "Verify Sangli district specifically vs state-level"
+  },
+  {
+    "year": 2007,
+    "outbreak_occurred": true,
+    "confidence": "HIGH",
+    "source": "VSIT Annual Report 2007; Vishwakarma et al. 2013 Sugar Tech",
+    "notes": "Pathotype Cf 267 dominant this season per SBI records"
+  },
+  {
+    "year": 2008,
+    "outbreak_occurred": true,
+    "confidence": "HIGH",
+    "source": "VSIT Annual Report 2008; ICAR-SBI Technical Bulletin",
+    "notes": ""
+  },
+  {
+    "year": 2009,
+    "outbreak_occurred": true,
+    "confidence": "HIGH",
+    "source": "VSIT Annual Report 2009; Malve et al. 2018 JPSAS",
+    "notes": "Late monsoon withdrawal extended humidity window"
+  },
+  {
+    "year": 2010,
+    "outbreak_occurred": true,
+    "confidence": "MEDIUM",
+    "source": "IMD above-normal; Maharashtra Sugar Federation 2010 season",
+    "notes": "Federation report mentions disease losses \u2014 verify Red Rot specifically"
+  },
+  {
+    "year": 2011,
+    "outbreak_occurred": true,
+    "confidence": "MEDIUM",
+    "source": "IMD near-normal; indirect reference Prajapati et al. 2020",
+    "notes": "Lower confidence \u2014 replace with VSIT data if available"
+  },
+  {
+    "year": 2015,
+    "outbreak_occurred": true,
+    "confidence": "MEDIUM",
+    "source": "IMD above-normal Oct 2015; VSIT report pending verification",
+    "notes": "Late-season event \u2014 check Oct/Nov candidates specifically"
+  },
+  {
+    "year": 2019,
+    "outbreak_occurred": true,
+    "confidence": "HIGH",
+    "source": "IMD excess monsoon 2019; Prajapati et al. 2020 Indian Phytopathology",
+    "notes": "2019 was a documented high-pressure year nationally"
+  },
+  {
+    "year": 2020,
+    "outbreak_occurred": true,
+    "confidence": "HIGH",
+    "source": "IMD above-normal; VSIT Annual Report 2020",
+    "notes": "Extended monsoon into Oct 2020"
+  },
+  {
+    "year": 2012,
+    "outbreak_occurred": false,
+    "confidence": "HIGH",
+    "source": "IMD deficit monsoon 2012; no VSIT disease alerts",
+    "notes": "2012 Maharashtra drought year \u2014 Red Rot pressure very low"
+  },
+  {
+    "year": 2013,
+    "outbreak_occurred": false,
+    "confidence": "HIGH",
+    "source": "VSIT Annual Report 2013; IMD near-normal",
+    "notes": ""
+  },
+  {
+    "year": 2014,
+    "outbreak_occurred": false,
+    "confidence": "MEDIUM",
+    "source": "IMD near-normal; no major reports found",
+    "notes": "Verify with VSIT \u2014 absence of report \u2260 confirmed clean"
+  },
+  {
+    "year": 2016,
+    "outbreak_occurred": false,
+    "confidence": "MEDIUM",
+    "source": "IMD near-normal Madhya Maharashtra; no reports",
+    "notes": ""
+  },
+  {
+    "year": 2017,
+    "outbreak_occurred": false,
+    "confidence": "MEDIUM",
+    "source": "IMD near-normal; no reports found",
+    "notes": ""
+  },
+  {
+    "year": 2022,
+    "outbreak_occurred": false,
+    "confidence": "MEDIUM",
+    "source": "IMD near-normal; no reports found 2022",
+    "notes": "Recent \u2014 may need field contact to confirm"
+  },
+  {
+    "year": 2023,
+    "outbreak_occurred": false,
+    "confidence": "MEDIUM",
+    "source": "IMD near-normal 2023",
+    "notes": ""
+  },
+  {
+    "year": 2005,
+    "outbreak_occurred": null,
+    "confidence": "UNKNOWN",
+    "source": "No source found",
+    "notes": "Check VSIT 2005 report \u2014 dataset starts this year"
+  },
+  {
+    "year": 2018,
+    "outbreak_occurred": null,
+    "confidence": "UNKNOWN",
+    "source": "Conflicting signals \u2014 IMD near-normal but one indirect ref",
+    "notes": "Verify before including"
+  },
+  {
+    "year": 2021,
+    "outbreak_occurred": null,
+    "confidence": "UNKNOWN",
+    "source": "IMD above-normal 2021 but no explicit disease report found",
+    "notes": "Could be outbreak year \u2014 verify with VSIT 2021 report"
+  },
+  {
+    "year": 2024,
+    "outbreak_occurred": null,
+    "confidence": "UNKNOWN",
+    "source": "Insufficient data",
+    "notes": "Recent \u2014 field reports only"
+  }
+]

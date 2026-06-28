@@ -1,0 +1,18 @@
+Training Log
+=====================
+Dataset loaded. Total rows: 7285
+Window 3: Sequence dataset created. Rows: 7282
+Window 3: Temporal model trained in 0.53s
+Window 3: Shuffled model trained in 0.41s
+Window 5: Sequence dataset created. Rows: 7280
+Window 5: Temporal model trained in 0.55s
+Window 5: Shuffled model trained in 0.51s
+Window 7: Sequence dataset created. Rows: 7278
+Window 7: Temporal model trained in 0.49s
+Window 7: Shuffled model trained in 0.55s
+Window 14: Sequence dataset created. Rows: 7271
+Window 14: Temporal model trained in 0.61s
+Window 14: Shuffled model trained in 0.63s
+Window 28: Sequence dataset created. Rows: 7257
+Window 28: Temporal model trained in 0.66s
+Window 28: Shuffled model trained in 0.87s

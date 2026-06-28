@@ -1,0 +1,22 @@
+=== Feature Group Ablation Report ===
+
+Group: Raw (6 features)
+  Precision: 0.2000 | Recall: 0.0143 | F1: 0.0267 | AUC: 0.8301
+  Event Detection: 2/19 (10.5%)
+  Missed Outbreaks: 17
+
+Group: Lags (12 features)
+  Precision: 0.0000 | Recall: 0.0000 | F1: 0.0000 | AUC: 0.7999
+  Event Detection: 0/19 (0.0%)
+  Missed Outbreaks: 19
+
+Group: Rolling (12 features)
+  Precision: 0.5556 | Recall: 0.0357 | F1: 0.0671 | AUC: 0.8231
+  Event Detection: 2/19 (10.5%)
+  Missed Outbreaks: 17
+
+Group: Risk_Agron (12 features)
+  Precision: 0.3171 | Recall: 0.1857 | F1: 0.2342 | AUC: 0.7468
+  Event Detection: 12/19 (63.2%)
+  Missed Outbreaks: 7
+

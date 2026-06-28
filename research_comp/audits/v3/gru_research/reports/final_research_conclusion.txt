@@ -1,0 +1,14 @@
+## 🔍 A. Does deep learning improve performance?
+No. Improvement: -0.0565
+
+## 🔍 B. Is temporal sequence learning meaningful?
+Comparison of original vs shuffled F1: 0.2596 vs 0.2596
+
+## 🔍 C. Optimal modeling approach
+The Random Forest model shows better performance on this dataset.
+
+## 🔍 D. Is LSTM required?
+GRU already captures sequential dependencies; LSTM might provide marginal gains but at higher complexity.
+
+## 🔍 E. Biological interpretation
+The 14-day window aligns with typical disease incubation and development cycles in many crops.

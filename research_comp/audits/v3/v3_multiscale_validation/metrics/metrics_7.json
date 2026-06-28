@@ -1,0 +1,15 @@
+{
+    "window": 7,
+    "precision": 0.29213483146067415,
+    "recall": 0.37142857142857144,
+    "f1": 0.3270440251572327,
+    "roc_auc": 0.8654983226167179,
+    "brier_score": 0.05714682749580623,
+    "false_alarm_rate": 0.06164383561643835,
+    "event_detection_rate": 0.5263157894736842,
+    "early_warning_success": 0.42105263157894735,
+    "missed_outbreaks": 9,
+    "total_events": 19,
+    "best_threshold": 0.1,
+    "train_duration": 15.832345485687256
+}

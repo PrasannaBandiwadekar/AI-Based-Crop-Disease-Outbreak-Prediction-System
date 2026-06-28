@@ -1,0 +1,25 @@
+V9 SYSTEM FAILURE DECOMPOSITION — SANGLI GROUND TRUTH
+============================================================
+
+1. Failure Attribution Table
+event_start_date   | f_layer  | g_layer  | h_layer  | final  | failure
+---------------------------------------------------------------------------
+2008-08-10         | low      | high     | low      | 9.76   | A
+2010-06-26         | low      | high     | low      | 4.94   | A
+2011-07-15         | low      | medium   | low      | 20.10  | A
+2015-10-10         | low      | medium   | low      | 3.22   | A
+2019-06-23         | low      | low      | low      | 12.66  | A
+2020-07-02         | low      | high     | low      | 39.80  | A
+
+2. Layer-wise Failure Counts
+Layer           | Failure Count
+------------------------------
+f-layer         | 6
+g-layer         | 0
+h-layer         | 0
+calibration     | 0
+
+3. Dominant Bottleneck Layer: F-LAYER
+
+4. System Diagnosis Summary
+Primary bottleneck: f-layer. Failure to generate environmental pressure alerts despite crop vulnerability.

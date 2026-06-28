@@ -1,0 +1,54 @@
+{
+    "paper_type": "epidemiology",
+    "disease": "red_rot",
+    "mechanism": {
+        "infection_process": "C. falcatum infects standing canes during the rainy season via nodal inoculation. Soil-borne inoculum survives 60–90 days and spreads via irrigation/rain water.",
+        "spread_modes": [
+            "Soil-borne (infected debris survives 60–90 days)",
+            "Water dissemination of conidia",
+            "Nodal infection during monsoon"
+        ],
+        "progression_pattern": "Nodal transgression → lesion spreading across cane width → white spot formation → yellowing and drying of tops."
+    },
+    "environmental_drivers": {
+        "temperature": "Optimum red rot development at mean T2M 29.4–31.0 °C. T2M_MIN is the single most important predictor (negatively correlated with disease incidence in the succeeding 15-day fortnight; R² 0.82–0.87).",
+        "humidity": "Good disease development at RH 79–92 %. Evening RH is a significant secondary predictor.",
+        "rainfall": "Water plays a key role in disseminating conidia and predisposing the host to penetration.",
+        "variability": "SMRA models show T2M_MIN variation in one fortnight strongly predicts disease incidence in the next fortnight (15-day lag)."
+    },
+    "temporal_behavior": {
+        "latent_phase": true,
+        "requires_accumulation": true,
+        "delay_description": "T2M_MIN in one 15-day period negatively predicts disease in the next 15-day period. Soil inoculum persists 60–90 days. Top-drying is a cumulative delayed symptom."
+    },
+    "feature_mapping": {
+        "weather_features": [
+            "T2M",
+            "T2M_MIN",
+            "T2M_MAX",
+            "RH2M",
+            "PRECTOTCORR"
+        ],
+        "temporal_features": [
+            "lag_features (15-day lag — critical for SMRA model replication)",
+            "rolling_windows (14-day mean of T2M_MIN, RH2M)"
+        ],
+        "agronomic_features": [
+            "variety_susceptibility",
+            "nitrogen_fertilizer_level",
+            "soil_amendments"
+        ]
+    },
+    "outbreak_logic": {
+        "requires_sustained_conditions": true,
+        "supports_early_warning": true,
+        "threshold_type": "variable"
+    },
+    "advisory_actions": [
+        "Treat setts with Bavistin (0.25 % dip, 1–2 hours).",
+        "Foliar spray Bavistin 0.1 % twice (Aug 15 and Nov 4).",
+        "Incorporate soil amendments (zinc sulphate, ferrous sulphate).",
+        "Remove and destroy infected crop debris 90+ days before replanting."
+    ],
+    "confidence_level": "high"
+}

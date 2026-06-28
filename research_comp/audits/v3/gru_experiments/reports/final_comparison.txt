@@ -1,0 +1,21 @@
+=== Final Comparison: Best GRU vs Random Forest ===
+
+### 1. Best GRU vs RF
+Metric     | RF (14d) | Best GRU (Exp #7)
+-----------|----------|----------
+F1-Score   | 0.3161   | 0.3224
+Precision  | 0.2480   | 0.2988
+Recall     | 0.4357   | 0.3500
+ROC-AUC    | 0.8289   | 0.8216
+
+### 2. Stability
+GRU F1 across 3 seeds: [0.3223684210526316, 0.2727272727272727, 0.2546816479400749]
+Mean F1: 0.2833, Std: 0.0286
+Stability: Unstable (high variance)
+
+### 3. Final Decision
+Decision: Both similar -> prefer simpler model (RF)
+
+### Answer:
+No, GRU cannot reliably outperform Random Forest for this problem.
+Random Forest with class balancing and threshold tuning remains the recommended approach.

@@ -1,0 +1,64 @@
+
+=== STEP 2: Data Leakage Detection Report ===
+Generated : 2026-04-20 11:50:57
+
+ Rolling Feature Check (shift(1) enforcement) 
+ISSUES FOUND (6):
+   LEAKAGE  temp_mean_3d: matches rolling(3).mean() WITHOUT shift(1).
+     corr_naive=1.000000  corr_correct=0.985814
+      Current-day value is INCLUDED in the window.
+   LEAKAGE  temp_mean_7d: matches rolling(7).mean() WITHOUT shift(1).
+     corr_naive=1.000000  corr_correct=0.995740
+      Current-day value is INCLUDED in the window.
+   LEAKAGE  temp_mean_14d: matches rolling(14).mean() WITHOUT shift(1).
+     corr_naive=1.000000  corr_correct=0.998472
+      Current-day value is INCLUDED in the window.
+   LEAKAGE  rain_3d: matches rolling(3).mean() WITHOUT shift(1).
+     corr_naive=1.000000  corr_correct=0.888615
+      Current-day value is INCLUDED in the window.
+   LEAKAGE  rain_7d: matches rolling(7).mean() WITHOUT shift(1).
+     corr_naive=1.000000  corr_correct=0.963739
+      Current-day value is INCLUDED in the window.
+   LEAKAGE  rain_14d: matches rolling(14).mean() WITHOUT shift(1).
+     corr_naive=1.000000  corr_correct=0.986904
+      Current-day value is INCLUDED in the window.
+
+CLEAN FEATURES (13):
+   OK  temp_lag_1: lag correctly set to t-1.
+   OK  temp_lag_2: lag correctly set to t-2.
+   OK  temp_lag_3: lag correctly set to t-3.
+   OK  temp_lag_7: lag correctly set to t-7.
+   OK  rain_lag_1: lag correctly set to t-1.
+   OK  rain_lag_2: lag correctly set to t-2.
+   OK  rain_lag_3: lag correctly set to t-3.
+   OK  rain_lag_7: lag correctly set to t-7.
+   OK  rh_lag_1: lag correctly set to t-1.
+   OK  rh_lag_2: lag correctly set to t-2.
+   OK  rh_lag_3: lag correctly set to t-3.
+   OK  rh_lag_7: lag correctly set to t-7.
+   OK  target_5d: created via shift(-5)  no mid-series NaNs found.
+
+ Root Cause (feature_engg.py lines 25-27, 32-34, 43-44) 
+  The rolling windows were computed WITHOUT .shift(1):
+    df['temp_mean_3d'] = df['T2M'].rolling(3).mean()    INCLUDES current day
+    df['rain_3d']      = df['PRECTOTCORR'].rolling(3).sum()
+    df['rh_3d']        = df['RH2M'].rolling(3).mean()
+  
+  CORRECT form (no leakage):
+    df['temp_mean_3d'] = df['T2M'].rolling(3).mean().shift(1)
+
+ VERDICT 
+  Leakage Detected : YES  rolling features include current-day value.
+  Target Leakage   : NO  target_5d = shift(-5) is correctly applied.
+
+ RECOMMENDATION 
+  Apply .shift(1) to ALL rolling windows in feature_engg.py before re-exporting.
+  Example fix:
+    df['temp_mean_3d']  = df['T2M'].rolling(3).mean().shift(1)
+    df['temp_mean_7d']  = df['T2M'].rolling(7).mean().shift(1)
+    df['temp_mean_14d'] = df['T2M'].rolling(14).mean().shift(1)
+    df['rain_3d']       = df['PRECTOTCORR'].rolling(3).sum().shift(1)
+    df['rain_7d']       = df['PRECTOTCORR'].rolling(7).sum().shift(1)
+    df['rain_14d']      = df['PRECTOTCORR'].rolling(14).sum().shift(1)
+    df['rh_3d']         = df['RH2M'].rolling(3).mean().shift(1)
+    df['rh_7d']         = df['RH2M'].rolling(7).mean().shift(1)

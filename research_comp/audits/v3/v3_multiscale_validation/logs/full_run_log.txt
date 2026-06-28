@@ -1,0 +1,52 @@
+=== Multi-Scale Sequence Traceable Run Log ===
+[2026-04-25 19:56:58] Loading data...
+[2026-04-25 19:56:58] Cleaned dataset shape: (7285, 17)
+[2026-04-25 19:56:58] --- Processing Window 3 ---
+[2026-04-25 19:56:58] Dataset for 3 saved. Shape: (7282, 3, 15)
+[2026-04-25 19:57:09] GRU 3 training complete in 9.8s
+[2026-04-25 19:57:10] Plots for 3 saved.
+[2026-04-25 19:57:10] --- Processing Window 5 ---
+[2026-04-25 19:57:11] Dataset for 5 saved. Shape: (7280, 5, 15)
+[2026-04-25 19:57:25] GRU 5 training complete in 14.3s
+[2026-04-25 19:57:26] Plots for 5 saved.
+[2026-04-25 19:57:26] --- Processing Window 7 ---
+[2026-04-25 19:57:26] Dataset for 7 saved. Shape: (7278, 7, 15)
+[2026-04-25 19:57:42] GRU 7 training complete in 15.8s
+[2026-04-25 19:57:43] Plots for 7 saved.
+[2026-04-25 19:57:43] --- Processing Window 14 ---
+[2026-04-25 19:57:44] Dataset for 14 saved. Shape: (7271, 14, 15)
+[2026-04-25 19:58:09] GRU 14 training complete in 25.3s
+[2026-04-25 19:58:10] Plots for 14 saved.
+[2026-04-25 19:58:10] --- Processing Window 28 ---
+[2026-04-25 19:58:11] Dataset for 28 saved. Shape: (7257, 28, 15)
+[2026-04-25 19:59:04] GRU 28 training complete in 52.6s
+[2026-04-25 19:59:05] Plots for 28 saved.
+[2026-04-25 19:59:05] Experiment Run Complete. All artifacts archived.
+[2026-04-25 20:09:47] Loading data...
+[2026-04-25 20:09:48] Dataset shape: (7285, 17)
+[2026-04-25 20:09:48] --- Processing Scale: 3 days ---
+[2026-04-25 20:09:48] Sequence 3 stored. Shape: (7282, 3, 15)
+[2026-04-25 20:09:48] Training GRU 3...
+[2026-04-25 20:09:58] Training RF 3...
+[2026-04-25 20:09:59] Window 3 complete. GRU: 0.3269, RF: 0.3481
+[2026-04-25 20:09:59] --- Processing Scale: 5 days ---
+[2026-04-25 20:09:59] Sequence 5 stored. Shape: (7280, 5, 15)
+[2026-04-25 20:09:59] Training GRU 5...
+[2026-04-25 20:10:11] Training RF 5...
+[2026-04-25 20:10:11] Window 5 complete. GRU: 0.3104, RF: 0.3504
+[2026-04-25 20:10:11] --- Processing Scale: 7 days ---
+[2026-04-25 20:10:11] Sequence 7 stored. Shape: (7278, 7, 15)
+[2026-04-25 20:10:11] Training GRU 7...
+[2026-04-25 20:10:26] Training RF 7...
+[2026-04-25 20:10:27] Window 7 complete. GRU: 0.3202, RF: 0.3557
+[2026-04-25 20:10:27] --- Processing Scale: 14 days ---
+[2026-04-25 20:10:27] Sequence 14 stored. Shape: (7271, 14, 15)
+[2026-04-25 20:10:27] Training GRU 14...
+[2026-04-25 20:10:54] Training RF 14...
+[2026-04-25 20:10:54] Window 14 complete. GRU: 0.3419, RF: 0.3606
+[2026-04-25 20:10:54] --- Processing Scale: 28 days ---
+[2026-04-25 20:10:54] Sequence 28 stored. Shape: (7257, 28, 15)
+[2026-04-25 20:10:54] Training GRU 28...
+[2026-04-25 20:11:46] Training RF 28...
+[2026-04-25 20:11:47] Window 28 complete. GRU: 0.2657, RF: 0.1739
+[2026-04-25 20:11:48] Full experiment complete.

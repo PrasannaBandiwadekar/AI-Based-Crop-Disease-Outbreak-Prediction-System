@@ -1,0 +1,51 @@
+{
+    "paper_type": "climate",
+    "disease": "multiple",
+    "mechanism": {
+        "infection_process": "Climate change alters host–pathogen interactions by modifying temperature, CO2, and humidity regimes. Elevated CO2 increases canopy density, creating higher internal humidity favorable to pathogens.",
+        "spread_modes": [
+            "Climate-driven range expansion of pathogens into new regions",
+            "Elevated CO2 accelerating host canopy growth and pathogen substrate",
+            "Temperature-driven changes in infection window duration"
+        ],
+        "progression_pattern": "Warmer temperatures shorten latent periods and accelerate infection cycles. Elevated CO2 (700–900 ppm) can reduce red rot latent period from ~36 days to ~20 days."
+    },
+    "environmental_drivers": {
+        "temperature": "Temperature increases shift disease geographic ranges and accelerate pathogen life cycles. Non-linear response — moderate warming can benefit some pathogens while harming others.",
+        "humidity": "Elevated CO2 increases canopy biomass, creating higher internal relative humidity within crop stands, favoring disease development.",
+        "rainfall": "Heavy and unseasonal rains (a climate-change projection) are major drivers of disease spread and epidemic onset.",
+        "variability": "Frequency of extreme weather events (heavy rain, drought, heatwaves) is the key climate-change variable for disease outbreak risk — not just mean changes."
+    },
+    "temporal_behavior": {
+        "latent_phase": true,
+        "requires_accumulation": true,
+        "delay_description": "Elevated CO2 shortens red rot latent period from ~36 to ~20 days. This compression of the latent phase increases outbreak risk under future climate conditions."
+    },
+    "feature_mapping": {
+        "weather_features": [
+            "T2M",
+            "RH2M",
+            "PRECTOTCORR"
+        ],
+        "temporal_features": [
+            "lag_features (shortened latent periods under elevated CO2)",
+            "rolling_windows (14-day, 28-day extremes for outbreak risk)"
+        ],
+        "agronomic_features": [
+            "CO2_concentration",
+            "canopy_density"
+        ]
+    },
+    "outbreak_logic": {
+        "requires_sustained_conditions": true,
+        "supports_early_warning": true,
+        "threshold_type": "variable"
+    },
+    "advisory_actions": [
+        "Monitor disease range expansion using climate projections.",
+        "Develop early warning systems sensitive to extreme weather events.",
+        "Include climate variability (not just means) in outbreak prediction models.",
+        "Use FACE studies to calibrate pathogen response under elevated CO2."
+    ],
+    "confidence_level": "medium"
+}

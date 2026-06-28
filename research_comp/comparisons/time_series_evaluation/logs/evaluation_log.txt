@@ -1,0 +1,98 @@
+2026-04-20 11:50:57,108 | INFO | === Dataset Audit Started ===
+2026-04-20 11:50:57,108 | INFO |  STEP 1: Dataset Understanding 
+2026-04-20 11:50:57,144 | INFO | 
+=== STEP 1: Dataset Understanding ===
+File       : early_warning_dataset.csv
+Shape      : 7285 rows  52 columns
+Date Range : 2005-01-14  2024-12-24
+Date Column: date
+Target     : target_5d
+Sorted     : YES (enforced)
+
+--- Missing Values ---
+None  dataset is complete.
+
+--- Column List ---
+WS10M
+T2M
+RH2M
+T2M_MIN
+T2M_MAX
+PRECTOTCORR
+date
+temp_range
+temp_mean_3d
+temp_mean_7d
+temp_mean_14d
+rain_3d
+rain_7d
+rain_14d
+is_rainy
+dry_spell_7d
+rh_3d
+rh_7d
+high_humidity
+wind_3d
+temp_lag_1
+rain_lag_1
+rh_lag_1
+temp_lag_2
+rain_lag_2
+rh_lag_2
+temp_lag_3
+rain_lag_3
+rh_lag_3
+temp_lag_7
+rain_lag_7
+rh_lag_7
+month
+dayofyear
+week
+sin_day
+cos_day
+moisture_stress
+crop_age_days
+suppress_alert
+wet_streak
+humid_streak
+temp_optimal_red_rot
+dry_to_wet_trigger
+red_rot_risk_composite
+fungal_risk
+heat_stress
+cold_stress
+target_3d
+target_5d
+target_7d
+target_score_5d
+
+2026-04-20 11:50:57,147 | INFO |  STEP 2: Data Leakage Detection 
+2026-04-20 11:50:57,174 | INFO |   Saved  audit_results\leakage_report.txt
+2026-04-20 11:50:57,174 | INFO |  STEP 3: 14-Day Historical Feature Validation 
+2026-04-20 11:50:57,188 | INFO |   Saved  audit_results\historical_feature_check.txt
+2026-04-20 11:50:57,188 | INFO |  STEP 4: Temporal Alignment Check 
+2026-04-20 11:50:57,193 | INFO |   Temporal alignment:  ALIGNMENT VALID
+2026-04-20 11:50:57,193 | INFO |  STEP 5: Feature Quality Analysis 
+2026-04-20 11:50:57,212 | INFO |   Low-variance features (<0.001): ['dry_to_wet_trigger', 'heat_stress', 'cold_stress']
+2026-04-20 11:50:57,682 | INFO |   Saved  audit_results\correlation_matrix.png
+2026-04-20 11:50:58,062 | INFO |   Saved  audit_results\feature_importance.png
+2026-04-20 11:50:58,071 | INFO |   Saved  time_series_evaluation\plots\feature_importance.png
+2026-04-20 11:50:58,193 | INFO |   Saved  time_series_evaluation\plots\feature_importance.png
+2026-04-20 11:50:58,206 | INFO |   Feature analysis CSV saved. Top 5: {'PRECTOTCORR': 0.09522131005980894, 'rain_3d': 0.08427557974664156, 'is_rainy': 0.07676066232445225, 'fungal_risk': 0.07403601489356058, 'rain_lag_1': 0.06425578945281547}
+2026-04-20 11:50:58,206 | INFO |  STEP 6: Temporal Dependency Test 
+2026-04-20 11:50:58,597 | INFO |   Saved  time_series_evaluation\metrics\original_model_metrics.txt
+2026-04-20 11:50:58,597 | INFO |   Saved  time_series_evaluation\metrics\shuffled_model_metrics.txt
+2026-04-20 11:50:58,598 | INFO |   Saved  time_series_evaluation\metrics\comparison_summary.txt
+2026-04-20 11:50:58,598 | INFO |   Temporal signal: WEAK | AUC drop: -0.1025
+2026-04-20 11:50:58,815 | INFO |   Saved  time_series_evaluation\plots\prediction_vs_actual.png
+2026-04-20 11:50:58,930 | INFO |   Saved  time_series_evaluation\plots\temporal_performance.png
+2026-04-20 11:50:58,930 | INFO |  STEP 7: Target Quality Analysis 
+2026-04-20 11:50:58,946 | INFO |   Class balance: {0: 95.91, 1: 4.09}
+2026-04-20 11:50:58,946 | INFO |   Outbreak clusters found: 101
+2026-04-20 11:50:58,946 | INFO |  STEP 8: Dataset Nature Check 
+2026-04-20 11:50:58,946 | INFO |   Dataset nature: ROW-BASED (features baked in)
+2026-04-20 11:50:58,946 | INFO |  STEP 9: LSTM Readiness Check 
+2026-04-20 11:50:58,946 | INFO |   LSTM ready: False
+2026-04-20 11:50:58,946 | INFO |  STEP 10: Writing Final Reports 
+2026-04-20 11:50:58,947 | INFO |   Saved  audit_results\recommendations.txt
+2026-04-20 11:50:58,947 | INFO | === Audit Complete ===

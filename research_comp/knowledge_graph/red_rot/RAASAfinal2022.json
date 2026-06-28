@@ -1,0 +1,56 @@
+{
+    "paper_type": "management",
+    "disease": "multiple",
+    "mechanism": {
+        "infection_process": "Primary infection via systemically infected setts or soil-borne inoculum. Pathogen load accumulates in stalks over successive crop cycles causing varietal degeneration.",
+        "spread_modes": [
+            "Infected planting materials (setts) — primary vector for red rot, smut, wilt, SCGS, YLD, RSD",
+            "Aerial dispersal — smut spores, Pokkah boeng conidia, foliar disease spores",
+            "Soil-borne — wilt (Fusarium sacchari), sett rot (Ceratocystis paradoxa)",
+            "Ratooning of infected clumps accumulates pathogen load"
+        ],
+        "progression_pattern": "Systemic colonization → slow varietal degeneration over ratoon cycles → reduced cane yield and sugar recovery. Viral symptoms (YLD) take 5–6 months to appear."
+    },
+    "environmental_drivers": {
+        "temperature": "Hot dry weather favors smut. Cool temperatures + high moisture favor foliar diseases (rust, eye spot).",
+        "humidity": "High humidity during rainy months favors Pokkah boeng and foliar diseases. Excess irrigation and un-stripped dry leaves build up microclimatic RH.",
+        "rainfall": "High rainfall reduces smut severity but drives Pokkah boeng and foliar diseases. Waterlogging predisposes plants to wilt.",
+        "variability": "Drought followed by waterlogging predisposes to wilt. Plant stress increases smut whip development."
+    },
+    "temporal_behavior": {
+        "latent_phase": true,
+        "requires_accumulation": true,
+        "delay_description": "Pathogen load accumulates over successive ratoon crops. YLD symptoms appear 5–6 months post-infection. Pokkah boeng symptoms develop during grand growth (3–7 months crop age)."
+    },
+    "feature_mapping": {
+        "weather_features": [
+            "T2M",
+            "RH2M",
+            "PRECTOTCORR"
+        ],
+        "temporal_features": [
+            "lag_features",
+            "rolling_windows"
+        ],
+        "agronomic_features": [
+            "variety_susceptibility",
+            "infected_sett",
+            "crop_age_ratoon",
+            "field_sanitation"
+        ]
+    },
+    "outbreak_logic": {
+        "requires_sustained_conditions": true,
+        "supports_early_warning": true,
+        "threshold_type": "variable"
+    },
+    "advisory_actions": [
+        "Use disease-free seed canes from certified nurseries.",
+        "MHAT or AST to eliminate sett-borne infections.",
+        "Fungicide sett treatment + biocontrol (Pseudomonas) via mechanized vacuum infiltration.",
+        "Plant resistant varieties; avoid >50 % monocropping of single variety.",
+        "Virus-free nurseries via meristem-tip culture + molecular indexing (PCR/LAMP).",
+        "Foliar fungicides (mancozeb 0.2 %, propiconazole) for rust, smut, eye spot."
+    ],
+    "confidence_level": "high"
+}

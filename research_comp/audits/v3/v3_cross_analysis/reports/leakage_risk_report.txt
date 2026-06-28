@@ -1,0 +1,54 @@
+=== Leakage Risk Report ===
+
+SUSPICIOUS: Features involving future-looking windowing if not shifted correctly.
+- any rolling mean not shifted by window size (V3 seems to use .rolling(w).mean() without .shift(1))
+- red_rot_risk_composite (needs check on internal components)
+
+CLASSIFICATION:
+WS10M: SAFE
+T2M: SAFE
+RH2M: SAFE
+T2M_MIN: SAFE
+T2M_MAX: SAFE
+PRECTOTCORR: SAFE
+temp_range: SAFE
+temp_mean_3d: SUSPICIOUS (Check window shift)
+temp_mean_7d: SUSPICIOUS (Check window shift)
+temp_mean_14d: SUSPICIOUS (Check window shift)
+rain_3d: SUSPICIOUS (Check window shift)
+rain_7d: SUSPICIOUS (Check window shift)
+rain_14d: SUSPICIOUS (Check window shift)
+is_rainy: SAFE
+dry_spell_7d: SUSPICIOUS (Check window shift)
+rh_3d: SUSPICIOUS (Check window shift)
+rh_7d: SUSPICIOUS (Check window shift)
+high_humidity: SUSPICIOUS (Check window shift)
+wind_3d: SUSPICIOUS (Check window shift)
+temp_lag_1: SAFE
+rain_lag_1: SAFE
+rh_lag_1: SAFE
+temp_lag_2: SAFE
+rain_lag_2: SAFE
+rh_lag_2: SAFE
+temp_lag_3: SAFE
+rain_lag_3: SAFE
+rh_lag_3: SAFE
+temp_lag_7: SAFE
+rain_lag_7: SAFE
+rh_lag_7: SAFE
+month: SAFE
+dayofyear: SUSPICIOUS (Check window shift)
+week: SAFE
+sin_day: SUSPICIOUS (Check window shift)
+cos_day: SUSPICIOUS (Check window shift)
+moisture_stress: SAFE
+crop_age_days: SUSPICIOUS (Check window shift)
+suppress_alert: SAFE
+wet_streak: SUSPICIOUS (Check window shift)
+humid_streak: SUSPICIOUS (Check window shift)
+temp_optimal_red_rot: SUSPICIOUS (Check window shift)
+dry_to_wet_trigger: SUSPICIOUS (Check window shift)
+red_rot_risk_composite: SUSPICIOUS (Check window shift)
+fungal_risk: SAFE
+heat_stress: SAFE
+cold_stress: SUSPICIOUS (Check window shift)

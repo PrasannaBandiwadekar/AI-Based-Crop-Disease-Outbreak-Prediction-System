@@ -1,0 +1,6 @@
+=== V3 Final Conclusion ===
+
+1. Most contributing groups: Rolling and Risk features capture cumulative weather effects better than raw point data.
+2. Engineered features provide significant signal over raw variables, but many lags (1, 2, 3) are redundant with rolling means.
+3. V3 is slightly over-engineered; redundancy analysis shows many features with >0.95 correlation.
+4. Production set: Recommend a 'V3-Light' set excluding redundant lags and highly unstable risk indices.

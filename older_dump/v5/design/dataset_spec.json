@@ -1,0 +1,348 @@
+{
+    "disease": "red_rot",
+    "version": "v5",
+    "raw_data_source": "v5/data/raw/POWER_Point_Daily_20050101_20241231_016d54N_069d78E_LST.csv",
+    "data_range": "2005-01-01 to 2024-12-31",
+    "frequency": "daily",
+    "target_definition": {
+        "label_name": "outbreak_risk",
+        "dtype": "int (0 or 1)",
+        "description": "Binary label indicating whether the environmental conditions in the future window [t+3, t+7] constitute a high outbreak risk window for red rot of sugarcane. Label = 1 if ALL three sub-conditions are met across that 5-day window; else 0.",
+        "prediction_window_days": [
+            3,
+            7
+        ],
+        "optimal_lead_days": 5,
+        "leakage_free": true,
+        "sub_conditions": {
+            "C1_temperature_suitability": {
+                "rule": "mean(T2M over t+3 to t+7) >= 29.0 AND mean(T2M over t+3 to t+7) <= 33.0",
+                "rationale": "Optimum pathogen growth range 29-31 C (SMRA validated)."
+            },
+            "C2_humidity_accumulation": {
+                "rule": "mean(RH2M over t+3 to t+7) >= 82",
+                "rationale": "RH > 85% required for severe outbreak; 82% used as leading indicator."
+            },
+            "C3_rainfall_accumulation": {
+                "rule": "sum(PRECTOTCORR over t+3 to t+7) >= 20 mm",
+                "rationale": "Rain-splash dispersal of conidia requires multi-day rainfall accumulation."
+            }
+        },
+        "calculation_logic": "For each row at date t: 1. Extract T2M, RH2M, PRECTOTCORR for dates t+3, t+4, t+5, t+6, t+7. 2. Compute: temp_ok = (mean(T2M[t+3:t+7]) >= 29.0) AND (mean(T2M[t+3:t+7]) <= 33.0). 3. Compute: humidity_ok = mean(RH2M[t+3:t+7]) >= 82. 4. Compute: rain_ok = sum(PRECTOTCORR[t+3:t+7]) >= 20. 5. outbreak_risk = 1 if (temp_ok AND humidity_ok AND rain_ok) else 0. NOTE: The last 7 rows of the dataset must be dropped (no valid label exists).",
+        "class_balance_note": "Expected class imbalance: ~20-35 % positive during monsoon months (July-Oct), ~2-5 % outside monsoon. Use stratified sampling or class weights during training."
+    },
+    "feature_groups": {
+        "weather_features": [
+            {
+                "name": "T2M",
+                "source": "NASA POWER",
+                "unit": "deg C",
+                "description": "Daily mean 2m temperature"
+            },
+            {
+                "name": "T2M_MIN",
+                "source": "NASA POWER",
+                "unit": "deg C",
+                "description": "Daily minimum 2m temperature"
+            },
+            {
+                "name": "T2M_MAX",
+                "source": "NASA POWER",
+                "unit": "deg C",
+                "description": "Daily maximum 2m temperature"
+            },
+            {
+                "name": "RH2M",
+                "source": "NASA POWER",
+                "unit": "%",
+                "description": "Daily mean 2m relative humidity"
+            },
+            {
+                "name": "PRECTOTCORR",
+                "source": "NASA POWER",
+                "unit": "mm/day",
+                "description": "Daily bias-corrected precipitation"
+            }
+        ],
+        "temporal_features": [
+            {
+                "name": "T2M_roll3",
+                "calculation": "rolling mean of T2M, window=3 days ending at t"
+            },
+            {
+                "name": "T2M_roll5",
+                "calculation": "rolling mean of T2M, window=5 days ending at t"
+            },
+            {
+                "name": "T2M_roll7",
+                "calculation": "rolling mean of T2M, window=7 days ending at t"
+            },
+            {
+                "name": "T2M_roll14",
+                "calculation": "rolling mean of T2M, window=14 days ending at t"
+            },
+            {
+                "name": "T2M_roll28",
+                "calculation": "rolling mean of T2M, window=28 days ending at t"
+            },
+            {
+                "name": "T2M_MIN_roll3",
+                "calculation": "rolling mean of T2M_MIN, window=3 days ending at t"
+            },
+            {
+                "name": "T2M_MIN_roll7",
+                "calculation": "rolling mean of T2M_MIN, window=7 days ending at t"
+            },
+            {
+                "name": "T2M_MIN_roll14",
+                "calculation": "rolling mean of T2M_MIN, window=14 days ending at t"
+            },
+            {
+                "name": "RH2M_roll3",
+                "calculation": "rolling mean of RH2M, window=3 days ending at t"
+            },
+            {
+                "name": "RH2M_roll5",
+                "calculation": "rolling mean of RH2M, window=5 days ending at t"
+            },
+            {
+                "name": "RH2M_roll7",
+                "calculation": "rolling mean of RH2M, window=7 days ending at t"
+            },
+            {
+                "name": "RH2M_roll14",
+                "calculation": "rolling mean of RH2M, window=14 days ending at t"
+            },
+            {
+                "name": "RH2M_roll28",
+                "calculation": "rolling mean of RH2M, window=28 days ending at t"
+            },
+            {
+                "name": "PREC_sum3",
+                "calculation": "rolling sum of PRECTOTCORR, window=3 days ending at t"
+            },
+            {
+                "name": "PREC_sum5",
+                "calculation": "rolling sum of PRECTOTCORR, window=5 days ending at t"
+            },
+            {
+                "name": "PREC_sum7",
+                "calculation": "rolling sum of PRECTOTCORR, window=7 days ending at t"
+            },
+            {
+                "name": "PREC_sum14",
+                "calculation": "rolling sum of PRECTOTCORR, window=14 days ending at t"
+            },
+            {
+                "name": "PREC_sum28",
+                "calculation": "rolling sum of PRECTOTCORR, window=28 days ending at t"
+            },
+            {
+                "name": "T2M_MIN_lag15",
+                "calculation": "T2M_MIN at date t-15  [PRIMARY LAG — SMRA R2 0.82-0.87]"
+            },
+            {
+                "name": "T2M_lag15",
+                "calculation": "T2M at date t-15"
+            },
+            {
+                "name": "RH2M_lag15",
+                "calculation": "RH2M at date t-15"
+            },
+            {
+                "name": "PREC_lag15",
+                "calculation": "PRECTOTCORR at date t-15"
+            },
+            {
+                "name": "T2M_MIN_lag7",
+                "calculation": "T2M_MIN at date t-7"
+            },
+            {
+                "name": "RH2M_lag7",
+                "calculation": "RH2M at date t-7"
+            },
+            {
+                "name": "T2M_MIN_lag28",
+                "calculation": "T2M_MIN at date t-28"
+            }
+        ],
+        "domain_features": [
+            {
+                "name": "monsoon_flag",
+                "definition": "Binary indicator of whether the current date falls in the monsoon season.",
+                "calculation_logic": "monsoon_flag = 1 if month(t) in [6, 7, 8, 9, 10] else 0",
+                "purpose": "Red rot outbreaks are biologically constrained to monsoon season. This hard gate prevents false positives in winter/spring."
+            },
+            {
+                "name": "humidity_streak_days",
+                "definition": "Number of consecutive days up to and including t where RH2M >= 82 %.",
+                "calculation_logic": "For each date t: count backwards from t the number of consecutive days where RH2M >= 82. Reset to 0 on any day where RH2M < 82.",
+                "purpose": "Captures sustained high-humidity accumulation. A streak of 7+ days is the validated threshold for severe outbreak risk."
+            },
+            {
+                "name": "rainfall_streak_days",
+                "definition": "Number of consecutive rainy days (PRECTOTCORR > 5 mm) up to t.",
+                "calculation_logic": "For each date t: count backwards from t the number of consecutive days where PRECTOTCORR > 5. Reset to 0 on any dry day.",
+                "purpose": "Continuous rainfall drives rain-splash dispersal of conidia. 5+ consecutive rainy days is an early warning signal."
+            },
+            {
+                "name": "temperature_suitability_flag",
+                "definition": "Binary flag — 1 if today's T2M is within the optimal pathogen growth range.",
+                "calculation_logic": "temperature_suitability_flag = 1 if (T2M >= 29.0 AND T2M <= 33.0) else 0",
+                "purpose": "Encodes the domain threshold (29-33 deg C) as an explicit binary signal for the model, avoiding reliance on linear interpolation across a wide range."
+            },
+            {
+                "name": "temp_suitable_days_14d",
+                "definition": "Count of days in the past 14 days where temperature_suitability_flag == 1.",
+                "calculation_logic": "rolling sum of temperature_suitability_flag over window=14 days ending at t",
+                "purpose": "Captures how many of the past 14 days were biologically conducive. Aligns with the 14-day accumulation window validated across all papers."
+            },
+            {
+                "name": "risk_accumulation_index",
+                "definition": "A composite 0–3 score representing concurrent environmental risk. Each of three conditions contributes 1 point.",
+                "calculation_logic": "risk_accumulation_index = (1 if RH2M_roll7 >= 82 else 0) + (1 if PREC_sum7 >= 15 else 0) + (1 if T2M_roll7 >= 29.0 AND T2M_roll7 <= 33.0 else 0). Range: 0 (no risk) to 3 (all conditions met).",
+                "purpose": "Combines three independent risk signals into a single composite index. Score of 3 = all conditions simultaneously met over 7-day window. Reduces dimensionality and captures joint risk better than individual features."
+            },
+            {
+                "name": "high_risk_composite_flag",
+                "definition": "Binary flag — 1 if risk_accumulation_index == 3 AND monsoon_flag == 1.",
+                "calculation_logic": "high_risk_composite_flag = 1 if (risk_accumulation_index == 3 AND monsoon_flag == 1) else 0",
+                "purpose": "This is the single strongest early warning signal. Combines domain season gate + all three environmental conditions. Directly maps to early warning rule EW-06 from domain_rules.json."
+            },
+            {
+                "name": "lag15_risk_flag",
+                "definition": "Binary flag based on conditions 15 days ago — the primary SMRA-validated lag.",
+                "calculation_logic": "lag15_risk_flag = 1 if (T2M_MIN_lag15 >= 24.0 AND RH2M_lag15 >= 79.0 AND month(t-15) in [6,7,8,9,10]) else 0",
+                "purpose": "Encodes the 15-day lag relationship (SMRA R² 0.82-0.87) as a direct binary feature. High T2M_MIN and RH2M 15 days ago is the strongest leading indicator of current risk."
+            },
+            {
+                "name": "month",
+                "definition": "Calendar month of date t (integer 1-12).",
+                "calculation_logic": "month = t.month",
+                "purpose": "Explicit seasonality signal. Allows model to learn month-specific risk profiles without relying solely on rolling features."
+            },
+            {
+                "name": "day_of_year",
+                "definition": "Day of year (1-366).",
+                "calculation_logic": "day_of_year = t.day_of_year",
+                "purpose": "Continuous seasonality encoding. Captures intra-month temporal gradients that month alone cannot (e.g., 2nd fortnight of August being peak risk)."
+            }
+        ],
+        "agronomic_features": [
+            {
+                "name": "variety_susceptibility",
+                "dtype": "float (0.0 to 1.0)",
+                "description": "Encoded susceptibility score of currently planted variety.",
+                "placeholder": true,
+                "default_value": 0.7,
+                "note": "Use 0.7 (high susceptibility) as conservative default if unavailable."
+            },
+            {
+                "name": "crop_age_months",
+                "dtype": "int",
+                "description": "Age of standing crop in months from planting.",
+                "placeholder": true,
+                "default_value": 6,
+                "note": "Grand growth phase (months 4-8) has highest susceptibility. Default = 6."
+            },
+            {
+                "name": "infected_sett_flag",
+                "dtype": "int (0 or 1)",
+                "description": "Whether infected setts were used in planting.",
+                "placeholder": true,
+                "default_value": 0,
+                "note": "Default = 0 (unknown/assumed clean). Set to 1 in high-risk survey areas."
+            }
+        ]
+    },
+    "temporal_rules": {
+        "feature_cutoff": "All features at row t use ONLY data from dates <= t. No future data is used in any feature computation.",
+        "label_window": "Label for row t is computed using data from dates t+3 to t+7 inclusive.",
+        "no_leakage": true,
+        "lag_alignment": "Lag features (e.g., T2M_MIN_lag15) use value at t-15. This is past data and is leakage-free.",
+        "rolling_alignment": "All rolling windows use a closed-right window ending at t (e.g., df['T2M'].rolling(14).mean() at row t uses rows t-13 to t).",
+        "minimum_warmup_rows": 28,
+        "drop_rules": [
+            "Drop first 28 rows (insufficient history for rolling_28 features).",
+            "Drop last 7 rows (no valid label window exists)."
+        ],
+        "chronological_integrity": "Dataset must remain sorted by date ascending. No shuffling permitted at any stage."
+    },
+    "split_strategy": {
+        "type": "time_series_chronological",
+        "example": {
+            "train": "2005-01-01 to 2018-12-31  (14 years, ~4,975 rows after warmup/tail drop)",
+            "validation": "2019-01-01 to 2021-12-31  (3 years,  ~1,094 rows)",
+            "test": "2022-01-01 to 2024-12-31  (3 years,  ~1,094 rows)"
+        },
+        "reasoning": "Time-based splitting is the ONLY valid strategy for time-series data. Random splits would allow future weather patterns to leak into training, inflating evaluation metrics. The train set covers 14 years of monsoon cycles (2005-2018) for sufficient class balance. Validation (2019-2021) tunes thresholds and hyperparameters. Test (2022-2024) is a true holdout — never seen during training or tuning. No data from the validation or test period may influence feature normalization or scaling (fit scaler on train only, transform validation and test).",
+        "gap_between_splits": "None required — daily data with no missing dates.",
+        "scaler_rule": "Fit MinMaxScaler or StandardScaler on TRAIN set only. Apply to validation and test."
+    },
+    "dataset_schema": {
+        "index": "date (datetime, daily frequency, sorted ascending)",
+        "columns": [
+            "T2M",
+            "T2M_MIN",
+            "T2M_MAX",
+            "RH2M",
+            "PRECTOTCORR",
+            "T2M_roll3",
+            "T2M_roll5",
+            "T2M_roll7",
+            "T2M_roll14",
+            "T2M_roll28",
+            "T2M_MIN_roll3",
+            "T2M_MIN_roll7",
+            "T2M_MIN_roll14",
+            "RH2M_roll3",
+            "RH2M_roll5",
+            "RH2M_roll7",
+            "RH2M_roll14",
+            "RH2M_roll28",
+            "PREC_sum3",
+            "PREC_sum5",
+            "PREC_sum7",
+            "PREC_sum14",
+            "PREC_sum28",
+            "T2M_MIN_lag15",
+            "T2M_lag15",
+            "RH2M_lag15",
+            "PREC_lag15",
+            "T2M_MIN_lag7",
+            "RH2M_lag7",
+            "T2M_MIN_lag28",
+            "monsoon_flag",
+            "humidity_streak_days",
+            "rainfall_streak_days",
+            "temperature_suitability_flag",
+            "temp_suitable_days_14d",
+            "risk_accumulation_index",
+            "high_risk_composite_flag",
+            "lag15_risk_flag",
+            "month",
+            "day_of_year",
+            "variety_susceptibility",
+            "crop_age_months",
+            "infected_sett_flag",
+            "outbreak_risk"
+        ],
+        "total_expected_columns": 48,
+        "label_column": "outbreak_risk",
+        "label_dtype": "int (0 or 1)",
+        "feature_count": 47,
+        "description": "Each row represents one calendar day. Features encode weather history up to and including that day (no leakage). outbreak_risk encodes whether the next 3-7 days will be a high-risk window. Agronomic columns default to conservative placeholders if field data unavailable."
+    },
+    "implementation_notes": {
+        "step1": "Load raw CSV, parse date column, sort ascending.",
+        "step2": "Compute all rolling and lag features using pandas rolling() and shift().",
+        "step3": "Compute all domain features in order (streak, flag, index, composite).",
+        "step4": "Compute target label using future-window logic (shift(-3) to shift(-7)).",
+        "step5": "Drop warmup rows (first 28) and tail rows (last 7).",
+        "step6": "Split chronologically: train / validation / test.",
+        "step7": "Fit scaler on train features only; transform all splits.",
+        "step8": "Save processed dataset to v5/data/processed/dataset_v5.csv",
+        "missing_value_handling": "Forward-fill gaps <= 3 days. Drop rows with > 3 consecutive missing days.",
+        "class_weight_recommendation": "Use class_weight='balanced' in model or compute pos_weight = n_negative / n_positive for XGBoost/LGBM."
+    }
+}

@@ -1,0 +1,34 @@
+Training Log - Improved Run
+=====================
+Thresholds tested: [0.1, 0.2, 0.3, 0.4, 0.5]
+
+Window 3:
+  - Train class distribution: [4939  158]
+  - Trained in 0.43s
+  - Best Threshold: 0.1
+  - F1 Score: 0.2742
+
+Window 5:
+  - Train class distribution: [4938  158]
+  - Trained in 0.48s
+  - Best Threshold: 0.1
+  - F1 Score: 0.3104
+
+Window 7:
+  - Train class distribution: [4936  158]
+  - Trained in 0.43s
+  - Best Threshold: 0.1
+  - F1 Score: 0.3035
+
+Window 14:
+  - Train class distribution: [4931  158]
+  - Trained in 0.54s
+  - Best Threshold: 0.1
+  - F1 Score: 0.3161
+
+Window 28:
+  - Train class distribution: [4921  158]
+  - Trained in 0.66s
+  - Best Threshold: 0.1
+  - F1 Score: 0.1966
+

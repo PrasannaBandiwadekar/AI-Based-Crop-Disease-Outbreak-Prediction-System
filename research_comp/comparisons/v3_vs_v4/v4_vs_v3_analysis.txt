@@ -1,0 +1,5 @@
+=== v4 Leakage-Proof Comparison ===
+
+Verdict: Raw temporal modeling (v4) shows significant gains.
+Are engineered features necessary? Based on ablation, Hybrid/Raw perform similarly,
+suggesting raw temporal models can extract these features internally.

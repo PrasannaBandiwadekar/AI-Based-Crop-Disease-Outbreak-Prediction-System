@@ -1,0 +1,6 @@
+--- PRE-RUN VALIDATION ---
+Dataset: early_warning_dataset.csv
+Shape: (7285, 52)
+Chronological Order: True
+Class Distribution (target_5d): {0.0: 0.9590940288263555, 1.0: 0.04090597117364447}
+Features used: 47

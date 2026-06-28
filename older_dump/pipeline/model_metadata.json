@@ -1,0 +1,29 @@
+{
+    "model_name": "Sugarcane Red Rot Forecast - Optimized",
+    "version": "1.0",
+    "lead_time_days": 5,
+    "features": [
+        "cos_day",
+        "rh_7d",
+        "rh_3d",
+        "RH2M",
+        "rh_lag_2",
+        "rh_lag_7",
+        "high_humidity",
+        "WS10M",
+        "wind_3d",
+        "sin_day",
+        "rh_lag_3",
+        "rain_14d",
+        "T2M",
+        "temp_lag_7",
+        "rain_lag_3",
+        "PRECTOTCORR",
+        "rain_3d",
+        "rain_7d",
+        "temp_range",
+        "rain_lag_1",
+        "month"
+    ],
+    "validation_auc": 0.8958739910158551
+}

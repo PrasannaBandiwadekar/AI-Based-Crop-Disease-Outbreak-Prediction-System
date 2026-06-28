@@ -1,0 +1,1322 @@
+[
+    {
+        "event_id": 20,
+        "start_date": "2005-06-17",
+        "end_date": "2005-06-21",
+        "duration": 5,
+        "start_idx": 160,
+        "end_idx": 164
+    },
+    {
+        "event_id": 24,
+        "start_date": "2005-06-29",
+        "end_date": "2005-07-01",
+        "duration": 3,
+        "start_idx": 172,
+        "end_idx": 174
+    },
+    {
+        "event_id": 28,
+        "start_date": "2005-07-10",
+        "end_date": "2005-08-05",
+        "duration": 27,
+        "start_idx": 183,
+        "end_idx": 209
+    },
+    {
+        "event_id": 34,
+        "start_date": "2005-08-20",
+        "end_date": "2005-08-22",
+        "duration": 3,
+        "start_idx": 224,
+        "end_idx": 226
+    },
+    {
+        "event_id": 40,
+        "start_date": "2005-09-03",
+        "end_date": "2005-09-16",
+        "duration": 14,
+        "start_idx": 238,
+        "end_idx": 251
+    },
+    {
+        "event_id": 42,
+        "start_date": "2005-09-19",
+        "end_date": "2005-09-24",
+        "duration": 6,
+        "start_idx": 254,
+        "end_idx": 259
+    },
+    {
+        "event_id": 46,
+        "start_date": "2005-10-12",
+        "end_date": "2005-10-18",
+        "duration": 7,
+        "start_idx": 277,
+        "end_idx": 283
+    },
+    {
+        "event_id": 52,
+        "start_date": "2006-05-26",
+        "end_date": "2006-05-29",
+        "duration": 4,
+        "start_idx": 503,
+        "end_idx": 506
+    },
+    {
+        "event_id": 54,
+        "start_date": "2006-06-01",
+        "end_date": "2006-06-04",
+        "duration": 4,
+        "start_idx": 509,
+        "end_idx": 512
+    },
+    {
+        "event_id": 58,
+        "start_date": "2006-06-16",
+        "end_date": "2006-06-22",
+        "duration": 7,
+        "start_idx": 524,
+        "end_idx": 530
+    },
+    {
+        "event_id": 60,
+        "start_date": "2006-06-24",
+        "end_date": "2006-07-07",
+        "duration": 14,
+        "start_idx": 532,
+        "end_idx": 545
+    },
+    {
+        "event_id": 66,
+        "start_date": "2006-07-20",
+        "end_date": "2006-08-11",
+        "duration": 23,
+        "start_idx": 558,
+        "end_idx": 580
+    },
+    {
+        "event_id": 68,
+        "start_date": "2006-08-13",
+        "end_date": "2006-08-18",
+        "duration": 6,
+        "start_idx": 582,
+        "end_idx": 587
+    },
+    {
+        "event_id": 70,
+        "start_date": "2006-08-31",
+        "end_date": "2006-09-02",
+        "duration": 3,
+        "start_idx": 600,
+        "end_idx": 602
+    },
+    {
+        "event_id": 72,
+        "start_date": "2006-09-04",
+        "end_date": "2006-09-07",
+        "duration": 4,
+        "start_idx": 604,
+        "end_idx": 607
+    },
+    {
+        "event_id": 74,
+        "start_date": "2006-09-12",
+        "end_date": "2006-09-22",
+        "duration": 11,
+        "start_idx": 612,
+        "end_idx": 622
+    },
+    {
+        "event_id": 78,
+        "start_date": "2006-10-03",
+        "end_date": "2006-10-07",
+        "duration": 5,
+        "start_idx": 633,
+        "end_idx": 637
+    },
+    {
+        "event_id": 82,
+        "start_date": "2006-11-21",
+        "end_date": "2006-11-25",
+        "duration": 5,
+        "start_idx": 682,
+        "end_idx": 686
+    },
+    {
+        "event_id": 88,
+        "start_date": "2007-06-01",
+        "end_date": "2007-06-03",
+        "duration": 3,
+        "start_idx": 874,
+        "end_idx": 876
+    },
+    {
+        "event_id": 90,
+        "start_date": "2007-06-05",
+        "end_date": "2007-07-10",
+        "duration": 36,
+        "start_idx": 878,
+        "end_idx": 913
+    },
+    {
+        "event_id": 92,
+        "start_date": "2007-07-15",
+        "end_date": "2007-07-17",
+        "duration": 3,
+        "start_idx": 918,
+        "end_idx": 920
+    },
+    {
+        "event_id": 94,
+        "start_date": "2007-07-20",
+        "end_date": "2007-08-09",
+        "duration": 21,
+        "start_idx": 923,
+        "end_idx": 943
+    },
+    {
+        "event_id": 96,
+        "start_date": "2007-08-18",
+        "end_date": "2007-09-10",
+        "duration": 24,
+        "start_idx": 952,
+        "end_idx": 975
+    },
+    {
+        "event_id": 98,
+        "start_date": "2007-09-15",
+        "end_date": "2007-09-24",
+        "duration": 10,
+        "start_idx": 980,
+        "end_idx": 989
+    },
+    {
+        "event_id": 100,
+        "start_date": "2007-09-26",
+        "end_date": "2007-09-28",
+        "duration": 3,
+        "start_idx": 991,
+        "end_idx": 993
+    },
+    {
+        "event_id": 104,
+        "start_date": "2007-10-31",
+        "end_date": "2007-11-02",
+        "duration": 3,
+        "start_idx": 1026,
+        "end_idx": 1028
+    },
+    {
+        "event_id": 106,
+        "start_date": "2007-11-05",
+        "end_date": "2007-11-07",
+        "duration": 3,
+        "start_idx": 1031,
+        "end_idx": 1033
+    },
+    {
+        "event_id": 118,
+        "start_date": "2008-06-07",
+        "end_date": "2008-06-19",
+        "duration": 13,
+        "start_idx": 1246,
+        "end_idx": 1258
+    },
+    {
+        "event_id": 120,
+        "start_date": "2008-06-25",
+        "end_date": "2008-07-04",
+        "duration": 10,
+        "start_idx": 1264,
+        "end_idx": 1273
+    },
+    {
+        "event_id": 124,
+        "start_date": "2008-07-15",
+        "end_date": "2008-07-30",
+        "duration": 16,
+        "start_idx": 1284,
+        "end_idx": 1299
+    },
+    {
+        "event_id": 126,
+        "start_date": "2008-08-05",
+        "end_date": "2008-08-18",
+        "duration": 14,
+        "start_idx": 1305,
+        "end_idx": 1318
+    },
+    {
+        "event_id": 128,
+        "start_date": "2008-08-24",
+        "end_date": "2008-08-27",
+        "duration": 4,
+        "start_idx": 1324,
+        "end_idx": 1327
+    },
+    {
+        "event_id": 130,
+        "start_date": "2008-08-30",
+        "end_date": "2008-09-19",
+        "duration": 21,
+        "start_idx": 1330,
+        "end_idx": 1350
+    },
+    {
+        "event_id": 132,
+        "start_date": "2008-10-05",
+        "end_date": "2008-10-07",
+        "duration": 3,
+        "start_idx": 1366,
+        "end_idx": 1368
+    },
+    {
+        "event_id": 138,
+        "start_date": "2008-11-29",
+        "end_date": "2008-12-01",
+        "duration": 3,
+        "start_idx": 1421,
+        "end_idx": 1423
+    },
+    {
+        "event_id": 144,
+        "start_date": "2009-05-16",
+        "end_date": "2009-05-20",
+        "duration": 5,
+        "start_idx": 1589,
+        "end_idx": 1593
+    },
+    {
+        "event_id": 148,
+        "start_date": "2009-06-01",
+        "end_date": "2009-06-05",
+        "duration": 5,
+        "start_idx": 1605,
+        "end_idx": 1609
+    },
+    {
+        "event_id": 150,
+        "start_date": "2009-06-20",
+        "end_date": "2009-07-24",
+        "duration": 35,
+        "start_idx": 1624,
+        "end_idx": 1658
+    },
+    {
+        "event_id": 152,
+        "start_date": "2009-08-15",
+        "end_date": "2009-09-10",
+        "duration": 27,
+        "start_idx": 1680,
+        "end_idx": 1706
+    },
+    {
+        "event_id": 156,
+        "start_date": "2009-09-22",
+        "end_date": "2009-09-26",
+        "duration": 5,
+        "start_idx": 1718,
+        "end_idx": 1722
+    },
+    {
+        "event_id": 160,
+        "start_date": "2009-09-30",
+        "end_date": "2009-10-05",
+        "duration": 6,
+        "start_idx": 1726,
+        "end_idx": 1731
+    },
+    {
+        "event_id": 162,
+        "start_date": "2009-11-09",
+        "end_date": "2009-11-11",
+        "duration": 3,
+        "start_idx": 1766,
+        "end_idx": 1768
+    },
+    {
+        "event_id": 170,
+        "start_date": "2010-06-09",
+        "end_date": "2010-06-27",
+        "duration": 19,
+        "start_idx": 1978,
+        "end_idx": 1996
+    },
+    {
+        "event_id": 172,
+        "start_date": "2010-06-29",
+        "end_date": "2010-07-10",
+        "duration": 12,
+        "start_idx": 1998,
+        "end_idx": 2009
+    },
+    {
+        "event_id": 174,
+        "start_date": "2010-07-14",
+        "end_date": "2010-08-04",
+        "duration": 22,
+        "start_idx": 2013,
+        "end_idx": 2034
+    },
+    {
+        "event_id": 176,
+        "start_date": "2010-08-06",
+        "end_date": "2010-08-08",
+        "duration": 3,
+        "start_idx": 2036,
+        "end_idx": 2038
+    },
+    {
+        "event_id": 178,
+        "start_date": "2010-08-10",
+        "end_date": "2010-09-02",
+        "duration": 24,
+        "start_idx": 2040,
+        "end_idx": 2063
+    },
+    {
+        "event_id": 180,
+        "start_date": "2010-09-04",
+        "end_date": "2010-09-16",
+        "duration": 13,
+        "start_idx": 2065,
+        "end_idx": 2077
+    },
+    {
+        "event_id": 184,
+        "start_date": "2010-09-24",
+        "end_date": "2010-10-02",
+        "duration": 9,
+        "start_idx": 2085,
+        "end_idx": 2093
+    },
+    {
+        "event_id": 186,
+        "start_date": "2010-10-05",
+        "end_date": "2010-10-08",
+        "duration": 4,
+        "start_idx": 2096,
+        "end_idx": 2099
+    },
+    {
+        "event_id": 190,
+        "start_date": "2010-10-18",
+        "end_date": "2010-10-22",
+        "duration": 5,
+        "start_idx": 2109,
+        "end_idx": 2113
+    },
+    {
+        "event_id": 194,
+        "start_date": "2010-11-09",
+        "end_date": "2010-11-11",
+        "duration": 3,
+        "start_idx": 2131,
+        "end_idx": 2133
+    },
+    {
+        "event_id": 196,
+        "start_date": "2010-11-15",
+        "end_date": "2010-11-17",
+        "duration": 3,
+        "start_idx": 2137,
+        "end_idx": 2139
+    },
+    {
+        "event_id": 198,
+        "start_date": "2010-11-19",
+        "end_date": "2010-11-23",
+        "duration": 5,
+        "start_idx": 2141,
+        "end_idx": 2145
+    },
+    {
+        "event_id": 204,
+        "start_date": "2011-05-30",
+        "end_date": "2011-06-02",
+        "duration": 4,
+        "start_idx": 2333,
+        "end_idx": 2336
+    },
+    {
+        "event_id": 206,
+        "start_date": "2011-06-06",
+        "end_date": "2011-08-08",
+        "duration": 64,
+        "start_idx": 2340,
+        "end_idx": 2403
+    },
+    {
+        "event_id": 210,
+        "start_date": "2011-08-14",
+        "end_date": "2011-08-23",
+        "duration": 10,
+        "start_idx": 2409,
+        "end_idx": 2418
+    },
+    {
+        "event_id": 212,
+        "start_date": "2011-08-25",
+        "end_date": "2011-09-18",
+        "duration": 25,
+        "start_idx": 2420,
+        "end_idx": 2444
+    },
+    {
+        "event_id": 222,
+        "start_date": "2011-11-27",
+        "end_date": "2011-11-29",
+        "duration": 3,
+        "start_idx": 2514,
+        "end_idx": 2516
+    },
+    {
+        "event_id": 232,
+        "start_date": "2012-06-02",
+        "end_date": "2012-06-05",
+        "duration": 4,
+        "start_idx": 2702,
+        "end_idx": 2705
+    },
+    {
+        "event_id": 234,
+        "start_date": "2012-06-07",
+        "end_date": "2012-06-22",
+        "duration": 16,
+        "start_idx": 2707,
+        "end_idx": 2722
+    },
+    {
+        "event_id": 236,
+        "start_date": "2012-06-25",
+        "end_date": "2012-07-13",
+        "duration": 19,
+        "start_idx": 2725,
+        "end_idx": 2743
+    },
+    {
+        "event_id": 238,
+        "start_date": "2012-07-15",
+        "end_date": "2012-08-11",
+        "duration": 28,
+        "start_idx": 2745,
+        "end_idx": 2772
+    },
+    {
+        "event_id": 240,
+        "start_date": "2012-08-13",
+        "end_date": "2012-09-12",
+        "duration": 31,
+        "start_idx": 2774,
+        "end_idx": 2804
+    },
+    {
+        "event_id": 242,
+        "start_date": "2012-09-30",
+        "end_date": "2012-10-05",
+        "duration": 6,
+        "start_idx": 2822,
+        "end_idx": 2827
+    },
+    {
+        "event_id": 254,
+        "start_date": "2013-05-25",
+        "end_date": "2013-05-27",
+        "duration": 3,
+        "start_idx": 3059,
+        "end_idx": 3061
+    },
+    {
+        "event_id": 258,
+        "start_date": "2013-06-06",
+        "end_date": "2013-08-04",
+        "duration": 60,
+        "start_idx": 3071,
+        "end_idx": 3130
+    },
+    {
+        "event_id": 262,
+        "start_date": "2013-08-09",
+        "end_date": "2013-08-13",
+        "duration": 5,
+        "start_idx": 3135,
+        "end_idx": 3139
+    },
+    {
+        "event_id": 264,
+        "start_date": "2013-08-15",
+        "end_date": "2013-08-19",
+        "duration": 5,
+        "start_idx": 3141,
+        "end_idx": 3145
+    },
+    {
+        "event_id": 270,
+        "start_date": "2013-09-05",
+        "end_date": "2013-09-27",
+        "duration": 23,
+        "start_idx": 3162,
+        "end_idx": 3184
+    },
+    {
+        "event_id": 272,
+        "start_date": "2013-10-03",
+        "end_date": "2013-10-06",
+        "duration": 4,
+        "start_idx": 3190,
+        "end_idx": 3193
+    },
+    {
+        "event_id": 288,
+        "start_date": "2014-06-13",
+        "end_date": "2014-06-19",
+        "duration": 7,
+        "start_idx": 3443,
+        "end_idx": 3449
+    },
+    {
+        "event_id": 290,
+        "start_date": "2014-07-05",
+        "end_date": "2014-07-15",
+        "duration": 11,
+        "start_idx": 3465,
+        "end_idx": 3475
+    },
+    {
+        "event_id": 292,
+        "start_date": "2014-07-17",
+        "end_date": "2014-08-13",
+        "duration": 28,
+        "start_idx": 3477,
+        "end_idx": 3504
+    },
+    {
+        "event_id": 294,
+        "start_date": "2014-08-19",
+        "end_date": "2014-09-13",
+        "duration": 26,
+        "start_idx": 3510,
+        "end_idx": 3535
+    },
+    {
+        "event_id": 298,
+        "start_date": "2014-09-20",
+        "end_date": "2014-09-22",
+        "duration": 3,
+        "start_idx": 3542,
+        "end_idx": 3544
+    },
+    {
+        "event_id": 300,
+        "start_date": "2014-09-27",
+        "end_date": "2014-10-02",
+        "duration": 6,
+        "start_idx": 3549,
+        "end_idx": 3554
+    },
+    {
+        "event_id": 312,
+        "start_date": "2015-03-26",
+        "end_date": "2015-03-28",
+        "duration": 3,
+        "start_idx": 3729,
+        "end_idx": 3731
+    },
+    {
+        "event_id": 324,
+        "start_date": "2015-05-29",
+        "end_date": "2015-05-31",
+        "duration": 3,
+        "start_idx": 3793,
+        "end_idx": 3795
+    },
+    {
+        "event_id": 332,
+        "start_date": "2015-06-11",
+        "end_date": "2015-06-25",
+        "duration": 15,
+        "start_idx": 3806,
+        "end_idx": 3820
+    },
+    {
+        "event_id": 338,
+        "start_date": "2015-07-18",
+        "end_date": "2015-08-01",
+        "duration": 15,
+        "start_idx": 3843,
+        "end_idx": 3857
+    },
+    {
+        "event_id": 340,
+        "start_date": "2015-08-05",
+        "end_date": "2015-08-09",
+        "duration": 5,
+        "start_idx": 3861,
+        "end_idx": 3865
+    },
+    {
+        "event_id": 348,
+        "start_date": "2015-08-31",
+        "end_date": "2015-09-02",
+        "duration": 3,
+        "start_idx": 3887,
+        "end_idx": 3889
+    },
+    {
+        "event_id": 350,
+        "start_date": "2015-09-11",
+        "end_date": "2015-09-15",
+        "duration": 5,
+        "start_idx": 3898,
+        "end_idx": 3902
+    },
+    {
+        "event_id": 354,
+        "start_date": "2015-10-02",
+        "end_date": "2015-10-13",
+        "duration": 12,
+        "start_idx": 3919,
+        "end_idx": 3930
+    },
+    {
+        "event_id": 356,
+        "start_date": "2015-11-21",
+        "end_date": "2015-11-24",
+        "duration": 4,
+        "start_idx": 3969,
+        "end_idx": 3972
+    },
+    {
+        "event_id": 370,
+        "start_date": "2016-06-07",
+        "end_date": "2016-06-09",
+        "duration": 3,
+        "start_idx": 4168,
+        "end_idx": 4170
+    },
+    {
+        "event_id": 376,
+        "start_date": "2016-06-21",
+        "end_date": "2016-08-12",
+        "duration": 53,
+        "start_idx": 4182,
+        "end_idx": 4234
+    },
+    {
+        "event_id": 378,
+        "start_date": "2016-08-18",
+        "end_date": "2016-09-03",
+        "duration": 17,
+        "start_idx": 4240,
+        "end_idx": 4256
+    },
+    {
+        "event_id": 384,
+        "start_date": "2016-09-14",
+        "end_date": "2016-09-28",
+        "duration": 15,
+        "start_idx": 4267,
+        "end_idx": 4281
+    },
+    {
+        "event_id": 388,
+        "start_date": "2016-10-07",
+        "end_date": "2016-10-10",
+        "duration": 4,
+        "start_idx": 4290,
+        "end_idx": 4293
+    },
+    {
+        "event_id": 392,
+        "start_date": "2017-05-31",
+        "end_date": "2017-06-03",
+        "duration": 4,
+        "start_idx": 4526,
+        "end_idx": 4529
+    },
+    {
+        "event_id": 396,
+        "start_date": "2017-06-08",
+        "end_date": "2017-06-18",
+        "duration": 11,
+        "start_idx": 4534,
+        "end_idx": 4544
+    },
+    {
+        "event_id": 398,
+        "start_date": "2017-06-24",
+        "end_date": "2017-07-05",
+        "duration": 12,
+        "start_idx": 4550,
+        "end_idx": 4561
+    },
+    {
+        "event_id": 400,
+        "start_date": "2017-07-09",
+        "end_date": "2017-07-11",
+        "duration": 3,
+        "start_idx": 4565,
+        "end_idx": 4567
+    },
+    {
+        "event_id": 402,
+        "start_date": "2017-07-13",
+        "end_date": "2017-07-21",
+        "duration": 9,
+        "start_idx": 4569,
+        "end_idx": 4577
+    },
+    {
+        "event_id": 410,
+        "start_date": "2017-08-09",
+        "end_date": "2017-08-11",
+        "duration": 3,
+        "start_idx": 4596,
+        "end_idx": 4598
+    },
+    {
+        "event_id": 412,
+        "start_date": "2017-08-14",
+        "end_date": "2017-08-16",
+        "duration": 3,
+        "start_idx": 4601,
+        "end_idx": 4603
+    },
+    {
+        "event_id": 414,
+        "start_date": "2017-08-19",
+        "end_date": "2017-09-03",
+        "duration": 16,
+        "start_idx": 4606,
+        "end_idx": 4621
+    },
+    {
+        "event_id": 416,
+        "start_date": "2017-09-05",
+        "end_date": "2017-09-08",
+        "duration": 4,
+        "start_idx": 4623,
+        "end_idx": 4626
+    },
+    {
+        "event_id": 418,
+        "start_date": "2017-09-11",
+        "end_date": "2017-09-19",
+        "duration": 9,
+        "start_idx": 4629,
+        "end_idx": 4637
+    },
+    {
+        "event_id": 420,
+        "start_date": "2017-10-01",
+        "end_date": "2017-10-12",
+        "duration": 12,
+        "start_idx": 4649,
+        "end_idx": 4660
+    },
+    {
+        "event_id": 422,
+        "start_date": "2017-10-14",
+        "end_date": "2017-10-16",
+        "duration": 3,
+        "start_idx": 4662,
+        "end_idx": 4664
+    },
+    {
+        "event_id": 430,
+        "start_date": "2018-05-26",
+        "end_date": "2018-05-30",
+        "duration": 5,
+        "start_idx": 4886,
+        "end_idx": 4890
+    },
+    {
+        "event_id": 432,
+        "start_date": "2018-06-02",
+        "end_date": "2018-06-11",
+        "duration": 10,
+        "start_idx": 4893,
+        "end_idx": 4902
+    },
+    {
+        "event_id": 434,
+        "start_date": "2018-06-14",
+        "end_date": "2018-07-03",
+        "duration": 20,
+        "start_idx": 4905,
+        "end_idx": 4924
+    },
+    {
+        "event_id": 438,
+        "start_date": "2018-07-07",
+        "end_date": "2018-07-23",
+        "duration": 17,
+        "start_idx": 4928,
+        "end_idx": 4944
+    },
+    {
+        "event_id": 440,
+        "start_date": "2018-07-25",
+        "end_date": "2018-07-27",
+        "duration": 3,
+        "start_idx": 4946,
+        "end_idx": 4948
+    },
+    {
+        "event_id": 448,
+        "start_date": "2018-08-13",
+        "end_date": "2018-08-31",
+        "duration": 19,
+        "start_idx": 4965,
+        "end_idx": 4983
+    },
+    {
+        "event_id": 458,
+        "start_date": "2018-09-28",
+        "end_date": "2018-09-30",
+        "duration": 3,
+        "start_idx": 5011,
+        "end_idx": 5013
+    },
+    {
+        "event_id": 478,
+        "start_date": "2019-06-08",
+        "end_date": "2019-06-11",
+        "duration": 4,
+        "start_idx": 5264,
+        "end_idx": 5267
+    },
+    {
+        "event_id": 480,
+        "start_date": "2019-06-13",
+        "end_date": "2019-07-13",
+        "duration": 31,
+        "start_idx": 5269,
+        "end_idx": 5299
+    },
+    {
+        "event_id": 482,
+        "start_date": "2019-07-15",
+        "end_date": "2019-07-31",
+        "duration": 17,
+        "start_idx": 5301,
+        "end_idx": 5317
+    },
+    {
+        "event_id": 484,
+        "start_date": "2019-08-02",
+        "end_date": "2019-08-09",
+        "duration": 8,
+        "start_idx": 5319,
+        "end_idx": 5326
+    },
+    {
+        "event_id": 486,
+        "start_date": "2019-08-11",
+        "end_date": "2019-08-15",
+        "duration": 5,
+        "start_idx": 5328,
+        "end_idx": 5332
+    },
+    {
+        "event_id": 488,
+        "start_date": "2019-08-20",
+        "end_date": "2019-09-15",
+        "duration": 27,
+        "start_idx": 5337,
+        "end_idx": 5363
+    },
+    {
+        "event_id": 490,
+        "start_date": "2019-09-17",
+        "end_date": "2019-09-22",
+        "duration": 6,
+        "start_idx": 5365,
+        "end_idx": 5370
+    },
+    {
+        "event_id": 496,
+        "start_date": "2019-09-30",
+        "end_date": "2019-10-02",
+        "duration": 3,
+        "start_idx": 5378,
+        "end_idx": 5380
+    },
+    {
+        "event_id": 498,
+        "start_date": "2019-10-08",
+        "end_date": "2019-10-11",
+        "duration": 4,
+        "start_idx": 5386,
+        "end_idx": 5389
+    },
+    {
+        "event_id": 502,
+        "start_date": "2019-10-19",
+        "end_date": "2019-10-26",
+        "duration": 8,
+        "start_idx": 5397,
+        "end_idx": 5404
+    },
+    {
+        "event_id": 504,
+        "start_date": "2019-10-31",
+        "end_date": "2019-11-04",
+        "duration": 5,
+        "start_idx": 5409,
+        "end_idx": 5413
+    },
+    {
+        "event_id": 508,
+        "start_date": "2019-11-29",
+        "end_date": "2019-12-04",
+        "duration": 6,
+        "start_idx": 5438,
+        "end_idx": 5443
+    },
+    {
+        "event_id": 516,
+        "start_date": "2020-05-31",
+        "end_date": "2020-06-03",
+        "duration": 4,
+        "start_idx": 5622,
+        "end_idx": 5625
+    },
+    {
+        "event_id": 522,
+        "start_date": "2020-06-10",
+        "end_date": "2020-06-12",
+        "duration": 3,
+        "start_idx": 5632,
+        "end_idx": 5634
+    },
+    {
+        "event_id": 524,
+        "start_date": "2020-06-14",
+        "end_date": "2020-07-21",
+        "duration": 38,
+        "start_idx": 5636,
+        "end_idx": 5673
+    },
+    {
+        "event_id": 526,
+        "start_date": "2020-07-24",
+        "end_date": "2020-08-18",
+        "duration": 26,
+        "start_idx": 5676,
+        "end_idx": 5701
+    },
+    {
+        "event_id": 528,
+        "start_date": "2020-08-20",
+        "end_date": "2020-08-22",
+        "duration": 3,
+        "start_idx": 5703,
+        "end_idx": 5705
+    },
+    {
+        "event_id": 530,
+        "start_date": "2020-08-27",
+        "end_date": "2020-09-20",
+        "duration": 25,
+        "start_idx": 5710,
+        "end_idx": 5734
+    },
+    {
+        "event_id": 532,
+        "start_date": "2020-09-22",
+        "end_date": "2020-09-28",
+        "duration": 7,
+        "start_idx": 5736,
+        "end_idx": 5742
+    },
+    {
+        "event_id": 534,
+        "start_date": "2020-10-04",
+        "end_date": "2020-10-06",
+        "duration": 3,
+        "start_idx": 5748,
+        "end_idx": 5750
+    },
+    {
+        "event_id": 536,
+        "start_date": "2020-10-08",
+        "end_date": "2020-10-11",
+        "duration": 4,
+        "start_idx": 5752,
+        "end_idx": 5755
+    },
+    {
+        "event_id": 538,
+        "start_date": "2020-10-13",
+        "end_date": "2020-10-18",
+        "duration": 6,
+        "start_idx": 5757,
+        "end_idx": 5762
+    },
+    {
+        "event_id": 540,
+        "start_date": "2020-10-21",
+        "end_date": "2020-10-26",
+        "duration": 6,
+        "start_idx": 5765,
+        "end_idx": 5770
+    },
+    {
+        "event_id": 542,
+        "start_date": "2020-12-10",
+        "end_date": "2020-12-14",
+        "duration": 5,
+        "start_idx": 5815,
+        "end_idx": 5819
+    },
+    {
+        "event_id": 544,
+        "start_date": "2021-01-10",
+        "end_date": "2021-01-12",
+        "duration": 3,
+        "start_idx": 5846,
+        "end_idx": 5848
+    },
+    {
+        "event_id": 556,
+        "start_date": "2021-06-11",
+        "end_date": "2021-06-21",
+        "duration": 11,
+        "start_idx": 5998,
+        "end_idx": 6008
+    },
+    {
+        "event_id": 558,
+        "start_date": "2021-06-23",
+        "end_date": "2021-06-25",
+        "duration": 3,
+        "start_idx": 6010,
+        "end_idx": 6012
+    },
+    {
+        "event_id": 560,
+        "start_date": "2021-06-27",
+        "end_date": "2021-06-29",
+        "duration": 3,
+        "start_idx": 6014,
+        "end_idx": 6016
+    },
+    {
+        "event_id": 562,
+        "start_date": "2021-07-05",
+        "end_date": "2021-07-17",
+        "duration": 13,
+        "start_idx": 6022,
+        "end_idx": 6034
+    },
+    {
+        "event_id": 564,
+        "start_date": "2021-07-19",
+        "end_date": "2021-07-26",
+        "duration": 8,
+        "start_idx": 6036,
+        "end_idx": 6043
+    },
+    {
+        "event_id": 568,
+        "start_date": "2021-08-06",
+        "end_date": "2021-08-11",
+        "duration": 6,
+        "start_idx": 6054,
+        "end_idx": 6059
+    },
+    {
+        "event_id": 570,
+        "start_date": "2021-08-13",
+        "end_date": "2021-09-24",
+        "duration": 43,
+        "start_idx": 6061,
+        "end_idx": 6103
+    },
+    {
+        "event_id": 572,
+        "start_date": "2021-09-27",
+        "end_date": "2021-10-15",
+        "duration": 19,
+        "start_idx": 6106,
+        "end_idx": 6124
+    },
+    {
+        "event_id": 574,
+        "start_date": "2021-11-05",
+        "end_date": "2021-11-08",
+        "duration": 4,
+        "start_idx": 6145,
+        "end_idx": 6148
+    },
+    {
+        "event_id": 576,
+        "start_date": "2021-11-17",
+        "end_date": "2021-11-21",
+        "duration": 5,
+        "start_idx": 6157,
+        "end_idx": 6161
+    },
+    {
+        "event_id": 590,
+        "start_date": "2022-06-07",
+        "end_date": "2022-06-13",
+        "duration": 7,
+        "start_idx": 6359,
+        "end_idx": 6365
+    },
+    {
+        "event_id": 592,
+        "start_date": "2022-06-17",
+        "end_date": "2022-07-20",
+        "duration": 34,
+        "start_idx": 6369,
+        "end_idx": 6402
+    },
+    {
+        "event_id": 598,
+        "start_date": "2022-08-01",
+        "end_date": "2022-08-12",
+        "duration": 12,
+        "start_idx": 6414,
+        "end_idx": 6425
+    },
+    {
+        "event_id": 600,
+        "start_date": "2022-08-14",
+        "end_date": "2022-08-20",
+        "duration": 7,
+        "start_idx": 6427,
+        "end_idx": 6433
+    },
+    {
+        "event_id": 606,
+        "start_date": "2022-08-30",
+        "end_date": "2022-09-18",
+        "duration": 20,
+        "start_idx": 6443,
+        "end_idx": 6462
+    },
+    {
+        "event_id": 614,
+        "start_date": "2022-10-13",
+        "end_date": "2022-10-15",
+        "duration": 3,
+        "start_idx": 6487,
+        "end_idx": 6489
+    },
+    {
+        "event_id": 616,
+        "start_date": "2022-10-18",
+        "end_date": "2022-10-20",
+        "duration": 3,
+        "start_idx": 6492,
+        "end_idx": 6494
+    },
+    {
+        "event_id": 618,
+        "start_date": "2022-12-13",
+        "end_date": "2022-12-15",
+        "duration": 3,
+        "start_idx": 6548,
+        "end_idx": 6550
+    },
+    {
+        "event_id": 620,
+        "start_date": "2023-06-13",
+        "end_date": "2023-06-15",
+        "duration": 3,
+        "start_idx": 6730,
+        "end_idx": 6732
+    },
+    {
+        "event_id": 622,
+        "start_date": "2023-06-20",
+        "end_date": "2023-07-31",
+        "duration": 42,
+        "start_idx": 6737,
+        "end_idx": 6778
+    },
+    {
+        "event_id": 628,
+        "start_date": "2023-09-04",
+        "end_date": "2023-09-08",
+        "duration": 5,
+        "start_idx": 6813,
+        "end_idx": 6817
+    },
+    {
+        "event_id": 630,
+        "start_date": "2023-09-10",
+        "end_date": "2023-10-01",
+        "duration": 22,
+        "start_idx": 6819,
+        "end_idx": 6840
+    },
+    {
+        "event_id": 654,
+        "start_date": "2024-06-25",
+        "end_date": "2024-07-26",
+        "duration": 32,
+        "start_idx": 7108,
+        "end_idx": 7139
+    },
+    {
+        "event_id": 656,
+        "start_date": "2024-07-29",
+        "end_date": "2024-08-04",
+        "duration": 7,
+        "start_idx": 7142,
+        "end_idx": 7148
+    },
+    {
+        "event_id": 660,
+        "start_date": "2024-08-16",
+        "end_date": "2024-09-03",
+        "duration": 19,
+        "start_idx": 7160,
+        "end_idx": 7178
+    },
+    {
+        "event_id": 662,
+        "start_date": "2024-09-07",
+        "end_date": "2024-09-12",
+        "duration": 6,
+        "start_idx": 7182,
+        "end_idx": 7187
+    },
+    {
+        "event_id": 668,
+        "start_date": "2024-09-24",
+        "end_date": "2024-10-01",
+        "duration": 8,
+        "start_idx": 7199,
+        "end_idx": 7206
+    },
+    {
+        "event_id": 672,
+        "start_date": "2024-10-07",
+        "end_date": "2024-10-19",
+        "duration": 13,
+        "start_idx": 7212,
+        "end_idx": 7224
+    },
+    {
+        "event_id": 674,
+        "start_date": "2024-10-21",
+        "end_date": "2024-10-23",
+        "duration": 3,
+        "start_idx": 7226,
+        "end_idx": 7228
+    },
+    {
+        "event_id": 680,
+        "start_date": "2024-12-04",
+        "end_date": "2024-12-06",
+        "duration": 3,
+        "start_idx": 7270,
+        "end_idx": 7272
+    }
+]

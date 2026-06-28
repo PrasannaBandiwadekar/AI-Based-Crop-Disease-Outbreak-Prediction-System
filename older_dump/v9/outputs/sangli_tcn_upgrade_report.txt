@@ -1,0 +1,23 @@
+V9 f-layer TCN Targeted Fine-Tune Report
+=============================================
+
+Architectural Changes:
+  - GRU temporal encoder replaced with Multi-Scale TCN
+  - Dilations: [1, 2, 4] | Kernel: 3 | Receptive fields: 3/6/12 days
+  - g-layer (agronomic_mlp): FROZEN
+  - h-layer (fusion_layer): FROZEN
+  - TCN + attention_w: FINE-TUNED (40 epochs)
+
+Threshold Sweep Results:
+ Threshold  TP  FP   TN  FN  Recall    FPR
+        40   9  30 7100   0     1.0 0.0042
+        50   9  30 7100   0     1.0 0.0042
+        60   9  29 7101   0     1.0 0.0041
+        70   9  28 7102   0     1.0 0.0039
+
+Best Operating Threshold: 70.0
+  Recall: 1.0
+  FPR:    0.0039
+
+Final Status: PASS
+Corrected model: v9/models/v9_tcn_corrected.pth

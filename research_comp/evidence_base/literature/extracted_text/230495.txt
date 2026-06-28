@@ -1,0 +1,3459 @@
+•, 
+EPIDEMIOLOGY AND MANAGEMENT OF RED ROT OF SUGARCANE CAUSED 
+BY Colletotrichum falcatum WENT 
+BY 
+HAWA SINGH SAHARAN 
+Dissertation submitted to the Chaudhary Charan Singh Haryana Agricultural 
+University in partial fulfilment of the requirements for the degree of : 
+Doctor of Philosophy 
+in 
+PLANT PATHOLOGY 
+College of Agriculture 
+CCS Haryana Agricultural University 
+HISAR 
+1992 
+J-iflp ~~arrnts 
+CERTIFICATE -1 
+This is to certify that this dissertation entitled " Epidemiology and 
+management of red r·ot of sugarcane caused by Colletotrichum falcatum \\'ent" 
+submitted for the degree of Ph.D., in the subject of Plant Patholog·y, of the 
+Chaudhary Charan Singh Haryana Agr·icultural University, is a bonafide r·esearch 
+work carried out by Shri Hawa Singh Saharan under my supervision and that no 
+part of this dissertation has been submitted for any other degree. 
+The assistance and help received during the course of investigation has 
+been fully acknowledged. 
+CERTIFICATE-II 
+This is to certify that the dissertation entitled " Epidemiology and 
+management of red rot of sugarcane caused by Colletotrichum falcatum Went" 
+submitted by Shri Hawa Singh Saharan to the Chaudhary Charan Singh Haryana 
+Agricutural University, in partial fulfilment of the requirements for· the degree 
+of Ph.D., in the subject of Plant Pathology, has been approved by the student's 
+Advisory Committee after an oral examination on the same, in collaboration 
+with an externaf examiner. 
+ue-~.:7f--ll t1 ~-. 92--
+EXTERNAL EXAMINER 
+~iJI~ 
+HEAD OF THE DEPARTMENT 
+ACKNOWLEDGEMENT 
+I express my deep sense of gratitude and sincere thanks to my major 
+advisor Dr. Satyavir, Senior Plant Pathologist ( Sugarcane ), Department of Plant 
+Pathology, CCS Haryana Agricultural University, Hisar for the valuable guidance, 
+supervision, keen interest and inspiring help throughout the course of this 
+investigation. 
+I am thankful to the members of my advisory committee, Dr.B.L.Jalali, 
+Senior Plant Pathologist ( Pulses ), Department of Plant Pathology, Dr. V.P.Singh, 
+Senior Scientist ( Pulses ), Department of Plant Br·eeding, Dr. L.S.Kaushik, Assoc. 
+Professor, Department of Statistics and Dr. L.K.Bishnoi, Senior Agronomist, for 
+their valuable suggestions, healthy criticism and appraisal of the manuscript. 
+I wish to place on record my gratitude to Dr. R. D.Parasar, Professor 
+and Head, Department of Plant Pathology for providing the necessary facilities. 
+A mere expression of sincere and heartful thanks, seems too inadequate 
+to reflect the intensity and intimacy with which Dr. S.Nagarajan, A.D.G. Plant 
+Protection, I. C. A. R. who conceived and detailed the problem and provided 
+constructive criticism during the investigation. 
+wish to put on records my words of appreciation to Dr. G.S.Saharan, 
+Professor, Department of Plant Pathology for his help, cooperation and moral 
+support during the course of investigation. 
+I also acknowledge with thanks the guidance and help given by 
+. 
+Dr. Praveen Arora, Scientist, NCIPM, Faridabad, Dr. B.S.Chaudhary, Senior Scientist, 
+Regional Research Station, Uchani, 1\ar·nnl, Dr. K.S. Virk, Sugarcnnc Pnthologist, 
+Hegional Research Station, Uchani, 1\arnnl and Sh. Ani! 1\umar. Asstt. Plant Pathologist, 
+Department of Plant Pathology, CCS llor·ynna Agricultural Univcr·sity, llisor·. 
+Sincere thanks are also due to other faculty members, colleagues 
+and friends for their help and cooperation during the course of investigation. 
+In the last but not the least, I express my gratitude to my brother 
+Sh. Mohar Singh Saharan and other family members for their constant encouragement, 
+inspire tion and help during this period. 
+The Award of Senior Fellowship by Indian Council of Agricultural Research 
+is gratefully acknowledged. 
+( Hawa Singh Saharan ) 
+Dated : ':3>. {:. · q 2-
+CONTENTS 
+Chapter Page No. 
+I INTRODUCTION 1 - 2 
+II REVIEW OF LITERATURE 3 - 14 
+III MATERIALS AND METHODS 14 - 22 
+IV RESULTS AND DISCUSSION 23 - 71 
+v SUMMARY 72 - 75 
+LITERATURE CITED i - x 
+APPENDIX 
+******* 
+LIST OF FIGURES 
+Fig. 1 Progress of red rot of sugarcane ( Hisar 1989-90 ) 
+Fig. 2 Progress of red rot of sugarcane ( I<arnal 1989-90) 
+Fig. 3 Progress of red rot of sugarcane ( Hisar 1990-91 ) 
+Fig. 4 Progress of red rot of sugarcane ( Karnal 1990-91). 
+
+CHAPTER-I 
+INTRODUCTION 
+Sugarcane is an important cash crop and the principal source of sugar 
+in our country, covering the largest acreage among all the sugarcane growing 
+countries of the world. It is grown in an area of 3.68 million hectares in 
+India with the sugar production of 12.05 million tonnes during 1990-91. However, 
+• in Haryana, the area under sugarcane was 147 thousand hectares with the 
+sugar production of 375 thousand tonnes during 1990-91 (Anonymous, 1991 ). 
+The state has 11 sugar mills and a large number of gur and khandsari 
+manufacturing units and thus sugarcane plays an important pa1·t in the economy 
+of the state. 
+Among the major diseases of sugarcane, red rot caused by 
+~ 
+Colletotrichum falcatum Went ( Glomerella tucumanensis ( Speg. } Arx and 
+Muller ) is one of the earliest and has far reaching influence on the economicS 
+of sugar production in several countries. In India, red rot is the most serious 
+disease of sugarcane, particularly in northern belt. Severe epiphytotics of 
+red rot had occurred in this belt during 1938-40, ds-47 and 1948-49, 
+resulting in failure of some of our most popular varieties v1·z c 213 ., 0 ' 
+Co 312 and Co 453. The epidemic of 1938-40 in eastern Uttar Pradesh and 
+northern Bihar had resulted in complete devastation of cane fields of the 
+predominant commercial variety Co 213. A reduction of about 70,000 tonnes 
+in sugar production of the count1·y du1·ing 1938-39 was ascribed to red rot 
+-2-
+epidemic ( Chona, 1956 ). In 1950-51, localised red rot epidemic affecting 
+varieties Co 312, Co 313 and Co 421 was reported from Punjab ( Chona 
+and Srivastava, 1960). The outbreak of this disease has also been reported 
+from Andhra Pradesh, Tamil Nadu, Pondicherry and l<erala ( Pra"-.asam and 
+Venkatareddy, 1961; Lewin et al. 1976; Agnihotri and Singh, 1977; Nair 
+~ al., 1984 ). 
+The main cause of deterioration of several popular sugarcane 
+varieties has been because of variability in the red rot pathogen. Beniwal 
+~ al. (1989) reported that red rot had been responsible for chasing out a 
+number of commercial varieties and breakdown of a variety was attributed 
+to the emergence of a new race. In general, breeding of red rot resistant 
+early maturing high sugared varieties has not made much head way so far 
+in our country. The possibility of obtaining resistant mutants through 
+irradiation cannot be ruled out since this has been possible in certain other 
+instances ( Babu, 1969 ). 
+Detailed studies have been conducted on various aspects viz., 
+pathogenic variability, mode and source of infection, host r·esistance and 
+losses caused by this disease (Beniwal and Satyavir, 1991; Singh and Singh, 
+1989 and Singh ~ ~' 1992 ). However, limited work has been carried out 
+on epidemiology and disease management. Keeping all this in view, detailed 
+studies with the following objectives were undertaken through the present 
+investigations. 
+(i) To study disease epidemiology with particular reference to the role 
+of environmental factors. 
+(ii) To study the role of nitrogen, soil amendments and fungicidal treatments 
+in the red rot management. 
+(iii) To identify red rot resistant mutant. 
+
+CHAPTER-II 
+REVIEW OF LITERATURE 
+The main objective of this investigation was to study the epidemiology 
+and management of red rot of sugarcane. The present brief reivew is, 
+therefore, confined to a generalized picture of role of environmental factors, 
+effect of different amendments, nitrogen levels and fungicidaal treatments 
+on the development of red rot of sugarcane. In addition, the mutational 
+pattern by gamma irradiation had also been emphasized. An attempt has been 
+made in this context to highlight only those aspects of literature which have 
+bearing on or relevance to the present study. 
+Red rot of sugarcane caused by Colletotrichum falcatum was first 
+reported and described by Went in 1983 from Java ( Indonesia· ) and proposed 
+"r.ed smut!1. as the common name for this disease. Within a decade, the 
+occurrence of the disease was reported from several other countries, but it 
+is regarded as a disease of major importance chiefly in the sub-tropical countries 
+particularly the southern United States, India and Queensland ( Chona, 1980). 
+ln India, the first outbreak of this disease was reported by Barber ( 1901 ) 
+from Godavcri delta of Andhra Pradesh. Later, this disease was reported in 
+epidemic form from northern Bihar and Bengal by Butler ( 1906 ) and he 
+proposed " red rot 
+11 
+as common name for this disease which is now universally 
+accepted. 
+A severe outbreak of this disease occurred in .Jammu ( 1\ashrn ir ) in 
+1922 and in Pusa ( Bihar ) in 1932 ( Chona, 1956 ). Red rot disease attracted 
+4-
+special attention during the year 1938-40 when it appeared in epidemic form 
+in northern Bihar and eastern Uttar Pradesh resulting in the failure of most 
+popular variety Co 213 ( Chona and Padwick, 1942; Chona, 1943 ). The 
+disease again appeared in epidemic form during 1946-4 7 in several districts of 
+Uttar Pradesh, this time resulting in the failure of popular variety Co 312 
+(Mathur, 1946 ). ln 1948-49, it was again wide spread in eastern, mid-eastern 
+and certain parts of western Uttar Pradesh affecting the variety Co 453 (Rafay, 
+1950 ). In 1950-51, localized red rot epidemic affecting Co 312, Co 313 and 
+Co 421 was reported from Punjab ( Chona and Srivastava, 1960 ). The disease 
+has also been reported from Andhra Pradesh, Tamil Nadu, Pondicherry and 
+Kerala causing serious losses in varieties Co 419, Co 658, Co 449 and Co 997 
+( Prakasam and Venkatareddy, 1961; Lewin ~ al., 1976; Agnihotri and Singh, 
+1977; Nair ~ al., 1984 ). In Haryana, red rot appeared in epidemic form 
+during 1980-81 in our most popular variety Co 1148 ( Satyavir ~ al., 1984 ) 
+which was earlier found to be resistant to all the prevailing pathotypes in 
+India ( Alexander, 1979 ). 
+The ascigeral stage was first described by Spagazzini as Physalospora 
+tucumanensis Speg. The species was not recognized as the perfect stage 
+until Carvajal and Edgerton in 1943 reported it from Louisiana. Later Arx 
+and Muller ( 1954) placed the perfect stage under genus Glomerella as 
+G. tucumanensis ( Speg.) Arx and Muller. This has gradually come to be 
+accepted as the preferred name for the fungus. In India, the perithecial 
+stage was not known to occur until Chona and Srivastava (1952 ) reported 
+its occurrence in cultures. Subsequently, Chona and Bajaj ( 1953 ) found it 
+in nature on sugarcane leaves at l.A.R.I, New Delhi. Singh~ al. (1982) 
+- 5-
+also reported the occurrence of perfect stage of red rot pathogen on dried 
+and semi-dried old leaves of sugarcanes from Gorakhpur in Uttar Pradesh. 
+Methods of inoculation and criteria for grading : 
+In India, the red rot of sugarcane is primarily a disease of standing 
+canes. Therefore, standing canes are inoculated during rainy season and 
+degree of attack is assessed 2-3 months after inoculation. Two methods of 
+inoculation viz., plug and nodal are commonly used. Chona (1954) standardized 
+red rot testing by plug method and used linear spread of infection for 
+determining relative resistance of sugarcane varieties. 
+Chona ( 1950) tested the nodal resistance of sugarcane varieties by 
+placing one ml of red rot inoculum into the space between leaves and stalk 
+during the rainy season. Menon and Singh (1960) developed an inoculator 
+which made plug method simpler and easier. Vir!< (1985) advocated the 
+use of the modified hypodermic syringe for making puncture into internode 
+and placement of inoculum. 
+Srinivasan and Bhat (1961) pointed out that linear spread of red rot 
+in a variety was highly variable and red rot grading based on this character 
+gave variable results. They suggested a new grading system ( Symptomatic 
+method ) based on four characters, viz., drying of tops, lesion width, occurrence 
+and nature of white spots and nodal transgression. Srinivasan ( 1962) developed 
+a technique for screening young seedlings. In this method, six week old 
+seedlings were inoculated by spraying the conidial suspension of c. falcatum 
+and this method was found to be useful in eliminating more than 80 per cent 
+of red rot susceptible seedlings at an early stage of growth. Singh et al. 
+( 1978) modified this method to use 5-6 months old plants ( seedlings ) instead 
+of young seedlings. 
+- 6-
+Singh and Budhraja (1964) standardized nodal method ( I.I.S.R. method) 
+of inoculation and this was found to be more suitable for assessing field 
+resistance of a variety. Sandhu and Babu ( 1967) observed that assessment 
+of resistance to red rot based on width of lesion, occurrence of white spots, 
+nodal transgression and drying of tops was more efficient than that of lesion 
+length only. Kirtikar et al. (1972) adopted linear spread method and different 
+varieties were classified into three different categories i.e. resistant ( lesion 
+length not exceeding 37.5 em ) moderately resistant, ( lesion length 37.6 to 
+75.0 em ) and susceptible ( lesion length above 75.0 em ). 
+Prasada Rao et al. ( 1978) observed that drying of tops is the most 
+important field symptom for red rot which is the cumulative effect of 
+lesion width ( X 1 ), nature of white spots ( X 2) and number of nodes 
+transgressed x3 ). They assessed the relative influence of these factors 
+on red rot and developed a mathematical model of discriminant function for 
+grading varieties for resistance. The equation Z = 3.5 X 1 + 36.7 x2 + x3 
+took into consideration the relative values of three characters which were 
+responsible for top drying. 
+Bergamin (1981) found that leaf inoculation method for evaluation of 
+the resistance of sugarcane to C. falcatum was a little practical importance. 
+Wang and Lee ( 1982 ) reported that drill tooth pick method was more convenient 
+than the borer mycelia method for determining varietal resistance to red rot. 
+Singh ~ ~· (1984) used nodal method for screening of sugarcane 
+seedlings against red rot in seed beds under natural field conditions at 
+Gorakhpur with range of temperature 25-33°C and relative humidity between 
+79 and 92 per cent. Alexander £.!. ~· ( 1986) used a new approach to improvement 
+-7-
+of red rot resistance in sugarcane. They made simultaneous tests on 200 
+genotypes using both natural infection and inoculation with C. falcatum in 
+the four endemic zones of this disease ( Karnal in Haryana, Chakia in 
+northern Bihar, Tanuka in Andhra Pradesh and Nellikuppam in Tamil Nadu ) , 
+and the results were discussed together with the advantages of testing the 
+same set of genotype at different locations. 
+Behaviour of Colletotrichum falcatum in soil : 
+Opinions vary regarding survival of C. falcatum in soil ( Chona 
+and Nariani, 1952; Singh !.!_ al., 1977; Singh and Singh, 1983; Waraitch, 1983; 
+Singh and J< umar, 1986 ). This is because some investigators used spores 
+while others used infected tissues for studying the survival of red rot pathogen 
+in soil. According to Chona and Nariani ( 1952) C. falcatum is capable of 
+growing in the soil and produces abundent acervuli. They found that in 
+natural soil or manured soil the fungus failed to survive, beyond three to 
+four months. Singh ~ ~ (1977) studied th~ survival using one em long pieces 
+of affected mid-ribs. These pieces were buried at different depths in soil 
+and the survival of C. falcatum studied in two seasons, namely, winter and 
+autumn. Periodic isolations from the affected material revealed that the 
+pathogen survived for 63 days in winter· and 34 days in autumn. 
+Waraitch ( 1983) found that C. falcatum survives in soil for 60 and 
+75 days after the incorporation of the deb!'ies under non-flooded and flooded 
+conditions. Singh and Lal (1987) showed that the inoculum of C. falcatum 
+remained viable in stagnant water for upto 60 days and for 7-8 months in 
+infected tissues on the surface of damp soil. Evidence is presented that 
+water plays an important role in the dissemination of inoculum and predisposes 
+-8-
+the host to penetration by the pathogen. Singh (1985) reported that disease 
+incidence was reduced from 44% ( debries burried just before planting ) to 
+2.2 96 ( 90 days before planting ). Infection was also observed in ratoon crop 
+indicating that some inoculum persisted in soil even after uprooting the 
+infected clumps from the plants crop. Warai tch (1985)confirmed the role of 
+infested soil in disease development. Under Punjab conditions the pathogen 
+survived in soil for 90 days in winter and 60 days in summer. Singh and Singh 
+(1982) showed that the incubation of C. falcatum conidia in soil, using the 
+buried slide technique, favoured germination and appressoria were formed 1-40 
+days later, thus indicating a long survival of the sugarcane pathogen in soil. 
+The infective propagules of C. falcatum in the soil may be spores, 
+setae, chlamydospores, appressoria, ascospores or thickwalled hyphae ( Singh 
+and Singh, 1983; Singh ~ al., 1985 ). Singh ~ al. (1977) found that red rot 
+infection in young seedlings occurred when 50 propagules of C. falcatum were 
+present in a gram of soil. As the number of propagules increased in the soil, 
+the red rot incidence also increased but 100% mortality of setts did not occur 
+even when 0.5 million spores were initially mixed with one gram of soil. 
+Physiological study : Effect of temperature on growth and sporulation. 
+Edgerton and Moreland (1920) reported that the C. falcatum was 
+able to grow at temperature ranging from 13-37 .5°C with optimum near 27°C. 
+Tims and Edgerton ( 1932) observed good growth of C. falcatum at 27-34oc. 
+Abbott ( 1938) reported that minimum temperature for the growth of c. falcatum 
+was 10°C, maximum slightly above 37 .5°C and the optimum at 30-32.5°C. 
+A temperature range of 25-28°C was found to be optimum for the growth 
+of C. falcatum ( Ramakrishnan, 1941 ). Chona and Hingorani ( 1950) conducted 
+- 9-
+physiological studies on three isolates of C. falcatum and recorded optimum 
+growth at a temperature of 30°C, very light at 10°C and nil at 40°C. 
+Ahmed and Divinagracia (1974) observed that C. falcatum grew at 
+temperature from 10°C to 35°C with the optimum at 25°C - 30°C. Maximum 
+sporulation occurred at 25°C but it was good at 20°C - 30°C. Light had no 
+effect on growth but most sporulation occurred under continuous light and 
+least in darkness. Khirbat (1980) reported the temperature range for growth 
+of different isolates between 20°C and 30°C. The sporulation of all the 
+isolates was maximum at 30°C. 
+Role of environmental factors on red rot development : 
+Only scanty information is available on the role of environmental 
+factors on the development of red rot under field conditions. 
+Environmental factors affect both the spread and severity of red rot. 
+Rana and Gupta (1968) reported good red rot development by spray inoculation 
+method ( nodal injury ) during first fortnight of September under Shahjahanpur 
+( Uttar Pradesh) conditions where average relative humidity was about 90 per 
+cent and a temperature range of 24-33°C. Singh et al. (1984) reported good 
+red rot development at temperature range of 25-30°C and relative humidity 
+between 79 and 92 per cent. Influence of atmospheric temperature on red 
+rot development ( by plug method ) was studied by Singh ~ ~ ( 1988) as 
+well as Beniwal and Satyavir (1991). They reported that the disease incidence 
+was found to be highly responsive to variation in temperature. The red rot 
+development was optimum between the mean temperature range of 29.4 -
+31.0°C. 
+-10-
+Role of mid rib-isolates : 
+The red rot pathogen of sugarcane, C. falcatum causes extensive 
+lesion formation on mid ribs ( Rajan and Singh, 1957 ). The fungus may 
+remain confined to a small portion or may infect the entire mid rib, the 
+intensity and incidence depending upon the susceptibility of the variety 
+(Singh, 1966 ). 
+Butler (1906) obtained stalk rot from mid-rib isolates, while Abbott 
+(1938) did not find mycelial connections between leaf and stalk lesions. Rafay 
+and Singh (1957) reported severe pathogenicity with light colow·ed, mid-rib 
+isolates, while dark coloured isolates of C. falcatum caused mild infection. 
+On the other hand stalk inoculation trials with mid ribs isolates have shown 
+that most of them are either non-pathogenic or weakly pathogenic (Agnihotri 
+and Budhraja, 1972 ). According to Agnihotri and Budhraja ( 1974) the most 
+mid-rib isolates of C. falcatum are weak pathogens and do not present a 
+serious threat to cane cultivation. The races that cause mid rib lesions are 
+markedly diffe~ent from those causing stalk rot. Similarly, Sandhu ~ al. 
+(1974) have concluded that mid rib isolates are less virulent than the stalk 
+rot isolates. Lewin ~ al. (1978) studied the role of mid-ribs isolates of 
+c. falcatum in causing red rot of sugarcane and found that the isolates from 
+the mid-rib lesions did not cause stalk rot on even the susceptible varieties. 
+Effect of nitrogen on red rot development : 
+No work has been done on role of nitrogen fertilizer on red rot 
+development. However, some physiological studies have been carried out 
+to study effect of different forms of nitrogen on growth and sporulation of 
+c. falcatum. 
+-11-
+Ramakrishnan (1941) reported that the C. falcatum was able to 
+metabolise a number of organic and inorganic sources of nitrogen of the several 
+inorganic compounds namely protassium nitrate, calcum nitrate and sodium nitrate 
+favoured good growth, while ammonium phosphate, potassium nitrate and sodium 
+nitrate supported good sporulation. Manocha ( 1963) found that the addition of 
+nitrogen boosted the sucrase or· invertase production in both the dark and light 
+coloured isolate. 
+Effect of amendment on red rot development : 
+Singh (1985) studied the effect of various amendment on red rot 
+development in sugarcane. He demonstrated that soil treatment with organic 
+and inorganic amendments increased development of red rot disease particularly 
+when susceptible cultivar Co 312was planted, possibly it may be due to some 
+stimulatory effect of soil amendment on the activity of the pathogen. 
+Fungicidal control of red rot : 
+Chemical therapy has been tr·ied both against primary and secondary 
+infections of red rot. Although several fungicides viz., bavistin, benomyl, 
+vitavax, aretan and topsin have been found effective in vitro against c. falcatum, 
+which have not given satisfactory control of the disease under field conditions 
+(Singh and Singh, 1989 ). 
+Anzalone ( 1970) repor·ted contr·ol of red r·ot in seecJ pieces with 
+benomyl ( 100 or 200 ppm ) when treated under air pr·essure of 10 lb p.s.i. 
+for 15 minutes. Chand et al. (1974) reported that the treatment of setts 
+of Co 312 with benomyl ( 0.25 per cent ) and vitavax ( 0.05 per cent ) 
+increased germination over the control by 50 per cent and reduced the red 
+rot incidence in the crop raised. Lewin ~ al. ( 1976) employed different 
+organomercurials, antifungal antibiotics and systemic> fungicides for controlling 
+red rot. They r·eported that the dip tr·eatment of setts agallol ( 0.05 per cent ) 
+- 12-
+for a period of 15 minutes gave good control of red rot. Waraitch ( 1983) 
+recorded reduction in red rot when diseased seed pieces were dipped in 
+bavistin solution ( 0.5 per cent ) for one hour. 
+In a laboratory test with 14 fungicides against C. falcatum, Khirbat 
+et al. (1984) demonstrated that in gene1·al the benzimidazoles performed best 
+but plantvax and Hoe 6053 ( pyracarbalid ) also effectively inhibited spore 
+germination. 
+Sharma et al. (1957) demonstrated that perenox was effective in 
+checking the secondary spread of red rot. Kirtikar and Verma ( 1963) 
+reported that blitox and dithane when sprayed three times between July and 
+September reduced the spread of mid-rib lesions. 
+Induced mutations for red rot resistance : 
+By defination, a mutation is an inherited stable alteration to the 
+genetic materia] ( Brock, 1971 ). No assumption is made about the degree 
+of experession of the genetic change, but mutation can only be recognized 
+by alterations of the phenotype. The phenotype can be the whole o1·ganism 
+or any part of it. As is now known, the genetic message encoded in the 
+nucleotide base sequence. A mutation can, therefore, be an alteration to the 
+nucleotide base sequence. A necleotide base change may or may not result in 
+a recognizable change in the phenotype of the whole organisms but if it can be 
+recognized as a change in DNA, it is by defination a mutation. A mutation, 
+therefore, might have actually occured but may not be observed at that time. 
+This will be actuAlly so far characters governed by genes with small effects. 
+This is, however, an important phenomenon with grreat consequence of 
+evaluationary significance. It has been shown by different workers ( Bhatia 
+and Swamimtthan, 1962; Brock, 1964 ) that as a result of irractiatior. t;1e 
+genotypic and phenotypic variability is increased with the difference in response 
+- 13-
+depending on different varieties. According to Brock ( 1965), all characters 
+respond with increased genetic variance. After discarding marphological 
+mutants, the means of the irradiated populations as compared to control may 
+not be alter·ed. This is possible because mutations with plus and minus 
+effects may occur equally frequently. However, means might sometimes 
+deviate from control and may in fact be towards positive direction. This 
+direction in the shift of means, according to Brock (1965), would depend 
+upon previous selection, induced mutations do not follow a particular trend 
+but would be random. 
+Natarajan ( 1964 ) suggested utilization of induced mutations for 
+improving single trait of an established sugarcane variety like resistance to 
+red rot or mosaic. Rao et ~ (1966) obtained one plant each from the 
+vegetative progeny of buds subjected to dosages of 500 R and 3000 H as 
+resistant in variety Co 449. Some promising mutants of the variaties Co 527 
+and Co 663, have been obtained by Haq et al. ( 1970) following gamma radiation. 
+Singh (1970) obtained a single mutant from irradiated setts which proved highly 
+resistant to C. falcatum. Induced mutants with resistance to red rot have been 
+obtained by Shah ( 1972) after radiation and chemical mutagenic treatment in 
+the varieties Co 997, Co 449, Co 527 and Co 312. Nair ( 1973 ) was able to 
+isolate Co 997-24-1, red rot resistant mutant which is similar to Co 997 for 
+cane yield and sucrose content of the juice. Bari ( 1974) exposed buds of high 
+yielding sugarcane varieties BL 4, BL 19, CoL 54 and L 116 to 2, 3 and 
+4 K.H. of gamma rays in an attempt to obtain plants resistant to red r·ot and 
+mosaic. Haq !!_ ~· (1974) obtained nine mutants of Co 63:l and six of Co 527 
+which showed different degrees of J>csistant to C. falcatum. The mutant 
+-14-
+Co 527-85 was resistant in both field and laboratory. Haw et al. (1974) 
+irradiated single-bud sets with 3 and 4 kR of gamma rays and tested for 
+resistance to G. tucumanensis in the M2 generation. A considerable increase 
+in resistance was observed. Similarly, Jagathesan ~ ~ (1974) irradiated 
+single bud setts of varieties Co 419, CO 312, Co 527 and Co 602 with 3, 5, 6 
+and 8 kH of gamma rays and 5, 7.5 and 10 I<R of X-rays. The variety Co 527 
+gave highest frequency of moderately resistant mutant in the M2 generation 
+followed by Co 312. Again, Jagathesan ( 1977) obtained mutations in a number 
+of varieties in the Co series following mutagenic treatment of single bud setts 
+particularly for dwarfness, flowerlessness, high sugar content glabrous leaves, 
+increased growth rate and yield, and resistance to C. tucumanensis. Lo (1977) 
+observed that F 153, F 158, Co 376 and S. spontaneum, EONS 32 were the 
+most resistant clones to radiation demage. 
+llaterials ••~l 
+m't!IJdls 
+CHAPTER-III 
+MATERIALS AND METHODS 
+Multiplication and preparaion of inoculum : 
+Pathogenic isolate -RRK of C. falca\Jm (isolated from a cross at 
+Regional Research Station, Uchani, J{arnal, during 1986) was used for the 
+present studies. The isolate was maintained on oat-meal agar slants at 4±1°C 
+and renewed Etfter every month. 
+The isolate was multiplied on oat meal agar medium in Roux bottles 
+at 25±1°C. For inoculation, freshly sporulating 8-10 days old culture was taken. 
+The spore mass wes washed with sterile water and homogenised in warring 
+blender for 2-3 minutes and spore suspension ( 2 x 104 conidia/ml ) was 
+prepared. 
+Method of inoculation 
+Following three methods of inoculation were used during the course 
+of study : 
+(i) Nodal mehod : 
+For nodal inoculation, 1 ml of spore suspension was taken and released 
+in the space between leaf sheath and stalk at 3rd or 4th node from ground 
+level with the help of a syringe. The inoculated canes were tagged. 
+(ii) Plug method : 
+In this method, second or third inter node of standing canes were 
+inoculated using 0.2 ml spore suspension with the help of modified hypodermic 
+syringe ( Virk. 1985). Periodic observations on red rot development were recorded. 
+- 16-
+(iii) Soil inoculation method 
+Red rot infected canes were collected, chopped in small pieces 
+and mixed in fUI-rows at the rate of 15 diseased canes per plot ( 7 x 2.25 m) 
+just before planting in fungicidal experiment, whereas in soil amendmeent 
+experiment, finely chopped 30 diseased canes were mixed in whole plot 
+( 7 x 2.25 m ) one month be~re planting. 
+Recording of the disease : 
+( 1) Nodal and soil inoculation methods : 
+lnoculated canes were observed for visual red rot symptoms. These 
+include()rind discolouration, sporulation over rind, yellowing and drying of 
+'canes. The per cent diseased plants were calculated. 
+(2} Plug method : 
+The canes were split open longitudinally at different periodic 
+intervals and the following two methods were used for recording the disease: 
+(i) Lesion length method : Upward linear spread of red rot was measured 
+from the point of inoculation and ave1·age linear spread was calculated 
+(Chona, 1954 ). 
+(ii) Disease rating (Symptomatic mE:thod ) : Disease rating was done on 
+0 - 9 scale. For calculating the disease rating, various criteria used by 
+Srinivasan and Bhat (1961) with slight modifications were taken into consideration. 
+For each criterian ,numerical ratings were given and disease rating was 
+calculated by adding all the numerical values of observed canes and finally 
+average disease index was worked out. The following criteria were used. 
+a) Nodal transgression 
+0 = Lesion restricted within the inoculated internode. 
+= I .esion crossed one internode 
+2 = Lesion crossed two-three internodes. 
+3 = Lesion CJ'ossed more than three internodes. 
+-17-
+b) Width of the lesion 
+Width of the lesion was recorded in internode above the inoculated 
+one. 
+1 = Lesion restricted in width i.e. covering 1/3rd or less width of the 
+cane. 
+2 = Lesion spreading type i.e. covering 1/3rd to 2/3rd width of the 
+cane. 
+3 = Lesion covering more than 2/3rd or entire width of the cane. 
+c) Occurrence of white spots 
+0 = White spot absent. 
+1 = White spots restricted 
+2 = White spots fully developed. 
+d) Top drying : 
+0 = Top green 
+1 = Top yellow/dry. 
+Epidemiological Experiments : 
+(i) Role of environmertH factors on red rot : 
+The experiment was conducted at sugarcane research area, Department 
+of Plant Breeding, C.C.S.Haryana Agriculural University, Hisar and C.C.S. 
+H.A. U. Regional Research Station, Uchani ( Karnal ) during the years 1989-90 
+and 1990-91. Three varieties namely Co 7717, CoL 29 and CoJ 64 were 
+planted during both the years during second fortnight of March in blocks 
+of 7 x 2.25 m with three replications. 
+Standing canes were inoculated by nodal method at fifteen days 
+interval starting from the onset of monsoon. During the yeHr 1989-90 there 
+- 18-
+were three series of inoculations whereas during 1990-91, four series of 
+inoculations were carried out at both the locations. Observations of diseased 
+canes were recorded visually at 15 days interval after inoculation. The 
+per cent diseased plants were calculated periodically in varieties Co 7717, 
+CoL 29 and CoJ 64 symbolized as Y 1, Y 2 and Y 3, respectively. 
+The data on maximum temperature, minimum temperature, relative 
+humidity .morning, relative humidity evening and rainfall prevailed during the 
+period of study were obtained from Department of Agro-meteorology, CCS 
+HA U, Hisar and Central Soil Salinity Research Institute, Karnal. 
+The fifteen days mean of maximum temperature, minimum temperature, 
+relative humidity morning, relative humidity evening and rainfall was calculated 
+and symbolised as x1, x2, x3, x4 and X5, respectively (Appendix 5 ). The 
+data were analysed statistically by taking Y 1, Y 2 and Y 3 as dependent 
+variable and X 1, x2, x3, x4 and x5 as independent variables using stepwise 
+multiple regression analysis ( SMRA ) ( Singh et al., 1990). 
+Progress of red rot was plot ted on the graph by taking time period 
+on X axis and Log e ( 1/1-x ) transformed value and per cent disease incidence 
+on Y axis ( Appendix 1.1 - 4.4 ). 
+(ii) Role of mid-rib isolats of C. falcatum in red rot development 
+Mid-rib samples showing red rot symptoms were collected from 
+different varieties and localities of Haryana during the month of July, 1990. 
+These were cut into small bits, surface sterilized with 0.1 per cent mercuric 
+chloride and placed on oat-meal agar slants at 25 ± 1°C. After the 
+identification, single spore isolates we!'e made to purify the cultures and 
+these were maintained as per method described earlier. The mid-rib isolates 
+- 19-
+collected from different varieties and localities are given be below 
+Mid-rib isolate No. Variety Locality 
+MR 1 CoJ 64 Yamunanagar 
+MR 2 CoJ 64 I<arnal 
+MR3 Co 7314 Yamunanagar 
+MR4 Co 7314 I<arnal 
+MR5 CoH 89 Karnal 
+MR 6 
+Co 1158 Yamunagar 
+MR7 CoH 88 Karnal 
+MR8 CoH 3 Karnal 
+MR9 Co 7717 l{aJ·nal 
+MR10 Co 7717 Hisar 
+Pathogenic behaviour of mid-rib isolates was studied by plug method 
+of inoculation on varieties Co 7717, CoJ 64, CoL 29 dlll'ing third week of 
+September, 1990 and observations were recorded after two months of inoculation. 
+Red-rot Management : 
+(i) Effect of nitrogen on red rot development : 
+Effect of different doses of nitrogen on the development of red rot 
+was studied. Five levels of nitrogen in the form of urea, i.e. 0, 75, 150, 225 
+and 300 kg N/ha were applied in two split doses. Three varieties namely 
+CoJ 64, Co 7717 and CoS 767 were planted at experimental area of sugarcane, 
+Department of Plant Breeding, C.C.S. H.A. U., Hisar and C.C.S.I-I.A. U. Regional 
+Research Station, Uchani ( I<arnal ) during the year 1990-91. The plot size 
+-20-
+under this experiment was 8 x 3 m with three t•eplications. Canes were 
+inoculated by plug method during third week of August, 1990. Observations 
+on disease rating were recorded one month after inoculation by split opening 
+the 30 canes in each replication of every treatment. 
+(ii) Effect of soil amendments on red-rot development: 
+The study was conducted to determine the effect of various amendments 
+on the soil inoculum of C. falcatum under field conditions and their role in 
+disease development. 
+The experiment was conducted in randomized block design with a 
+plot size of 7 x 2.25 m with three replication at Sugarcane Hesearch area 
+of Department of Plant Breeding, C.C.S.H.A. U., Hisar during 1990-91. Red 
+rot infected canes were collected chopped in small pieces and mixed in the 
+soil at 10 em depth at the rate of 30 diseased canes per plot. 
+Later, these plots were amended with different soil amendments, 
+namely sugarcane baggase @ 30 and 40 q/ha and press mud @ 40 and 50 q/ha 
+in the top 15 em soil. After 20 days of amendment, planting was done. 
+Inorganic salts, viz., zinc sulphate and ferrous sulphate were mixed at the 
+time of planting in furrows @ 15 and 25 kg/ha each. Healthy three budded 
+setts of susceptible variety CoL 29 were planted. Disease incidence on clump 
+and cane basis in per cent were r·ecorded. Data were analysed after subjected 
+to angular transformation. 
+(iii) Efficacy of Davistin in contr·olling r·ed rot : 
+The role of Bavistin, a systematic fungicide m controlling the disease 
+was investigAted. The experiment was conducted in randomized block design, 
+with a plot size of 7 x 2.25 rn with three replications at Sugarcane Research 
+-21-
+area of Department of Plant Breeding, C.C.S.H.A.U., Hisar during 1990-91. 
+Red rot infected canes were collected, chopped in small pieces and mixed 
+in furrows at the rate of 15 diseased canes per plot before planting. Three 
+budded healthy setts of a highly susceptible cultivar CoL 29 were treated 
+with Bavistin @ .25% for one and two hours alone and in combination with 
+one spray and two sprays of Bavistin @ 0.1 %. The first and second foliar 
+sprays with Bavistin was done on August 15 and November 4, 1990, respectively. 
+Disease incidence { per cent ) on clump and cane basis were recorded and 
+analysed after subjected to angular transformation. 
+Identification of red rot resistant mutant : 
+The experimental material for this study consisted of sugarcane 
+varieties Co 8334 and Coli 56. Single budded setts of these varieties were 
+subjected to mutagenic treatment during the month of February, 1989. 
+Dormant single budded setts were given gamma radiation exposures 
+of 4.0 kilo roentgen ( kR ) from co60 source at gamma chamber of 
+Department of Genetics, C.C.S.H.A. U., Hisar. While considering the amount 
+of dose to be used, previous reported work on sugarcane ( Vijaylaxmi and 
+Rao, 1960; Rao ~ ~, 1966; Hans, 1973 ) was kept in mind. 
+lrrndiated single budded setts nlongwith controls were plonted in 
+raised nurser·y buds. Survival count was rec9rded after 45 days. Subsequently 
+these plants were transplanted in the field at a distnnce of 1 x 0.30 m. 
+All the canes in different clones were inoculated in first week of September, 
+1989 by nodnl method of inoculation. Visual obser·vat ion on r·ed rot was 
+recorded. :\ppar·antly healthy looking clones were selected from both the 
+varieties anrl were planted in single rows during the next season alongwith 
+controls. llnlf of the millable canes in each clone were again inoculated by 
+- 22-
+nodal method with the onset of monsson and observed for red rot 
+reaction. 
+Statistical Analysis : 
+Data collected during the present study were statistically analysed 
+by applying randomized block design except epidemiological experiment. To 
+develop the predictive models for red rot development disease incidence 
+was regressed with weather parameters by applying step-wise multiple 
+regression analysis { Singh ~ al., 1990). 
+
+CHAPTER-IV 
+RESULTS AND DISCUSSION 
+Epidemiology of red rot of sugarcane 
+Role of envit·onmental factors on red rot development : 
+Attempts were made to develop predictive models fot· the red rot 
+of sugarcane by conducting the experiments at Hiser and Karnal during the 
+years 1989-90 and 1990-91. Standing canes of varieties Co 7717, CoL 29 
+and CoJ 64 were inoculated by nodal method at 15 days interval starting 
+from the onset of monsoon. There were three and four series of inoculations 
+at both the locations during 1989-90 and 1990-91. \\leather· data (Appendix 5) 
+were regressed with disease incidence ( Appendix 1.1 -4.4 ) applying stepwise 
+multiple regr·ession analysis ( SMRA ) and best fitting equations were 
+generated following SMRA technique ( Singh ~ al., 1990 ). 
+Table 1 : The best fitting linear models for predicting incidence of red rot 
+Sr.No. Regression equation 
+y = 118. 12 4.52X 2 0.87 1 
+2 y2 = 231.03 8.58X 2 0.86 
+3 y 3 = 50.43 1.84X 2 0.82 
+-- ~--~--~··--------~--
+Location - Hisar, Date of inocuiHtion- 15.7.1989 
+ANOVA - Table 1 for regression of Y 1 on x2 
+Source 
+Regression 
+Residual 
+Total 
+D. F. 
+1 
+19 
+20 
+ss 
+7803.98 
+1127.47 
+8931.45 
+MS 
+7803.98 
+59.34 
+A NOVA - Table 1 for regression of Y 2 on x2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+1 
+19 
+20 
+ss 
+28117.68 
+4550.36 
+32668.04 
+IVIS 
+28117.68 
+239.49 
+A NOVA - Table 1 for regression of Y 3 on x2 
+Source 
+Regression 
+Residual 
+Total 
+OF 
+1 
+19 
+20 
+ss 
+1287.90 
+274.73 
+1562.63 
+MS 
+1287.90 
+14.46 
+-24-
+F value 
+131.51 
+F value 
+117.41 
+F value 
+89.07 
+------------------------------------------------
+Prob. 
+5.552E-10 
+1.424E-09 
+Prol;. 
+1.326E-08 
+-25-
+Under Hisar conditions during 1989-90, when the canes were inoculated 
+on July 15. 1989, the best fitting models developed were eq. 1, 2 and 3 for 
+Y 1, Y 2 and Y 3, respectively. The minimum temperature was the most 
+important parameter which was negatively correlated during the succeeding 
+fortnight. The R 2 values of 0.87, 0.86 and 0.82 was indicating a very good 
+fit yet 13, 14 and 18 per cent of the variability of red rot incidence in 
+Y 1, Y 2 and Y 3, respectively remained uncounted ( Table 1 and 2 ). 
+Table 2 Correlation of red rot with weather parameters 
+x, 1.00 
+x2 0.58 1.00 
+x3 0.63 0.19 1.00 
+x4 -0.09 0.74 0. 77 1.00 
+x5 -0.46 0.32 0.93 0.82 1.00 
+y1 -0.40 -0.94 -0.26 -0.78 -0.32 1.00 
+y2 -0.36 -0.93 -0.26 -0.77 -0.34 0.96 1.00 
+y3 -0.42 -0.91 -0.22 -0.71 -0.35 0.85 0.94 1.00 
+Criti<'al value I 2 Tail, .05) = ± 0.43 
+Location - Hisar, Date of inoculation- 15.7.1989. 
+-26-
+Table 3 : The best fitting linear models for predicting incidence of red 
+rot. 
+Sr.No. Regression equation H2 
+4 y 1 = 54.86 - 2.09X 2 0.63 
+5 y = 68.35 - 2.63X 2 0.80 2 
+6 y = 32.24 - 1.25X 2 0.81 3 
+Location - Hisar, Date of inoculation - 31.7.1989 
+A NOVA-Table 3 for regression of Y 1 on x2 
+Source DF ss MS F value Prob 
+Regression 1 1365.85 1365.85 26.94 8.934E-05 
+Residual 16 811.21 50.70 
+Total 17 2177.05 
+ANOVA-Table 3 for· r·egression of Y 2 on x2 
+Source DF ss MS F value Prob. 
+Regression 1 2158.33 2158.33 63.45 5.864E-07 
+Residual 16 544.25 34.02 
+Total 17 2702.58 
+-27-
+ANOV A -Table 3 for regression of Y 3 on x2 
+Source OF ss MS F value Prob. 
+Regression 490.44 490.44 68.47 3.:>69E-07 
+Residual 16 114.60 7.16 
+Total 17 605.04 
+Under Hisar conditions during 1989-90 when the canes wer·e inoculated 
+on July 31, 1989, the best fitting models developed were eq. 4, 5 and 6 for· 
+Y 1, Y 2 and Y 3, r·espectively. The minimum temperature was the most 
+important par·ameter which was negatively corr·clated during the succeeding 
+fortnight. The R2 value of 0.63, 0.80 and 0.81 was indicating a good fit 
+yet 37, 20 and 19 per cent of the variability of red rot incidence in Y 1, 
+Y 2 and Y 3, respectively remained uncounted ( Table 3 and 4 }. 
+Table 4 : Correlation of red rot with weather parameters 
+X 4 y 3 
+x1 1.00 
+x2 0.49 1.00 
+x3 -0.63 0.28 1.00 
+x4 -0.11 0.80 0.78 1.00 
+xs -0.44 0.43 0.93 0.8:3 1.00 
+yl -0.22 -0.79 -0.28 -0.72 -0.41 1.00 
+y 
+2 -0.24 -0.89 -0.35 -0.82 -0.46 0.73 1.00 
+YJ -0.24 -0.90 -0.37 -0.83 -0.47 0.87 0.92 1.00 
+Critical value 2-Tail, .05) = ± 0.47 , Location-Hisar, Date of inculation 31.7.89 
+-28-
+Table 5 The best fitting linear models for predicting incidence of red rot 
+Sr.No. Regression equation 
+7 y1 = 40.31 - 1.60X 2 
+8 y2 = 15.51 - 0.26X 4 
+9 y3 = 8.13 - 0.14X 4 
+Location - llisar, Date of inoculation - 15.8.1989 
+A NOVA-Table 5 for regression of Y 1 on x
+2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+1 
+13 
+14 
+ss 
+627.20 
+93.79 
+720.99 
+AN OVA- Table 5 for regression of Y 2 on x
+4 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+1 
+13 
+14 
+ss 
+23tUi6 
+47.10 
+277.77 
+MS 
+627.20 
+7.22 
+MS 
+230.66 
+3.62 
+0.87 
+0.83 
+0. 76 
+F value Pro b. 
+86.94 4.028E-07 
+F value Prob. 
+63.66 2.302E-06 
+------------------
+-29-
+A NOVA- Table 5 for· regression of Y 3 on Y 4 
+Source OF ss MS F value Pro b. 
+Regression 1 64.38 64.38 40.90 2.362E-05 
+Residual 13 20.47 1.57 
+Total 14 84.84 
+Under Hisar conditions during 1989-90, when the canes were inoculated 
+on August 15, 1989, the best fitting model developed was eq. 7 for Y 1' The 
+minimum temperature was the most important parameter which was negatively 
+correlated during the succeeding fortnight. The R 2 value of 0.87 was indicating 
+a good fit yet 13 per cent of the variability of red rot of sugarcane incidence 
+remained uncounted. The best fitting models developed were eq. 8 and 9 
+for Y 2 and Y 3, respectively, where the relative humidity evening was the 
+most important parameter, which was negatively cort·elated during the 
+succeeding fortnight. The R2 value of 0.83 and 0. 76 was indicating a good 
+fit yet 17 and 24 per cent of the var·iability of red rot incidence in Y 2 and 
+Y 3, respectively remained uncounted ( Table 5 and 6 ). 
+Table 6 : Correlation of red rot with weather parameters 
+x, 
+1.00 
+0.30 1.00 
+-0.54 0.56 1.00 
+X 4 X 5 yl 
+Contd ........... . 
+Table 6 Contd ........... . 
+x, 
+x4 -0.18 0.88 0.87 1.00 
+xs -0.41 0.61 0.94 0.86 1.00 
+y1 0.18 -0.93 0.50 -0.86 -0.60 
+y2 0.80 -0.86 -0.64 -0.91 -0.68 
+y3 0.12 -0.81 -0.59 -0.87 -0.64 
+Critical value ( 2-Tail; .05) = ± 0.51 
+Location - Ilisar, Date of inoculation - 15.8.1989 
+1.00 
+0.93 
+0.94 
+-30-
+y 2 
+1.00 
+0.95 1.00 
+Table 7 The best fitting linear models for predicting incidence of red rot 
+Sr.No. Regt·ession equation 
+10 yl = 286.42 10.27X 2 
+11 y2 = 249.05 8.94X 2 
+12 y3 = 57.65 - 2.10X 2 
+Location - J(arnal, Date of inoculation - 20.7.1989 
+A NOVA -Tnble 7 for !'egression of Y 1 on X 2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+16 
+ss 
+18638.48 
+6530.18 
+17 25168.66 
+MS 
+18638.48 
+408.14 
+0.74 
+0.86 
+0.76 
+F value Prob. 
+45.67 4.600E-06 
+A NOVA -Table 7 for regression of Y 2 on X2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+16 
+17 
+ss 
+14109.52 
+2313.66 
+16423.18 
+ANOVA-Table 7 for regression of Y 3 on x2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+1 
+16 
+17 
+ss 
+779.30 
+246.49 
+1025.79 
+MS 
+14109.52 
+144.60 
+MS 
+779.30 
+15.41 
+-31-
+F value Pro b. 
+97.57 3.258E-08 
+F value Pro b. 
+50.59 2.462E-06 
+Under Uchani O<arnal) conditions during 1989-90, when the canes were 
+inoculated on July 20, 1989, the best fitting models developed were eq. 10, 
+11 and 12 for Y 1, Y 2 and Y 3, respectively. The minimum temperature was 
+the most important parameter which was negatively correlated during the 
+succeeding fortnight. The R 2 value of 0. 7 4, 0.86 and 0. 76 was indicating a 
+good fit yet 26, 14 and 24 per cent of the variability of red rod incidence 
+in Y 1, Y 2 and Y 3, respectively remained uncounted ( Table 7 and 8 ). 
+Table 8 Correlation of red rot with weather parameters 
+x1 
+xl 1.00 
+x2 -0.37 1.00 
+x3 -0.64 0.69 1.00 
+x4 -0.73 0.90 0.86 1.00 
+xs -0.94 0.52 0.55 0. 78 1.00 
+y1 0.45 -0.86 -0.47 -0.79 -0.68 1.00 
+y2 0.18 -0.93 -0.44 -0.73 -0.43 0.92 
+y3 0.17 -0.87 -0.39 -0.68 -0.41 0.94 
+Critical value ( 2 Tail, .05) = ± 0.47 
+Location - Karnal, Date of inoculation - 20.7.1989 
+y 2 
+-32-
+1.00 
+0.95 1.00 
+Table 9 : The best fitting linear models for predicting incidence of red rot 
+Sr.No. Hegression equation 
+13 yl = 53.13 1.97X 2 0.90 
+14 y2 = 179.16 6.63X 2 0.97 
+15 y3 = 23.82 - 0.91 x2 0.86 
+Location - l<ar·nal, Date of inoculation - 5.8.1989 
+A NOVA -Table 9 for regression of Y 1 on x2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+13 
+14 
+ss 
+576.31 
+66.55 
+642.85 
+MS 
+576.31 
+5.12 
+ANOVA -Table 9 for regression of Y 2 on x2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+1 
+13 
+14 
+ss 
+6531.20 
+204.07 
+6735.27 
+MS 
+6531.20 
+15.70 
+A NOVA -Table 9 for regression of Y 3 on x2 
+Source 
+Regression 
+Residual 
+Total 
+OF 
+1 
+13 
+14 
+ss 
+122.20 
+20.45 
+142.66 
+MS 
+122.20 
+1.57 
+-33-
+F value Prob. 
+112.58 9.0 11E-08 
+F value Prob. 
+416.05 2.960E-11 
+F value Pro b. 
+77.67 7 .632E-07 
+-34-
+Under Uchani ( Karnal } conditions during 1989-90 when the canes 
+were inoculated on August 5, 1989, the best fitting models developed were 
+eq. 13, 14 And 15 for Y 1, Y 2 and Y 3, respectively. The minimum temperature 
+was the most important parameter which was negatively correlected during 
+2 the succeeding fortnight. The R value of 0.90, 0.97 and 0.86 was indicating 
+a very good fit yet 10, 3 and 14 per cent of the variability of red rot 
+incidence in Y 1, Y 2 and Y 3, respectively remained uncounted ( Table 9 and 
+10 }. 
+Table 10 Correlation of red rot with weather parameters 
+x1 
+x, 1.00 
+x2 -0.41 1.00 
+x3 -0.66 0.87 
+x4 -0.74 0.91 
+xs -0.99 0.45 
+y1 0.39 -0.95 
+y2 0.42 -0.98 
+y3 0.49 -0.93 
+1.00 
+0.94 
+0.65 
+-0.83 
+-0.90 
+-0.79 
+X 4 
+1.00 
+0.77 
+-0.87 
+-0.91 
+-0.89 
+1.00 
+-0.46 1.00 
+-0.47 0.96 
+-0.56 0.88 
+Critical value ( 2 Tail; .05) = ± .51 
+Location -- 1\arnal, Date of inoeulation -- 5.8. 1989. 
+1.00 
+0.93 1.00 
+-35-
+Table 11 The best fitting linear models for predicting incidence of t•ed rot 
+Sr.No. Regression equation 
+16 y1 = 28.55 - 0.32X 4 0.97 
+17 y2 = 24.56 - 0.25X 4 0.91 
+18 y3 = 9,94 - 0.12X 4 0.87 
+Location -- Hisar, Date of inoculation -- 20.8.1989 
+ANOVA-Table 11 for regression of Y1 on x4 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+10 
+11 
+ss 
+302.43 
+9.21 
+311.63 
+MS 
+302.43 
+0.92 
+ANOVA-Table 11 for regression of Y 2 on X4 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+10 
+11 
+ss 
+194.86 
+20.07 
+214.93 
+MS 
+194.86 
+2.01 
+F value 
+328.55 
+F value 
+97.07 
+Pro b. 
+5.603£-09 
+R2 value 
+1.821E-06 
+-36-
+ANOVA-Table 11 for regression of Y3 on x4 
+Source DF ss MS F value 2 R value 
+Regression 1 46.20 46.20 69.62 8. 132E-06 
+Residual 10 6.64 0.66 
+Total 11 52.84 
+Unde1· Uchani ( Karnal ) conditions during 1989-90, when the 
+canes were inoculated on August 20, 1989, the best fitting models developed 
+were eq. 16, 17 and 18 for Y 1, Y 2 and Y 3, respectively. The relative 
+humidity evening was the most important parameter which was negatively 
+correlated during the succeeding fortnight. The R2 value of 0.97, 0.91 
+and 0.87 wns indicating a very good fit yet 3, 9 and 13 per cent of the 
+variability of red rot incidence in Y 1, Y 2 and Y 3, respectively remained 
+uncounted ( Table 11 and 12 ). 
+Table 12 : Correlation of red rot with weather parameters 
+x, x2 x3 x4 xs y1 y 
+2 y3 
+x, 1.00 
+X 2 -0.59 1.00 
+x3 -0.75 0.89 1.00 
+x4 -0.85 0.93 0.94 1.00 
+x5 -0.10 0.54 0.70 0.83 1.00 
+y1 0.77 -.096 -0.91 -0.99 -0.75 1.00 
+Contd ........... 
+X 1 
+0. 73 
+0. 72 
+-0.94 
+-0.93 
+-0.93 -0.95 
+-0.84 -0.94 
+Critical value ( 2 Tail, .05} = ± 0.57 
+Location --- l<arnal, Date of inoculation 
+-0.70 
+-0.71 
+20.8. 1989. 
+0.94 
+0.95 
+-37-
+y 
+2 
+1.00 
+0.91 1.00 
+Table 13 The best fitting linear models for predicting incidence of red rot 
+Sr.No. 
+19 
+20 
+Regression equation 
+= 67.77- 0.74X 4 
+= 36.86 - 1.31X 2 
+Location -- Hisar, Date of inoculation -- 3.7.1990. 
+A NOVA- Table 13 for regression of Y on X 1 4 
+Source DF ss MS F value 
+Regression 2297.26 2297.26 20.68 
+Residual 22 2443.46 111.07 
+Total 23 4740.72 
+049 
+0.76 
+Prob. 
+3.205E-04 
+-38-
+ANOVA-Table 13 for regression of Y2 on x2 
+Source DF ss MS F value Pro b. 
+Regression 772.62 772.62 70.69 1. 133E-07 
+Residual 22 240.55 10.93 
+Total 23 1013.17 
+Under Hisar conditions during 1990-91 when the canes were inoculated 
+on July 3, 1990, the best fitting models developed were eq. 19 and 20 for 
+Y 1 and Y 2, respectively. The relative humidity evening was the most 
+important parameter for Y 1 which was negatively correlated during the 
+succeeding fortnight. The R 2 value of 0.49 was indicating a good fit 
+yet 51 per cent of the variability of red rot incidence in Y 1 r·emained 
+uncounted wher·eas, minimum temperature showed negative correlation with 
+Y 2• The R 2 value of 0. 76 was indicating a very good fit yet 24 per cent 
+of the variability of red rot incidence in Y 2 remained uncounted ( Table 13 
+and 14 ). 
+Table 14 : Correlation of red rot with weather parameters 
+x, x2 x3 X 4 X 5 y1 y 
+2 
+x, 1. 00 
+X 2 0.89 1.00 
+x3 O.Gti 0.76 1.00 
+x4 0.77 0.96 0. 78 1. (}() 
+l~ontd .............. 
+-39-
+xs 0.14 0.46 0.42 0.63 1.00 
+y1 -0.56 -0.68 -0.54 -0.70 -0.32 1.00 
+y2 -0.79 -0.87 -0.75 -0.85 -0.36 0.82 1.00 
+Critical value { 2 Tail, .05) ::: ± 0.42 
+Location -- Hisar, Date of inoculation -- 3.7.1990 
+Table 15 The best fitting linear models for predicting incidence of red rot. 
+Sr.No. 
+21 
+22 
+Regression equation 
+::: 37.65 - 1.28X 2 
+::: 31.74 - 1.23X 4 
+Location - Hisar, Date of inoculation -- 19.7. 9 0 
+ANOVA - Table 15 for regression of Y 1 on x2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+1 
+19 
+20 
+ss 
+711.18 
+273.12 
+984.30 
+MS 
+711.18 
+14.37 
+0. 72 
+0.96 
+F value 
+49.48 
+Prob. 
+1.072E-06 
+ANOVA - Table 15 for regression of Y 2 on x2 
+Source 
+Regression 
+Residual 
+Total 
+OF 
+19 
+20 
+ss 
+654.62 
+26.80 
+681.42 
+MS 
+654.62 
+1.41 
+F value 
+464.17 
+Table 16 Correlation of red r·ot with weather parameters 
+x, 1.00 
+x2 0.91 1.00 
+x3 0.66 0.79 1.00 
+x4 0.77 0.96 0.79 1.00 
+xs 0.14 0.45 0.43 0.62 
+yl -0.81 -0.85 -0.70 -0.84 
+y2 -0.90 -0.98 -0.81 -0.94 
+Critical value ( 2 Tail, .05 ) = ± 0.43 
+Location -- Hisar, Date of inoculation 19.7.1990 
+X 5 
+1.00 
+-0.32 
+-0.42 
+-40-
+Pro b. 
+.OOOE -0.00 
+1.00 
+0.87 1.00 
+-41-
+Under H isar conditions during 1990-91 when the canes were inoculated 
+on July 19, 1990; the best fitting models developed were eq. 21 and 22 for 
+Y 1 and Y 2, respectively. The minimum temperature was the most important 
+parameter which was negatively correlated during the succeeding fortnight. 
+The R2 value of 0.72 and 0.96 was indicating a very good fit yet 18 and 4 per 
+cent of the variability of red rot incidence in y 1 and Y 2, respectively 
+remained uncounted ( Table 15 and 16 ). 
+Table 17 : The best fitting linear models for predicting i.ncidence of red rot 
+Sr.No. 
+23 
+Regression equation 
+'= 11.18 - 0.39X 2 
+Location -- Hisar, Date of inoculation - 2.8. 1990. 
+ANOVA - Table 17 for regression of Y on X 1 2 
+Source DF ss MS F value 
+Regression 58.20 58.20 18.13 
+Residual 16 51.36 3.21 
+Total 17 109.56 
+0.53 
+6.012E-04 
+Under II isar conditions during 1990-91 when the canes were inoculated 
+on August 2, 1990, the best fitting linear model developed was eq. 23 for Y 1' 
+-42-
+The minimum temperature was the most important parameter which was 
+negatively correlated during the succeeding fortnight. The R 2 value of 0.53 
+indicating a good fit yet 47 per cent of variability of red rot incidence 
+remained uncounted ( Table 17 and 18 ). 
+Table 18 : Correlation of red rot with weather parameters 
+x, 1.00 
+xz 0.90 1.00 
+x3 0.65 0.79 1.00 
+x4 0.74 0.96 0.81 1.00 
+xs 0.09 0.41 0.42 0.61 1.00 
+y1 -0.68 -0.73 -0.63 -0.69 -0.24 1.00 
+y2 -0.40 -0.47 -0.38 -0.46 -0.30 0.04 1.00 
+Critical value ( 2 Tail, .05) = ± 0.4 7 
+Location - Hisar, Date of inoculation - 3.8.1990 
+Table 19 The best fitting linear models for predicting incidence of red rot 
+Sr.No. 
+24 
+25 
+y 
+1 
+y 
+2 
+:::: 
+Regression equation 
+4.57 - 0. 18X 2 
+1.74 - 0.03X 4 
+Location - llisar. Date of inoculation - 17.8.1990. 
+0.35 
+0.68 
+-43-
+ANOVA- Table 19 for regression of Y 1 on X2 
+Source OF ss MS F value Pro b. 
+Regression 1 10.52 10.52 6.85 0.0213 
+Residual 13 19.96 1.54 
+Total 14 30.47 
+A NOVA - Table 19 for regression of Y 2 on X4 
+Source DF ss MS F value Prob. 
+Regression 1 2.44 2.44 11.27 5. 149E-03 
+Residual 13 2.82 0.22 
+Total 14 5.26 
+Under Hisar conditions during 1990-91 when the canes were inoculated 
+on August 17, 1990, the best fitting models developed were eq. 24 for Y 1 and 
+Y 2, respectively. The minimum temperature for Y 1 and relative humidity 
+evening for Y 2 were the most important parameter which were negatively 
+correlated during the succeeding fortnight. The R 2 value of 0.35 and 0.68 
+was indicating a good fit yet 65 and 32 pet· cent of the variability of red rot 
+incidence in Y 1 and Y 2, respectively remained uncounted ( Table 19 and 20 ). 
+-44-
+Table 20 Correlation of red rot with weather parameters 
+x, 
+x1 1.00 
+x2 0.91 1.00 
+x3 0. 7 2 0.77 1.00 
+x4 0. 74 0.95 0. 77 1.00 
+x5 0.06 0.41 0.45 0.63 1.00 
+y1 -0.57 . -0.59 -0.51 -0.54 -0.20 1.00 
+y2 -0.56 -0.68 -0.46 -0.68 -0.31 0.01 1.00 
+Critical value ( 2 Tail, .05) = ± 0.51 
+Location - llisar, Date of inoculation -- 17.8.1990 
+Table 21 The best fitting linear models for predicting incidence of red rot. 
+Sr.No. Regression equation 
+26 y = 157.84 1.29X 4 0.56 1 
+27 y 
+2 = 129.68 4.27X 2 0.76 
+28 y 3 = 21.70 - 0.77X 2 0.56 
+Location -- l<arnal, Date of inoculation -- 5. 7.1990 
+ANOVA - Table 21 for regression of Y 1 on x4 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+1 
+28 
+29 
+ss 
+13793.18 
+30641.54 
+44434.71 
+MS 
+13793.18 
+1094.34 
+ANOVA - Table 21 for regression of Y 2 on x2 
+Source 
+Regression 
+Residual 
+Total 
+OF 
+1 
+28 
+29 
+ss 
+19872.53 
+6360.53 
+26233.05 
+MS 
+19872.53 
+227.16 
+A NOVA- Table 21 for regression of Y 3 on x2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+1 
+28 
+29 
+ss 
+638.75 
+499.56 
+1138.31 
+MS 
+638.75 
+17.84 
+-45-
+F value Pro b. 
+12.60 1.383E-03 
+F value Prob. 
+87.48 4. 123E-10 
+F value Pro b. 
+35.80 1.914.E-06 
+-46-
+Under Uchani ( Karnal ) conditions during 1990-91, when the canes 
+were inoculated on July 5, 1990; the best fitting modelsdeveloped were eq. 
+26, 27 and 28 for Y 1, Y 2 and Y 3, respectively. The relative humidity evening 
+for Y 1 and minimum temperature for Y 2 and Y 3 were the most important 
+parameters which were negatively correlated during the succeeding fortnight. 
+The R2 value of 0.56, 0. 76 and 0.56 was indicating a good fit yet 34, 24 
+and 34 per cent of the variability of red rot incidence in Y 1, Y 2 and Y 3, 
+respectively remained uncounted ( Table 21 and 22 ). 
+Table 22 : Correlation of red rot with weather parameters 
+x, 
+x1 1.00 
+x2 0.89 1.00 
+x3 0.34 0.52 1.00 
+x4 0.56 0.87 0.60 1.00 
+xs 0.48 0.63 0.70 0.65 1.00 
+y1 -0.43 -0.54 -0.15 -0.56 -0.49 1.00 
+y2 -0.73 -0.87 -0.38 -0.83 0. 61 0.84 1.00 
+y3 -0.60 -0.75 -0.43 -0.74 -0.58 0.59 0. 79 1.00 
+Critical value ( 2 Tail, .05) = ± 0.36 
+Location -- l'arnal, Date of inoculation -- 5.7.1990. 
+-47-
+Table 23: The best fitting linear models for predicting incidence of red rot 
+Sr.No. Regression equation 
+29 y 1 = 189.67 - 2.04X 4 0.68 
+30 Y2 = 47.90 - 1.59X 2 0.65 
+31 y3 = 8.90 - 0.30X 2 0.52 
+Location - Karnal, Date of inoculation -- 21.7.1990 
+ANOVA - Table 23 for regression of Y 1 on x4 
+Source DF 
+Regression 1 
+Residual 
+Total 
+25 
+26 
+ss 
+31185.41 
+14561.88 
+45747.29 
+MS 
+31185.41 
+582.48 
+A NOVA- Table 23 for regression of Y 2 on X2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+25 
+26 
+ss 
+2505.32 
+1326.59 
+3831.91 
+MS 
+2505.32 
+53.06 
+F value 
+53.54 
+F value 
+47.21 
+-----~~ ---~ -----·--------~-~-
+Pro b. 
+1. 149E-07 
+Prob. 
+3.344E-07 
+-48-
+ANOVA- Table 23 for regression of Y3 on x2 
+Source DF ss MS F value Prob. 
+Regression 1 88.89 88.89 27.11 2. 183E-05 
+Residual 25 81.96 3.28 
+Total 26 170.85 
+Under Uchani ( l{arnal) conditions during 1990-91 when the 
+canes were inoculated on July 21, 1990, the best fitting models developed 
+were eq. 29, 30 and 31 for Y 1, Y 2 and Y 3, respectively. The r·elative 
+humidity evening for Y 1 and minimum temperature for Y 2 and Y 3 were the 
+most important parameters which were negatively correlated during the 
+2 succeeding fortnight. The R value of 0.68, 0.65 and 0.52 was indicating 
+a good fit yet 32, 35 and 48 per cent of the variability of red rot of 
+sugarcane incidence in Y 1, Y 2 and Y 3, respectively remained uncounted (Table 
+23 and 24 ). 
+Table 24 : Correlation of red rot with weather parameters 
+X 1 
+x1 1.00 
+x2 0.88 1.00 
+x3 0.43 0.66 1.00 
+x4 0.52 0.86 0. 7 4 1.00 
+x1 
+xs 0.50 0.67 0. 72 
+y1 -0.61 -0.80 -0.65 
+y2 -0.67 -0.81 -0.54 
+y3 -0.59 -0.72 -0.50 
+Critical value ( 2 Tail, .05) = ± 0.38 
+X 4 
+0.69 
+-0.83 
+-0.75 
+-0.70 
+1.00 
+-0.78 
+-0.62 
+-0.59 
+Location -- I<arnal, Date of inoculation - 21.7. 1990. 
+-49-
+1.00 
+0.80 1.00 
+0.85 0. 78 1.00 
+Table 25 : The best fitting linear models for predicting incidence of red rot 
+Sr.No. Regression equation 
+32 y1 :: 144.70 - 5.35X 2 
+33 y2 ::; 26.30 - 0.93X 2 
+34 y3 :: 5. 72 - 0.21X 2 
+Location -- 1\arnal, Date of inoculation - 6.8.1990 
+ANOVA - Table 2.5 for regression of Y 1 on X
+2 
+Source 
+Regression 
+Hesidual 
+Total 
+DF 
+22 
+23 
+ss 
+25077.06 
+2782.93 
+27859.98 
+MS 
+25077.06 
+126.50 
+0.90 
+0.69 
+0.57 
+F value Pro b. 
+198.24 1. 720E-12 
+A NOVA - Table 25 for regression of Y 2 on x2 
+Source 
+Regression 
+Residual 
+Total 
+OF 
+1 
+22 
+23 
+ss 
+761.97 
+344.57 
+1106.54 
+MS 
+761.97 
+15.66 
+ANOVA - Table 25 for regression for Y 3 on x2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+22 
+23 
+ss 
+39.56 
+29.41 
+68.97 
+MS 
+39.56 
+1.34 
+-50-
+F value Prob. 
+48.65 5.314E-07 
+F value Pro b. 
+29.59 1.829E-05 
+Under Uchani (Karnal) conditions during 1990-91 when the canes were 
+inoculated on August 6t 1990, the best fitting models developed were eq. 32, 
+33 and 34 for Y 1, Y 2 and Y 3, respectively. The minimum temperature was 
+the most important parameters which was negatively correlated during the 
+succeeding fo1·tnight. The R2 value of 0.90, 0.69 and 0.57 was indicating a 
+good fit yet 13, 14 and 18 per cent of the variability of red rot incidence in 
+Y 
+1
+, Y 
+2 
+and Y 
+3
+, respectively remained uncounted ( Table 25 and 26 ). 
+Table 26 Correlation of red rot with weather parameters 
+y 
+1 
+x1 1.00 
+x2 0.87 1.00 
+x3 0.35 0.60 1.00 
+x4 0.47 0.84 o. 71 1.00 
+xs 0.41 0.67 0.68 0. 7 4 1.00 
+y1 -0.76 -0.95 -0.64 -0.87 -0.65 1.00 
+y2 -0.68 -0.83 -0.45 -0.74 -0.53 0. 72 
+y3 -0.58 -0.76 -0.49 -0.72 -0.65 0. 71 
+Critical value ( 2 Tail, .05) = ± 0.40 
+Location - 1\arnal, Date of inoculation - 6.8.1990. 
+Table 27 Correlation of red rot with weather parameters 
+X 1 
+X 1 1.00 
+x2 0.87 1.00 
+x3 0.32 0.58 1.00 
+x4 0.43 0.81 0.72 1.00 
+xs 0.43 0.75 0.71 0.88 
+y1 -0.87 -0.98 -0.49 -0.77 
+y2 -0.82 -0.95 -0.50 -0.77 
+y3 -0.59 -0.66 -0.46 -0.52 
+Critical value ( 2 Tail, .05) = ± 0.43 
+Location - I<arnal, Date of inoculation 
+X 5 
+1.00 
+-0.70 
+-0.69 
+-0.56 
+1.00 
+0.96 
+O.ti4 
+- 21.8.1990. 
+-51-
+1.00 
+0.85 
+y 2 
+1.00 
+0.53 
+1.00 
+1.00 
+-52-
+Table 28 The best fitting linear models for predicting incidence of red rot. 
+35 
+36 
+37 
+Regression equation 
+= 148.01 - 5.82X 2 
+= 20.75 - 0.83X 2 
+= 2.94 - 0. 11X2 
+Location - l<arnal, Date of inoculation - 21.8.1990. 
+ANOVA - Table 28 for regression of Y 1 on x2 
+Source 
+Regression 
+Residual 
+Total 
+OF 
+19 
+20 
+ss 
+24984.96 
+986.14 
+25971.10 
+MS 
+24984.96 
+51.90 
+A NOVA - Table 28 for regression of Y 2 on x2 
+Source 
+Regression 
+Residual 
+Total 
+DF 
+19 
+20 
+ss 
+499.28 
+53.71 
+552.99 
+MS 
+499.28 
+2.83 
+F value 
+481.39 
+F value 
+176.63 
+0.96 
+0.90 
+0.44 
+Pro b. 
+0.00 
+Prob. 
+4.533E-11 
+-53-
+ANOVA - Table 28 for regression of Y 3 on X2 
+Source DF ss MS F value Pro b. 
+Regression 9.04 9.04 14.75 1. 102E-03 
+Residual 19 11.64 0.61 
+Total 20 20.68 
+Under Uchani ( Karnal ) conditions during 1990-91 when the canes were 
+inoculated on August 21, 1990, the best fitting models developed were eq. 35, 
+36 and 37 for Y 1, Y 2 and Y 3, respectively. The minimum temperature was 
+the most important parameter which was negatively correlated during the 
+succeeding fortnight. The R2 value of 0.96, 0.90 and 0.44 was indicating a 
+very good fit yet 4, 10 and 64 per cent of the variability of red rot incidence 
+in Y 1, Y 2 and Y 3, respectively remained uncounted ( Table 27 and 28 ). 
+Progress of red rot of sugarcane : 
+Under Hisar conditions during 1989-90, when the canes were inoculated 
+on July 15, resulted in apparantly stationary period upto the September 13, 1989 
+(Fig. 1 ). After that there was sudden increase in the expression of red rot 
+incidence and reached upto its maximum extent till October 13, 1989. Inoculations 
+on July 30 and August, 14, 1989 resulted in slow increase in red rot and 
+recorded to the negligible extent in all the three varieties viz., Co 7717, 
+CoL 29 and CoJ 64. 
+-11 
+Ql 
+en 
+0 
+-
+w u z w 0 
+u z 
+UJ 
+11'1 
+<( 
+UJ 
+t/1 
+-0 
+.8 Co 7717 
+.7 
+.6· 
+.5 
+,4 
+.3 
+. 2 •• 
+.1 
+15 31 15 29 13 28 13 28 
+Jl!L. AUG. S EP. OCT 
+DATE OF OBSERVATION 
+.5 CoJ 6tJ 
+.4 
+.3 
+/___. 
+~ --· / ,--
+/ ........... ~ .......... . . (:;:-........ . 
+l"'r· .Twt 
+.2 
+.1 
+15 31 15 29 13 28 13 28 
+JUL. AUG. SEP. OCT. 
+DATE Of OBSERVATION 
+8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+-54-
+CoL 29 
+o--• 
+15 31 15 29 13 28 13 28 
+JUL. AUG. SE P. OCT. 
+DATE OF OBSERVATION 
+Da1e of inoculation 
+15. 7. 19 89 
+3). 7. 1989 
+15. 8. 1989 
+Fig. 1. PROGRESS OF REO ROT OF SUGARCANE (HISAR 1989-90) 
+-55-
+Under Uchani ( I<arnal ) conditions 1989-90, when the canes were 
+inoculated on July 20, 1989 resulted in apparently stationary period till 
+August 19, 1989 ( Fig. 2 ). After that there was sudden increase in the 
+expression of red rot and reached upto the maximum till August 20, 1989 
+whereas when the canes were inoculated on August 4 and 19, 1989, the red 
+rot expression was very slow and recorded to the negligible extent in all the 
+varieties. 
+Under H isar condition during 1990-91, when the plants were inoculated 
+on July 3, 1990 ( Fig. 3 ) resulted in apparently stationary period till 
+August 2, 1990. After that there was sudden increase in the expression of 
+red rot incidence and reached to maximum extent till August 17, 1990 whereas 
+when the canes were inoculated on July 18, Augst 2 and August 17, 1990 
+there was slow increase in the expression of disease. 
+Under 1\arnal conditions during 1990-91, when the canes were inoculated 
+on July 5 and 20, 1990 in the variety Co 7717 and only on July 5, 1990 in 
+the varieties CoL 29 and CoJ 64, there was maximum expression of red rot 
+till September 19, 1990 and later periodical inoculation resulted in slow increase 
+in the expression of red rot ( Fig. 4 ). 
+The accummulated degree days expressed as a cumulative value is 
+used to predict flowering in apple trees to predict the apple scab (Gadoury 
+and Machardy, 1982; James and Sutton, 1982 ) or even the boll worm (lleliothis 
+spp.) outbreaks and to start insecticidal spray schedule ( Wilson and Barnett, 1983). 
+l{arnal bunt caused by Neovossia indica has become a serious disease of 
+wheat in IndiH and causes loss both qualitatively and quantitatively. Following 
+stepwise multiple regression analysis, a linear model to p1·edict the frequency (Y 1> 
+-I~ 
+w u z 
+uJ 
+0 
+I.) 
+z 
+w 
+Vl 
+<t 
+w 
+Vl 
+a 
+7 
+Co 7717 • 
+6 
+5 
+4 
+3 
+2 
+1 
+0 
+20 5 20 4 19 
+JUL. AUG SEP 
+5 20 
+OCT. 
+DATE OF OBSERVATION 
+.25 
+0.05 
+.20 
+.15 
+.1 
+0 
+CoJfi<l // 
+I --· ,. ........ ~ .. -···• 
+., ....... ···•· ... .. -·--.-·--·:-: ....... . 
+20 5 20 4 19 5 20 
+JUL. AUG. SEP. OCT. 
+DATE OF OBSERVATION 
+3.5 
+3.0 
+2.5 
+2.0 
+1.5 
+1. 0 
+0.5 
+0 
+20 
+JUL. 
+-56-
+CoL 29 
+• 
+• /// 
+~ ... ./ 
+·-·-- ............. .. ~ -·- ..... f - ~u·· I I i 
+5 20 4 19 5 20 
+AUG. SEP. OCT. 
+DATE OF OBSERVATION 
+Dato of inoculation 
+20. 7. 1989 
+----- 5. 8. 1989 
+. . . ... . ... . 20. 8. 1989 
+Fig. 2. PROGRESS OF RED ROT OF SUGARCANE (KARNAL 1989-90) 
+.7 
+.6 
+.5 
+.4 
+.3 
+.2 
+-11 
+.1 
+c» 
+en 0 
+£ 
+UJ 
+u 
+z 
+1.1.1 
+0 
+-u z .35 
+-UJ 1/) 
+c{ .30 
+UJ 
+1/) 
+0 .25 
+.20 
+.15 
+.10 
+.05 
+Co 7717 
+3 19 2 17 
+Date of inoculation 
+3. 7. 1990 
+19. 7. 1990 
+2.8.1990 
+17. 8.1990 
+2 17 2 17 
+JUL. AUG. 5EP. OCT. NOV. 
+DATE OF OBSERVATION 
+CoL 29 
+;; 
+___. I 
+/. / 
+. --· ./ ~,/' 
+/ ... --.... ...... ..._._ ... ... 
+------ .__..._..:.. .......... c:;... .,,.. .... ,.n-err. ... ·• ..... ··• 
+3 19 2 17 2 17 2 17 
+-57-
+JUL. AUG. SEP. OCT. NOV. 
+DATE OF OBSERVATION 
+Fig.3 PROGRESS OF RED ROT OF SUGARCANE ( HISAR 
+1990-91) 
+8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+0 
+X 2.5 
+-
+I 
+-
+«» 2.0 
+Ot 
+0 
+-..... 1.5 
+U.l 
+0 1.0 z 
+U.l 
+0 
+-u 0.5 z 
+U.l 0 «<I 
+<( 
+111 
+0.14 1/1 
+0 
+0.12 
+0.10 
+o.oa 
+0.06 
+0.04 
+0.02 
+0.0 
+oatQ of observation 
+5. 7. 1990 
+---- 21.7.1990 
+__ ,_ 6. 8.1990 
+........... 21.8.1990 
+Co 7717 
+• 
+Col 29 
+_._,___._._ . 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+' 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+..-.-·:·.":'· ,...,··:.·· .... 
+···~··· 
+~'..···· _,..··: .... -· 
+... r.·· .. 
+/. 
+/ ·--· _,...,...,..., ........ 
+/' --·---·-_.·--- ---·... ... -··· -- - ... ,.,. ...... - ......... ::: ..... ::: ~- .... ····· 
+CoJ 64 
+-58-
+... •---·-- -· " ..... ... 
+.. •" ... ... 
+,..,e- ... _. .... ··· .• 
+d ... .......-.. ·---.. ·-· 
+... .··· -----------.................. -:-:-................... ···•· ........ . 
+I 
+6 21 4 19 4 19 
+AUG SEP. OCT. 
+4 19 4 
+NOV. O€C. 
+5 21 
+JUL. 
+DATE OF OBSERVATION 
+fig.~. PROGRESS OF REO ROT OF SUGARCANE(KARNAL 
+1990-91) 
+-59-
+and maximum disease severity (Y 3> of Karnal bunt was developed. A non-linear 
+relationship was obser·ved between temperature and 1\arnal bunt severity and 
+followed a relationship in second order poly- nominal. It appears that by measuring 
+temperature and rainfall the disease occurrence and severity could be predicted 
+with a reasonable accuracy ( Singh !!._ al., 1990 ). 
+Only scanty information is available on the role of environmental 
+factors on the development of red rot ( Rana and Gupta, 1968; Singh ~ al., 
+1984; Singh ~ al., 1988; Beniwal and Satyavir, 1991 ). These studies have been 
+conducted using mainly plug method of inoculation. Moreover, in none of the 
+study combined effect of various weather parameters has · been worked out 
+and no predictive model has been developed. In the present study an attempt 
+has been made to develop predictive models for red rot using SMRA technique. 
+From all these analysis and disease progress curves the following points 
+were apparant : 
+i1) ' Inoculation of canes on July 3 and 20 during both years at both the 
+locations resulted in better successful infection and expression of 
+red rot. 
+(2) Inoculation after July 20 resulted in very slow increase in expression 
+of red rot and later on became constant. 
+(3) Red rot incidence reached to its maximum extent by the end of 
+October and later on expression of red rot became slow and almost 
+constant in all the periodic inoculations. 
+(4) Red rot expression was negatively correlated with minimum temperature 
+and there was cumulative increase in the expression of red rot. Rate of 
+-60-
+increase in the expression of red rot was higher at first decrease in 
+minimum temperature and it decreased with further decrease in 
+minimum temperature because the partial coefficients of minimum 
+temperature was higher at first decrease in minimum temperature 
+and it decreased continuously with further decrease in minimum 
+temperature. 
+(5) It was the minimum temperature, the most correlated weather parameter 
+fol1owed by relative humidity evening which was negatively correlated 
+dul'ing the expression of red rot incidence. 
+Pathogenic potential of mid-rib isolates : 
+Ten purified mid-rib isolates of C. falcatum were collected from different 
+sugarcane varieties and localities of Haryana. To study their pathogenic 
+potentials, these isolates alongwith one stalk rot isolate RRK ( control ) were 
+inoculated by plug method during third week of September, 1990 and observations 
+were recorded after two months. 
+Linear spread ( Table 29 ) of red rot from mid-rib isolates varied 
+from 5.55 to 24.14 em., 2.33 to 6.55 em and 6.47 to 29.30 em in cultivars 
+Co 7717, CoJ 64 and CoL 29, respectively, While linear spread from stalk 
+rot isolate - HRI< was 67.52, 30.35 and 79.33 em on cultivars Co 7717, CoJ 64 
+and CoL 29, respectively. Observations r·ecorded indicate that linear spread 
+f1·om mid-ribs isolates was significantly ver·y low as compared to that of the 
+stalk rot isolate-RRf{. 
+Mid-rib isolates demonstrated resistant to moderately reistant r·eaction 
+to all the three varieties tested whereas moderately susceptible to susceptible 
+reaction was demonstrated by stalk rot isolates ( Table 30 ). Disease rating 
+of all the mid-rib isolates was significantly very low as compared to that of 
+-61-
+Table 29 : Linear spread of mid-rib isolates in sugarcane stalks 
+Mid-rib isolates Linear Spread (em) 
+vat•ieties 
+Co 7717 CoJ 64 CoL 29 
+--
+MR1 5.55 6.55 10.53 
+MR2 24.14 2.69 26.92 
+MR3 21.47 3.28 22.53 
+MR4 12.75 3.78 29.30 
+I MRs 14.22 6.44 9.47 
+MR6 17.45 4.75 10.17 
+MR7 10.97 2.33 11.00 
+MR8 6.67 3.22 9.31 
+MR9 6.08 4.64 11.22 
+MR10 11.14 4.56 6.47 
+Stalk rot isolate 67.52 30.35 79.33 
+(RRK) 
+C.D. at 5% level 8.36 3.04 14.84 
+-62-
+Table 30 : Disease rating of mid rib isolates in sugarcane stalk 
+Mid-rib isolates Disease rating 
+varieties 
+Co 7717 CoJ 64 CoL 29 
+MR1 O.OO(R) 0.61(R) 0.39(R) 
+MR2 2.22(MR) O.OO(R) 1.64(R) 
+MR3 2.36(MR) O.OO(R) 2.61(1\lR) 
+MR4 1.45(R) O.OO(R) 2.45(MR) 
+MR5 1.53(R) O.OO(R) 0.67(R) 
+MR6 1.61(R) 0.22(R) 0.56(R) 
+MR7 0.67(R) O.OO(R) 0.78(R) 
+MRS O.OO(R) O.OO(R) 0.33(R) 
+MR9 O.OO(R) O.OO(R) 0.47(R) 
+MR10 0.61(R) 0.22(R) O.OO(R) 
+Stalk rot isolate 7.39(8) 4.75(MS) 7. 78(S) 
+(RRK) 
+c.D. at 5% level 0.91 0.54 1.19 
+R = Resistant 
+MR = Moderately resistant 
+S = Susceptible 
+-63-
+the stalk rot isolate. 
+The results of the present study showed that all the mid-rib isolates 
+of C. falcatum under present studies .are avirulent on susceptible cultivars 
+Co 7717, CoL 29 and CoJ 64, as such, do not pose any threat to sugarcane 
+cultivation. The present findings do not confirm the earlier findings of 
+Butler (1906), who reported substantial stalk rot after using mid-rib isolates. 
+Rafay and Singh ( 1957) reported that the light coloured, sporulating mid-rib 
+isolates were virulent, while dark coloured ones were avirulent. No such 
+differentiation was obser·ved in the present study. Agnihotri and Budt:raja 
+(1974) reported that most of the mid-rib isolates of C. falcatum studied by 
+them are weak in pathogenic behaviour. The races that cause mid-rib lesions 
+are markedly different from those causing stalk rot. Similarly, Sandhu .!!_ al. 
+(1974) have concluded that leaf mid-rib lesion isolates are less virulent than 
+that of stalk isolates. 
+The results of the present study showed that mid-rib isolates have 
+very little role in pathogenicity of stalk rot. Mid-rib isolates did not cause 
+stalk rot on even the susceptible varieties but there may be the possibility 
+that the virulent type might have evolved from mid-rib isolates by adapting 
+to local host and local climatic conditions ( Lewin ~ al., 1978 ). 
+Effect of nitrogen on red rot development : 
+Experiments were conducted at Hisar and Uchani ( Karnal ) during 
+1990-91 to study role of nitrogen on the development of red rot. Three 
+cultivars viz., Co 7717 ( highly susceptible ), CoJ 64 ( susceptible ) and 
+CoS 767 ( resistant ) were planted using random ised block design. Different 
+levels of nitrogen in the form of urea was applied in two split doses. Canes 
+in different treatments 
+-64-
+recorded after one month of inoculation. 
+The data recorded indicate that there was no significant difference 
+in the red rot rating at different levels of nitrogen in var·ieties Co 7717 and 
+CoS 5767 at both the locations, whereas there was significant increase in 
+red rot rating in cultivar CoJ 64 as the level of nitrogen increased beyond 
+.)5kg/ha at Hisar (Table 31 ). At Uchani ( Karnal) also there was 
+significant increase in red rot rating of cultivar CoJ 64 beyond '75 kg/ha , 
+although red rot rating decreased significantly at the highest dose ( 300 kg N/ha 
+( Table 32 ). 
+There is .no information available in the literature regarding role of 
+nitrogen on red rot development. However, higher doses of nitrogen increased 
+the susceptibility of wheat to rust ( Puccinia graminis ) and powdery mildew 
+( Erysiphe graminae ). It may be due to the fact that nitrogen abundance 
+resultcdin the production of young, succulent growth and may prolonged the 
+vegetative period and delayed maturity of the plant. These effects m&de the 
+plant more susceptible to pathogens that normally attack such tissues, and 
+for longer periods ( Huber and Watson, 1974 ). Ramakrishnan (1941) reported 
+that c. falcatum was able to metabolize a number of organic and inorganic 
+sources of nitrogen. Manoch ( 1963) found that the addition of nitrogen boosted 
+the sucrose invertase production in both the dark and light coloured is(!lAtes 
+of red rot pathogen. 
+In the present study, there was slight increase in the red rot rating 
+at the higher levels of nitrogen application in susceptible cultivar CoJ 64. 
+Cultivar CoJ 64, though susceptible to red rot has been extensively cultivated 
+in Punjab, llaryana and Western Uttar Pradesh for over a decade. The 
+cultivar has tendency to escape red rot under· field conditions ( I3eniwal, 1986) 
+-65-
+Table 31 Effect of nitrogen level on red rot development at Hisar 199Q-91 
+Nitrogen level 
+( Kg/ha) 
+0 
+75 
+150 
+225 
+300 
+C.D. at 5% level 
+Co 7717 
+6.53 
+6.93 
+6.79 
+6.58 
+6.85 
+NS 
+Disease rating 
+CoJ 64 
+3.35 
+3.85 
+4.16 
+4.50 
+4.83 
+0.77 
+CoS 767 
+0.95 
+0.94 
+0.85 
+0.68 
+0.63 
+NS 
+Table 32 Effect of nitrogen level on red rot development at Karnal 1990-91 
+Nitrogen level Disease rating 
+( Kg/ha ) 
+Co 7717 CoJ 64 CoS 767 
+0 6.64 4.20 2.80 
+75 6.66 3.63 2.68 
+150 7.38 5.09 2.68 
+225 7.94 6.64 2.62 
+300 7.91 5.43 2.08 
+C. D. at 5% level NS 0.80 NS 
+-66-
+However, addition of higher nitrogen application might be one of the factors 
+responsible for increase in red rot incidence in this cultivar in North India 
+(Anonymous, 1990). Further detai1ed investigations are required to confirm the 
+findings. 
+Effect of diCferent amendments on red rot development : 
+Amendment of soil is one of the methods of bringing about changes 
+in soil environment regulating the biological balance. The present investigation 
+was conducted to determine the effect of amendments on soil inoculum of 
+C. falcatum under field conditions and their role in red rot development. 
+Disease incidence on clump and cane basis were recorded in organic 
+and inorganic amended soil ( Table 33 ). There was considerable occurrence 
+of red rot in artificially inoculated soil when healthy setts of cultivar CoL 29 
+were planted. Similar observations were also reported by Chona (1950). Singh 
+and Singh (1981) reported possible role of survival structures of C. falcatum 
+in soil and infected debries. 
+The results showed that soil amendment with zinc sulphate @ 15 and 
+25 kg/ha significantly increased the development of red rot. Possibly it may 
+be due to some stimulatory effect of soil amendment on the activity of the 
+red rot pathogen ( Singh, 1985 ), whereas there was no significant effect on 
+the development of the disease when soil was amended with ferrous sulphate 
+@ 15 and 25 kg/ha. 
+Soil amendment with sugarcane baggase @ 30 and 40 q/ha and press 
+mud @ 40 and 50 q/ha significantly suppressed the disease incidence which 
+may be due to ndverse effect of organic matter on the activity of pathogen 
+or its survival. Decomposition of baggase released some sugars which might 
+-67-
+Table 33 Effect of soil amendments on red rot development 
+Treatment Per cent red rot incidence 
+Clump basis Cane basis 
+Control 32.90 16.89 
+(35.00)* (24.29) 
+Ferrous sulphate 35.06 18.39 
+( 15 I<g/ha ) (36.31) (25.40) 
+Ferrous sulphate 33.33 17.36 
+( 25 Kg/ha) (35.36) (24.63) 
+Zinc sulphate 36.53 19.95 
+( 15 Kg/ha ) (37.17) (26.52) 
+Zinc sulphate 38.29 22.60 
+(25 Kg/ha ) (38.23) (28.37) 
+Sugarcane baggase 25.18 13.68 
+( 30 q/ha) (30. 13) (21.72) 
+Sugarcane baggase 20.50 12.61 
+( 40 q/ha) (26.91) (20.82) 
+Press mud 25.25 12.48 
+(40 q/ha ) (30. 16) (20.66) 
+Press mud 23.72 13.22 
+( 50 q/ha ) (29. 14) (21.33) 
+C.D. at 5% level 
+* Values in parentheses are angular transformed. 
+-68-
+have altered the physical, chemical and biotic conditions of the soil ( Singh, 
+1985 ). He observed manifold increase in microbial populations in soil 
+amended with baggase as com. ·red to the control. Secondly, due to poor 
+saprophytic ability, C. falcatum can not easily compete with enhanced 
+population of antagonists or lytic micro-organisms. Singh (1985) also reported 
+that soil amended with bagasse caused about 25 per cent lysis of microbial 
+growth of C. falcatum, while in check it was only 0.5 per cent. Suppressive 
+effect of press mud on red rot may be attributed to antagonistic micro-organisms 
+or immediate germination of resting structures followed by lysis. 
+Effect of Bavistin on red rot incidence : 
+In spite of vigrous seed selection exercised at planting time in respect 
+of elimination of red rot infected setts prepared out of such canes, a few 
+diseased setts can inadvertently escape notice and serve as a source of 
+secondary infection. Therefore, the role of the systemic fungicide Bavistin 
+in controlling the disease was investigated. Healthy setts of highly susceptible 
+cultivar CoL 29 were planted in artifically infested soil with infected plant 
+debries. Setts were treated with Bavistin for one hour and two hour duration 
+alongwith or without one or two sprays of Bavistin. Red rot incidence at 
+cane and clump basis were recorded ( Table 34 ) . Significantly low incidence 
+of red rot was recorded in one and two hour sett treatment alone and alongwith 
+foliar sprays with Bavistin as compared to control. While one and two sprays 
+alone did not reduce the disease incidence significantly. 
+Lewin ~ ~· (1976) demonstrated good control of the disease even 
+with lower dose ( 0.2596) and shorter treatment duration ( dip and out ) with 
+Bavistin. Waraitch (1983) demonstr·ated that dip and out treatment of red rot 
+-69-
+Table 34 : Efficacy of Bavistin against red rot 
+Treatment Per cent red rot incidence 
+Clump basis Cane basis 
+Control 40.74 22.97 
+(39.69)* (28.73) 
+One hour sett treatment 34.24 19.21 
+(@ 0.25%) (36. 19) (25.98) 
+One hour sett treatment 34.80 16.85 
++ one spray (36. 11) (24.25) 
+One hour set t treatment 32.80 16.57 
++ two sprays (35. 11) (23.99) 
+Two hours set t treatment 32.01 15.60 
+(34.58) (23.48) 
+Two hours sett treatment 32.60 16.94 
++ one spray (34.82) (24.26) 
+Two hours sett treatment 34.37 18.55 
++ two sprays (35.91) (25.62) 
+One spray 38.37 20.98 
+(@ 0.1 %) (38.10) (27 .25) 
+Two sprays 40.07 21.38 
+(39.47) (27 .66) 
+C.D. at 590 level ( 1.63) (2. 12) 
+* Values in parenthesis are the angular transformed. 
+-70-
+infected setts with Bavistin did not reduce the disease incidence significantly 
+as compared to control whereas minimum disease incidence was observed in 
+case of one hour sett treatment with Bavistin ( 0.5% ). While reviewing the 
+efficacy of fungicides in controlling red rot, Singh and Singh (1989 ) reported 
+that fungicidal treatments have not been effective in controlling the disease. 
+Slight reduction in red rot incidence due to Bavistin sett treatments is unlikely 
+to provide effective control under field conditions. 
+Identification of red rot resistant mutant : 
+Dormant single budded setts of early maturing high sugared varieties 
+co 8334 and CoH 56 when subjected to gamma radiation exposure of 4.0 Kilo 
+roentgen ( kR) resulted in reduced per cent survival of germinated buds in M 1 
+generation ( Table 35 ). Canes in all the survival clones in M 1 generation 
+alongwith control were inoculated by nodal method. during the month of 
+September, 1989. Seven and three apparently healthy clones from varieties Co-
+8334 and CoH 56, respectively were selected after visually recording observations 
+on red rot. These clones were subsequently planted alongwith contr·ol during 
+1990-91 at Jlisar and inoculated by nodal method with the onset of monsoon 
+( Table 36 ). All the selected mutants from cultivars Co 8334 and CoH 56 
+developed red rot during, 1990-91 and none of the mutants showed resistance 
+to red rot in IVI 2 generation. 
+A number of earlier workers have identified red rot resistant mutants 
+through gamma irradiations ( Rao ~ ~., 1966; Singh, 1970; Shah, 1g72; Nair, 
+1973; sari, 1974; llaq _c.!_~. 1974; Jagathcsan , 1974; Jagathesan, ~ al., 1977). 
+These workers have used 2-6 1\R dose for irradiations In the t t d' · · prcsen s u res 
+irradiation of dormant buds of cultivar Co 8334 and Coli 56 at 4 K R did not 
+Produce genetic variants and gammA irradiation W" · ff · nS me cctrve in inducing red 
+rot resistance. 
+-71-
+Table 35 Identification of red rot resistant mutant 
+Variety Gamma rays No. of puds Per cent No. of 
+tr·catment treated survival mutants 
+selected 
+( Ml ) 
+Co 8334 4 kR 1000 45.90 7 
+Co 8'334 0 kR 0.00 71.25 
+CoH 56 4kR 1000 65.60 3 
+CoH 56 0 kR 0.00 35.62 
+Table 36 : Red rot reaction of selected mutants in M2 
+Red rot reaction in M2 generation 
+1. Co 8334 -M 1 
+s 
+i\12 s 
+M3 s 
+M4 s 
+M5 s 
+M6 s 
+1\17 s 
+Co 8334 (Control ) s 
+2. CoH 56 -l\1 1 s 
+i\'12 s 
+iVl 3 s 
+CoH 56 (Control s 
+--------- ----------
+S = Susceptible. -----------------------
+
+CHAPTER-V 
+SUMMARY 
+Th~ main objective of this investigation was to study the epidemiology 
+and management of red rot of sugarcane caused by Colletotrichum falcatum 
+Went. Attempts were made to develop the predictive models for the red rot 
+incidence by conducting the experiments at Hisar and I<arnal during the years 
+1989-90 and 1990-91. Standing canes of varieties Co 7717, CoL 29 and CoJ 64 
+were inoculated by nodal method at 15 days interval starting from the onset 
+of monsoon. Weather data were regressed with disease incidence by applying 
+stepwise multiple regression analysis and best fitting equations having R2 
+0.90 are as follows : 
+Regression equation 
+y1 = 53.13 - 1.97X 2 
+y2 = 179.16 - 6.63X 2 
+y1 = 28.55 - 0.32X 4 
+y2 = 24.56 - 0.25X 4 
+y2 = 31.74- 1.23X 4 
+Y 1 = 144.70 - 5.3SX 2 
+Y 1 = 148.01 - 5.82X 2 
+y 2 = 20.75 - 0.83X 2 
+0.90 
+0.97 
+0.97 
+0.91 
+0.96 
+0.90 
+0.96 
+0.90 
+-73-
+On the basis of prediction equation and disease progress curves the 
+following points were apparent : 
+(i) Inoculation of canes on July 3-20 during 1989-90 and 1990-91 
+at both the locations resulted in successful infection and expression of red rot. 
+(ii) Inoculations after July 20 resulted in very slow increase in expression 
+of red rot and later became constant. 
+(iii) Red rot incidence reached to its maximum extent by the end of 
+october and later on, expression of red rot became slow and almost constant 
+in all the periodic inoculations. 
+(iv} Red rot expression was negatively correlated with minimum temperature 
+(X ) and there was cumulative increase in the expression of red rot. Rate of 
+2 
+increase in the expression of red rot was higher at first decrease in minimum 
+temperature and it decreased with further decrease in minimum temperature 
+because the partial coefficient of minimum temperature was higher at first 
+decrease in minimum temperature and it decreased further with decrease in 
+minimum temperature. 
+(v) Minimum temperature was the most correlated weather parameter 
+followed by relative humidity evening ( X ) 4 which was neaatively correlated 
+during the expression of red rot, where the minimum temperature fails to 
+become significant. 
+The pathogenic potentials of 10 mid rib isolates, collected from different 
+sugarcane varieties and localities of Haryana alongwith one stalk rot isolates 
+RRK were studied. Observations recorded on linear spread and disease rating 
+showed that all the mid-rib isolates of C. falcatum under present studies are 
+avirulent on susceptible varieties Co 7717, CoL 29 and CoJ 64 and thus, do 
+not pose any threat to sugarcane cultivation. 
+-74-
+Field trials with three cultivars Co 7717, CoL 29 and CoJ 64 were 
+conducted at llisar and Uchani ( Karnal ) during 1990-91 to study role of 
+nitrogen on the development of red rot. Different levels of nitrogen ( 0, 75, 
+150, 225 and 300 kg/ha ) were applied in the form of urea. There was no 
+significant difference in the red rot rating at different levels of nitrogen in 
+varieties Co 7717 and CoS 767 at both the locations whereas there was 
+significant increase in red rot rating in variety CoJ 64 with increased nitrogen 
+levels beyond ·~7.5 kg N /ha. 
+An experiment was conducted to determine the effect of various 
+amendments on soil inoculum of C. falcatum under field conditions and their 
+role in red rot development. The results showed that soil amendment with 
+zinc sulphate @ 15 and 25 Kg/ha significantly increased the development of 
+red rot whereas soil amendment with sugarcane baggase @ 30 and 40 q/ha 
+and press mud @ 40 and 50 q/ha significantly suppressed the disease incidence. 
+The role of the systemic fungicide Bavistin in controlling the red rot 
+was investigated. Healthy setts of highly susceptible variety CoL 29 were 
+planted in artifically inoculated soil. Setts were treated with Buvistin for one hour 
+and two hour duration alongwith or without one or two sprays of Bavistin. 
+Slightly low incidence of red rot was recorded in one and two hours setts 
+treatment alone and alongwith foliar sprays with Bavistin as compared to 
+control, while one and two sprays alone did not reduce tt1e d·1sea · ·d , se mc1 ence 
+significantly. 
+To identify the red rot resistant mutant, dormant signlc budded setts 
+of early matw·ing ,high sugared varieties Co 8334 and ('.oil .~: 6 were 
+,j subcjcted to 
+gamma radiation exposure of 4.0 kR. Gamma radiation resulted in l'educed 
+-75-
+per cent survival of germinated buds in M 1 generation. Canes in all the 
+survival clones in M 1 generation alongwith control were inoculated by nodal 
+method during the month of September, 1989. Healthy clones selected after 
+visually recording observation on red rot were planted alongwith control during 
+1990-91 at H isar and inocula ted by nodal method with the onset of monsoon. 
+A11 the selected mutants from varieties Co 8334 and CoH 56 developed red 
+rot during 1990-91 and none of the mutants showed resistant to red rot in 
+M2 generations. 
+, , I 
+•t ~·' . , ~· I 
+.lr ! : . C: : 0 ~ . 
+LITERATURE CITED 
+Abbott, E. V. 1938. Red rot of sugarcane. Tech. Bull. USDA. 641 96. 
+Agnihotri, V.P. and T.R. Budhraja, 1972. Annual Report, Indian Inst. Sugarcane 
+Research, Lucknow, India. 
+Agnihotri, V.P. and T.R.Budhraja, 1974. Pathogenic potentialities of mid-rib 
+isolates of Colletotrichum falcatum in inciting stalk rot of sugarcane. 
+Sugarcane Pathol. Newl. 11 : 19-21. 
+Agnihotri, V.P. and K. Singh, ( 1977). Seed-piece transmissible diseases of 
+sugarcane and their chemical control. Sugar News. 2 pp 90-95. 
+* Ahmad, H. U. and G.G .Divinagracia, 1974. Growth and sporulation of 
+Colletotrichum falcatum at different temperatures, pH and light 
+conditions. Philippines Agriculturist. 57 : 379-382. 
+Alexander, ICC. 1979. Breeding for red rot. Proc. Sugarcane Breeders 
+Conference held at S.B.I., Combatore, July 30-31, pp 3-4. 
+Alexander, K.C., M.Madhusadana Rao, D.Mohanraj, K. Seshadri, P. Padmanabm. 
+N. Prakasam and S.S.Kshirsagar, 1986. A new approach to improvement 
+of red rot resistance in sugarcane. Indian J. Mycol. PI. Pathol. 16 : 
+108-112. 
+Anonymous, 1990. Technical Report - Plant Diseases ( 1989-90), All India 
+Coordinated Project on Sugarcane, J.I.S.R., Lucknow. 
+Anonymous, 1991. Sugar Statistics. Indian Sugar. 41 70 1-726. 
+-ii-
+Anzalone, L. Jr., 1970. Air pressure incorporation of fungicides into short 
+stalk sections of sugarcane for the control of red rot. Phytopathology. 
+60 : 741-742. 
+* Arx, J.A. V. and E. Muller, 1954. Die Gattungen der Amerosporen Pyrenomyceton 
+(The genera of Amerosporous Pyreno~ycetes ). Beits. Kryptogamenfl. 
+Schweiz. 11 : 195-196. 
+Babu, C.M., 1969. The red rot problem of sugarcane in India. Indian Sugar. 
+19 : 191-193. 
+Barber, C.A. 1901. Sugarcane diseases in Godaveri and Ganjam districts. 
+Madras Dept. Land Records and Agric. Bull. 5 : 181-194. 
+Bari, G. 1974. Induction of somatic mutations for disease resistance in sugarcane. 
+Page 149 in induced mutations for disease resistance in crop plants. 
+Vienna, Austria; Int. Atomic Energy Agency (1974}. 
+Beniwal, M.S. und Satyavir, 1991. Effect of atmospheric temperature on the 
+development of red rot of sugarcane. Indian Phytopath. 44 : 333-338. 
+Beniwal, M.S., Satya vir and K .S. Virk, 1989. Pathogenic variability in Colletotrichum 
+falcatum incitant of red rot of sugarcane. Indian Phytopath. 42 : 95-98. 
+Bargamin, F.A. 1981. Evaluation of the resistance of sugarcane to Colletotrichum 
+falcaturn by leaf inoculation. Summa Phytopathologica. 7 : 86-87. 
+*Bhatia, c. and M.S.Swaminathan, 1962. Induced polygenic variability in bread 
+wheat and its bearing on selection procedure. 2. Pflanzcnzucht. 48: 
+317-32(). 
+Induction of quantitative variation in Trifolium subtcrreneum Rrock, R.D. 1964. ------ ______ ---.:. 
+(quoted by Rrock. 1965>· 
+-iii-
+* Brock, R.D. 1965. Induced mutat 1• 
+Q ons affecting 
+Rad. Bot. 451-464. quantitative characters. 
+Brock, R.D. 1971. Differential mutation of 8 . -galactosidase ge 
+Escherichia coli. MutatiOn Res. 11 : 181_186• ne of 
+Butler. E.J. 1906. Fungus diseases of sugarcane in Bengal. 
+India. Bot. Ser. 1 : 2-24. Mem. Dep, Agric. 
+Chand, J.N., J.K.Dang and T.R. Kapoor, 1974. SystemJ·c Chemr·cal s as sugarcane I 
+sett protectants. Sci. and Cult. 40 : 69-70. 
+Chona, B.L. 1943. Red rot of sugarcane and its control. Indian Fmg. 4 : 
+27-32. 
+Chona, B.L. 1950. Studies on the diseases of sugarcane in India. III. 
+Sources and modes of red rot infection. Indian Jour. agric. Sci. 20: 
+365-385. 
+Chona, B.L. 1954. Relative resistance of sugarcane varieties to red rot. 
+Indian Jour. Agric. Sci. 24 : 301-315. 
+Chona, B.L. T956. Presidential address, Pathology Section, Proc. Intern. 
+S Sugarcane Technol., 9th Congress, pp. 975-986. oc. 
+1980. Red rot of sugarcane and sugar industry - A review. 
+Chona, B.L. 
+Indian Phytopathol. 33 : 191-207. 
+Chona, 
+-~hona, 
+B . . 1953 Occurrence in nature of Physalospora 
+8 1 and B.S. aJaJ, • 
+• h • c The perfect stage of sugarcane red rot organism 
+tuchumansiS .;peg. . 3-65. 
+-:--- I d'a Indian Phytopath. 6 • 6 m n J • 
+1952 The perithecial stage of Collet t . 
+d D N Srivastava, • - o r1chum 
+B.L. an • • . Indian Phytopath. 5: 1SB-160. 
+Went in IndlB. 
+[lll~nt_um 
+-
+-iii-
+* Brock, R.D. 1965. Induced mutations affecting quantitative characters. 
+Rad. Bot. 451-464. 
+Brock, R.D. 1971. Differential mutation of a-galactosidase gene of 
+Escherichia coli. Mutation Res. 11 : 181-186. 
+Butler, E.J. 1906. Fungus diseases of sugarcane in Bengal. Mem. Dep. Agric. 
+India. Bot. Ser. 1 : 2-24. 
+Chand, J.N., J.K.Dang and T.R. Kapoor, 1974. Systemic Chemicals as sugarcane 
+sett protectants. Sci. and Cult. 40 : 69-70. 
+Chona, B.L. 1943. Red rot of sugarcane and its control. Indian Fmg. 4 
+27-32. 
+Chona, B.L. 1950. Studies on the diseases of sugarcane in India. III. 
+Sources and modes of red rot infection. Indian Jour. agric. Sci. 20: 
+365-385. 
+Chona, B.L. 1954. Relative resistance of sugarcane varieties to red rot. 
+Indian Jour. Agric. Sci. 24 : 301-315. 
+Chona, B.L. 1956. Presidential address, Pathology Section, Proc. Intez·n. 
+Soc. Sugarcane Technol.. 9th Congress, pp. 975-986. 
+Chona, B.L. 1980. Red rot of sugarcane and sugar industry - A review. 
+Indian Phytopathol. 33 : 191-207. 
+Chona, B.L. and B.S.Bajaj, 1953. Occurrence in nature of Physalospora 
+tuchumansis Speg. The perfect stage of sugarcane red rot organism 
+in India. Indian Phytopath. 6 : 63-65. 
+Chona, B.L. and O.N.Srivastava, 1952. The perithecial stage of Colletotrichum 
+falcatum Went in India. Indian Phytopath. 5: 158-160. 
+-iv-
+Chona, R.L. and D.N.Srivastava, 1960. Variation in Colletotrichum falcatum, 
+the cnwml organism of red rot of sugarcane. Indian Phytopathol. 13: 
+58-6!). 
+Chona, B.L. nnd G. W. Padwick, 1942. More light on the red rot epidemic. 
+Indian Fmg. 3 : 70-73. 
+Chona, B.L. and M .K.Hingorani, 1950. Mutation in Colletotrichum falcatum 
+went, the causal organism of sugarcane red rot. Phytopathology. 40: 
+221-227. 
+Chona, B.L. and T.K.Naraini, 1952. Investigations on the survival of 
+Colletotrichum falcatum in soil. Indian Phytopath. 5 : 152-157. 
+Edgerton, c. W. and C. C. Moreland, 1920. Effect of fungi on the germination 
+of sugarcane. La Agri. Expt. Sta. Bull. 169 : 40. 
+Gadoury, D.M. and W .E.Machardy, 1982. A model to estimate the maturity 
+of ascospores of Venturia inaequalis. Phytopathology. 72: 901-904. 
+* Haq, M.S., A.F.M.Maniruzzaman and S.IVI.Ali, 1970. Evolution of high yielding 
+disease resistant strains of sugarcane through gamma radiation. In 
+Proc. 21st- 22nd Pakistan Sci. Conf., Rajshahi 1970, Part III. 
+Abstract. Lahore, W .Pakistan, Assoc. Adv. Sci. ( 1970). 
+Haq, M.S., IVI.M. Hehman, M.M. Mia and H.U. Ahmed, 1974. Disease resistance 
+of some mutants induced by gamma rays. Page 150 in induced 
+mutations for disease resistance in crop plants. Vienna, Austria, Int. 
+Atomic Energy Agency (1974). 
+Haw, M.S., l\1. i\J.Tin and T. Myint, 197 4. The prospect of breeding red rot 
+resistant sugarcane varieties through induced mutations in Burma. 
+Pages 150-1;)1 in induced mutations for disease resistance in crop 
+plants. Vienna Austria; lnt. t\ tomic Energy Agency ( 197 4). 
+-v-
+Huber, D.M. and R.D. Watson, 1974. Nitrogen farm and plant disease. Ann. 
+Rev. Phytopathol. 1 : 31-50. 
+Jagathesan, D. 1977. Induction and isolation of mutants in sugarcane. Mutation 
+Breeding News!. 9 : 5-6. 
+Jagathesan, D.;_ N.Balasundrum and K.C.Alexander, 1974. Pages 151-153 in 
+induced mutations for diesease resistance in crop plants. Vienna, 
+Austria : Int. Atomic Energy Agency {1974). 
+James, J.R. and T.B.Sutton, 1982. A model for predicting ascospore maturation 
+of Venturia inaequalis, Phytopathology. 72 : 1081-1085. 
+Khirbat, S.IL; Satyavir and M.S. Beniwal, 1980. Physiological and pathological 
+variability in sugarcane red rot pathogen Colletotrichum falcatum in 
+Haryana. Indian phytopath. 33 : 296-299. 
+Khirbat, S.K.; Satyavir and M.S. Beniwal, 1984. Inhibition of spore germination 
+by Colletotrichum falcatum Went by fungicides. Pesticides. 8 : 28. 
+J{irtikar and H.S. Verma, 1963. Role of chemicals in sugarcane disease control. 
+Indian Sugar. 13 : 139-141 • 
+. t"kar E p Singh and R.R.Singh, 1972. Reaction of varieties to red rot 
+J{ If 1 ' ' • 
+in western tract of Uttar Pradesh. Indian Sugar. 22 : 429-430. 
+Lewin, 
+[,ewin, 
+H. o., S.Muthusamy and P.S.Sanjeevi, 1978. Role of mid-rib lesion 
+of Glomerella tucumanensis in causing red rot in sugarcane. Sugarcane 
+pathol. News!. 20 : 13-16. 
+S NntraJ·an and S. D.Rajan, 1976. Control of sugarcane red rot 
+fi.O.; · · 
+lospora tucumanensis Speg. by Chemotherapy. Sugarcane Pathol. 
+(~ 
+I 17 : 17-20. NeWS· 
+-v-
+Huber D ' .1\1. and H.D.Watson 
+R ' 1974. Nitrogen farm and plant d' 
+ev. Phytopa thol. 1 : 3 1-50. Isease. Ann. 
+Jagathesan, D. 1977. Induction and · 1 · 
+B tso a tJOn of mutants in sugarcane. MutatJ'on reeding Newsl. 9 : 5-6. 
+Jagathes an, D.; N.Balasundrum d . an K.C.Alexander, 1974. Pages 151-153 . 
+Indu d · m ce mutatwns for diesease resistance in crop plants. Vienna, 
+Austria : Int. Atomic Energy Agency (1974). 
+James J 
+' .R. nnd T.B.Sutton, 1982. A model for predicting ascospore 
+of Venturia inaequalis, Phytopathology. 72 : 1081-1085. 
+maturation 
+Khirbat s 
+' .1(.; Satyavir and M.S. Beniwal, 1980. Physiological and pathological 
+variability in sugarcane red rot pathogen Colletotrichum falcatum in 
+Haryana. Indian phytopatiJ. 33 : 296-299. 
+Kh· Irbat, S.K.; Satyavir and M.S. Beniwal, 1984. Inhibition of spore germination 
+by Colletotrichum falcatum Went by fungicides. Pesticides. 8 : 28. 
+Kirtikar and H.S. Verma, 1963. Role of chemicals in sugarcane disease control. 
+Indian Sugar. 13 : 139-141. 
+Rirtikar, E.P. Singh and R.R.Singh, 1972. Reaction of varieties to red rot 
+in western tract of Uttar Pradesh. Indian Sugar. 22 : 429-430. 
+Lewin, H. D., S.Muthusamy and P.S.Sanjeevi, 1978. Role of mid-rib lesion 
+of Glomerella tucumanensis in causing red rot in sugarcane. Sugarcane 
+Pathol. Newsl. 20 : 13-16. 
+Lewin ll D . s N t 1·an and s.D.Rajan, 1976. Control of sugarcane red rot , • • , •• 1 H ra 
+(Physalospora tucumanensis Speg. by Chemotherapy. Sugarcane Pathol. 
+News/. 17 : 17-20. 
+-v-
+Huber, 0.1\1. and R.D. Watson, 1974. Nitrogen farm and plant disease. Ann. 
+Rev. Phytopathol. 1 : 31-50. 
+Jagathesan, D. 1977. Induction and isolation of mutants in sugarcane. Mutation 
+Breeding Newsl. 9 : 5-6. 
+Jagathesan, D.;. N.Balasundrum and K.C.Alexander, 1974. Pages 151-153 in 
+induced mutations for diesease resistance in crop plants. Vienna, 
+Austria : Int. Atomic Energy Agency (1974). 
+James, J.R. and T.B.Sutton, 1982. A model for predicting ascospore maturation 
+of Venturia inaequalis, Phytopathology. 72 : 1081-1085. 
+l{hirbat, S.K.; Satyavir and M.S. Beniwal, 1980. Physiological and pathological 
+variability in sugarcane red rot pathogen Colletotrichum falcatum in 
+Haryana. Indian phytopath. 33 : 296-299. 
+Khirbat, s.K.; Satyavir and M.S. Beniwal, 1984. Inhibition of spore germination 
+by Colletotrichum falcatum Went by fungicides. Pesticides. 8 : 28. 
+Kirtikar and H.S. Verma, 1963. Role of chemicals in sugarcane disease control. 
+Indian Sugar. 13 : 139-141. 
+Kirtikar, E.P. Singh and R.R.Singh, 1972. Reaction of varieties to red rot 
+in western tract of Uttar Pradesh. Indian Sugar. 22 : 429-430. 
+Lewin, H. o., S.Muthusamy and P.S.Sanjeevi, 1978. Role of mid-rib lesion 
+of Glomerella tucumanensis in causing red rot in sugarcane. Sugarcane 
+Pathol. Newsl. 20 : 13-16. 
+Lewl·n, H.D.; S.Natrajan and S.D.Rajan, 1976. Control of sugarcane red rot 
+(Physalospora tucumanensis Speg by Chern th • 0 erapy. Sugarcane Pathol. 
+Newsl. 17 : 17-20. 
+-vi-
+Lewin, H.D.; S.Natrajan and S.D.Rajan, 1976. Screening of sugarcane clones 
+for field resistance to red rot I.S.S.C.T. Sugarcane Pathol. News!. 
+17 : 20-22. 
+to, C. C. 1977. Mutation breeding of sugarcane in Taiwan. Taiwan Sugar. 
+24 : 450-456. 
+Manocha, M.S. 1963. Utilization of sucrose by Colletotrichum falcatum isolates, 
+causing red rot of sugarcane. Indian Jour. Microbiol. 3 : 109-112. 
+Mathur, R.S. 1946. Sugarcane red rot and its control. Indian Sug. 9 : 
+356-357. 
+Menon, R.G. and K. Singh, 1960. The IISR sugarcane inoculator. Indian Jour. 
+Sugarcane Res. and Dev. 4 : 249-250. 
+N · JVf 73 Note on an induced red rot resistant mutant of 'Co 997' atr, 1.1<. 19 . 
+variety of sugarcane. Indian J. Agric. Res. 43 : 323-324. 
+Nair, S.S.; N.N.Potty,; A.V.Mathew; K.C.Alexander and Kishan Singh, 1984. 
+Red rot and other important seed piece transmissible diseases of 
+sugarcane in Kerala. Indian Sug. 33 : 815-816. 
+Natrajan, A. T. 1964. Induction of mutations in vegetatively propagated plants 
+and its possible utility in sugarcane. Proc. 5th All Inoia Conf. s. 
+cane Res. and Dev. Wrks. 419-423. 
+Prakasam, R. and T.C. Venkatareddy, 1961. Occurrance of light race of 
+Colletotrichum falcatum Went in Andhra Pradesh. Science and Culture, 
+27 : 250-251. 
+Prasada Rao, ILK.; M.N.Sarma; V.Satyanaryana and M.Atchutaramarao, 1978. 
+Discriminant function as a reliable guide for assessing varietal reaction 
+to red rot of sugarcane. Proc. Intern. Soc. Sugar Cane Technol. 16th 
+Congress. 1 : 395-400. 
+-vii-
+Rafay, S.A. 1950. Another strain of Physalospora tucumanensis. Curr. Sci. 
+19 : 385-386. 
+Rafay, S.A. and V.B. Singh, 1957. A new strain of Glomerella tucumanensis. 
+Curr. Sci. 26 : 19-20. 
+Ramakrishnan, T.S. 1941. Studies on the genus Colletotrichum II. Physiological 
+studies on c. falcatum Went. Proc. Indian Acad. Sci. 14 : 395-411. 
+Rana, O.S. and S.C.Gupta, 1968. An easy method of screening out red rot 
+susceptible varieties at initial stages of multiplication. Indian Sugar. 
+18 : 447-452. 
+Rao, J.T.; i\. V.Srinivasan and K.C. Alexander, 1966. A red rot resistant mutant 
+of sugarcane induced by Gamma irradiation. Proc. Indian Acad. Sci. 
+64 : 224. 
+Sandhu, S.S. and C.N.Babu, 1967. On the comparative efficacy of the existing 
+two methods of rating sugarcane varieties for red rot 1·esistance. J. 
+Res. P.A.U. 4: 211-213. 
+Sandhu, s.S.; v .K.Mohan and K. Singh, 1974. Role of mid-rib lesions in 
+1 . the epidemiology of red rot caused by Colletotrichurn falcatum Went 
+I : in Punjab. Indian Sugar. 24 : 391-395. 
+I 
+I 
+Satya vir, M.s.Beniwal; K.S. Virk and S.K.Maheshwari, 1984. Break down of red 
+rot resistance in sugarcane cultivar Co. 1148. Indian Phytopath. 37 : 
+407. 
+Shah, s.s. 1972. Role of sugarcane breeding institute in improvement of 
+agriculture in India. Indian Fmg. 22 : 38-44. 
+Sharma, s.L.; R.K.Singh and H.C.Jha, 1957. Possible role of fungicides in the 
+control of red rot fungus (Colletotrichum falcatum = Glomerella 
+tucumanensis Arx and Muller ). Indian Jour. sugarcane Res. and Dev. 
+1: 174-175. 
+-viii-
+Singh, D. V.; P.Arora; I<.D.Srivastava; S.Nagarajan and R.Aggarwal, 1990. 
+Prediction of the frequency and severity of Karnal bunt occurrance 
+in field, using climatic variables. Indian J. Plant Prot. 18 : 225-229. 
+Singh, G.R. 1966. Red rot infection on sugarcane leaves in Louisiana. Indian 
+Sugar. 15 : 735-737. 
+Singh, H.N.; S.C.Gupta; S.B.Singh and M.P. Singh, 1978. Improvement of the 
+technique for screening against red rot at the seedling stage. Sugarcane 
+Pathol. Newsl. 21 : 29-31. 
+Singh, K. and R. P .Singh, 1989. Red rot. In: Diseases of Sugarcane, Major 
+Diseases ( eds. Ricaud, C., B. T. Egan, A.G.Gillaspie, Sr and C.G. 
+Hughes ) Elsevier Amsterdam - Oxford - New York - Tokyo pp. 169-188. 
+S. h I< and T R BudhraJ·a 1964 Method of inoculating sugarcane for red mg ' . . . ' . 
+rot. Plant Dis. Rept. 48 : 991-993. 
+Singh, J{; N. Singh and S.R.Misra, 1982. Rhizosphere microflora associated 
+with sugarcane plants affected by red rot. Indian Phytopath. 35 : 
+310-313. 
+Singh, K; R.P.Singh and Sunita Lal, 1988. Effect of ambient temperature 
+on red rot development in sugarcane. Indian Phytopath. 41 : 86-91. 
+Singh, K.; S.N.Srivastava, O.K. Sinha and Poonam Srivastava. 1992. Red rot 
+of sugarcane. In : Plant Diseases of International Importance Diseases 
+of Sugar, Forest and Plantation Crops, Vol. IV. ( eds. Mukhopadhayay, 
+A.N.; J. Kumar, H.S.Chaube and U.S.Singh . Prentice Hall, Englewood 
+Cliffs, New Jersey. pp. 1-15. 
+Singh, K; T.R.Budhraja and V.P.Agnihotri , 1977. Survival of Colletotrichum 
+falcatum in soil, its portals of entry and role of inoculum density in 
+causing infection. Intern. Sug. Jour. 79 : 43-44. 
+Singh, M.P.; U.C. Upadhyay; K.P. Verma and H .. N.Singh, 1984. 
+variability in red rot isolates of sugarcane in U. P. 
+33 : 669-671. 
+-ix-
+Pathogenic 
+Indian Sug. 
+Singh, N. 1985. Red rot incidence in ratoon of infected sugarcane plant crop. 
+Indian Sugar Crops Jour. 11 : 61-62. 
+Singh, N. 1985. Effect of amendment on red rot development in Sugarcane. 
+Indian Phytopath. 38 L 382-384. 
+Singh, N. and K.Singh, 1982. Formation of resting structures by Colletotrichum 
+falcatum Went in Soil. Curr. Sci. 51 : 102-104. 
+Singh, N. and K.Singh, 1983. Role of naturally infected debris in red rot 
+development in sugarcane. Indian Sugar. 32 : 923-926. 
+Singh, N.; Sunita Lal and R.P.Singh, 1985. Behaviour of Colletotrichum 
+falca tum under strens condition. Indian Phytopath. 38 : 544-545. 
+Singh, N. and R.J.Lal, 1987. Variability of red rot pathogen under water 
+lodged condition. Pl. Dis. Res. 2 : ..04-1 05. 
+Singh, 0 and B.I<umar , 1986. Physiological abnormalities in metabolism of 
+red rot infected sugarcane. Indian Sugar. 35 : 551-556. 
+Singh, s. 1970. Chronic gamma irradiation induced resistance to red rot 
+disease in sugarcane variety Co. 997. Sugarcane Pathol. Newsl. 
+5 : 24. 
+Spegazzini, C. 1986. Hongos de la Cana de Azucar. Rev. Fac. Agron. Vet. 
+2 : 227-258. 
+Srinivasan, I<.V. 1962. A technique for the elimination of red rot susceptible 
+sugArcane seedlings at an eArly stage. Cu 1•• Sci. 31: 112-113. 
+-x-
+Srinivasan, K. V. and N.R.Bhat, 1961. Red rot of sugarcane - criteria for 
+grading resistance. Jour. Indian Bot. Soc. 11 : 566-577. 
+Tims, E.C. and C.W.Edgerton, 1932. The red r.ot disease. Proc. Int. Soc. 
+Sugarcane Technol. 4th Congr. 26 : 1-5. 
+Virk, K.S. 1985. Hypodermic needle method for testing resistance of sugarcane 
+to red rot. Indian Phytopath. 38 : 554. 
+"' Wang, Z.N. and C.S.Lee~ 1982. Improvements on the methods of testing 
+sugarcane varietal resistance to leaf blight and red rot. Rap. Taiwan 
+Sug. Res. Inst. 95 : 1-7. 
+Waraitch, K.S. 1983. Control of red rot of sugarcane with systemic fungicide. 
+Indian J. Mycol. and Pl. Pat11ol. 13 : 343-345. 
+Waraitch, K.S. 1985. Longivity of red rot pathogen ~ falcatum ) in sugarcane 
+in soil and its effect on disease development under Punjab conditions. 
+Indian J. Mycol. Pl. Pathol. 15 : 247-250. 
+Went, F.A.F.C. 1893. Het root snot. Arch. Jora-Suikerind, 1 , pp. 265-282. 
+Wilson, L.T. and W.W.Barnett, 1083. Degree-days : an aid in crop and post 
+management. Calif. agriculture. 37 : 4-7. 
+* Original not seen. 
+Appendix 1.1 
+Details of the sample data from Hisar 1989-90 
+( Date of inoculation - 15.7.1989 ) 
+Date of Red rot incidence 
+observation varieties 
+Co 7717 CoL 29 CoJ 64 
+15.7.89 0.00 0.00 0.00 
+(0.010)* (0.0 10) (0.0 10) 
+31.7.89 9.00 0.52 0.00 
+(0.010) (0.010) (0.0 10) 
+15.8.89 4. 72 10.26 1.25 
+(0.048) (0.109) (0.0 13) 
+29.8.89 4.95 13.85 3.25 
+(0.051) (0. 149) (0.034) 
+13.9.89 4.95 19.93 9.52 
+(0.051) (0.222) (0.101) 
+28.9.89 13.90 53.31 14.26 
+(0. 151) (0.761) (0.154) 
+13.10.89 45.77 100.00 20.15 
+(0.609) (6.908) (0.226) 
+28.10.89 53.39 100.00 22.14 
+(0. 764) (6.908) (0.250) 
+* Values in parentheses are log e ( 1/1-x) transformed value of disease 
+incidence in per cent. 
+Appendicx 1.2 
+Details of the sample data from Hisar 1989-90 
+( Date of inoculation - 13.7.89 ) 
+Date of Red rot incidence 
+observation varieties 
+Co 7717 CoL 29 CoJ 64 
+31.7.89 0.00 0.00 0.00 
+(0.0 10)* (0.0 1 0) (0.0 10) 
+15.8.89 0.00 0.00 0.00 
+(0.0 10) (0.0 10) (0.0 10) 
+29.8.89 1.09 0.88 0.00 
+{0.0 11) {0.0 10) (0.0 1 0) 
+13.9.89 2.31 3.54 1.40 
+(0.023) (0.036) {0.0 14) 
+28.9.89 15.24 15.26 6.49 
+(0.165) (0. 166) (0.067) 
+13.10.89 (20.13) 26.47 12.26 
+(0.224} (0.308} (0. 131) 
+28.10.89 23.91 28.95 13.57 
+(0.273) {0.342) (0. 146) 
+* VaJues in parentheses are log e ( 1/1-x ) transformed value of disease 
+incidence in per cent. 
+Date of 
+observation 
+15.8.89 
+29.8.89 
+13.9.89 
+28.9.89 
+13.10.89 
+28.10.89 
+Appendix 1.3 
+Details of the sample data from Hisar 1989-90 
+( Date of inoculation - 15.8.89 ) 
+Co 7717 
+0.00 
+(0.010)* 
+0.00 
+(0.0 10) 
+o. 75 
+(0.0 10) 
+8.66 
+(0.091) 
+10.67 
+(0.113) 
+18.67 
+(0.207) 
+Red rot incidence 
+varieties 
+CoL 29 
+0.00 
+(0.010) 
+0.00 
+(0.0 10) 
+1.07 
+(0.0 10) 
+6.56 
+(0.068) 
+9. 14) 
+(0.095) 
+10.56 
+(0.112) 
+CoJ 64 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+3.87 
+(0.040) 
+4.83 
+(0.049) 
+5.42 
+(0.056) 
+* values in parentheses are log ( 1/1-x ) transformed value of disease . t e incidence tn per cen . 
+Date of 
+observation 
+20.7.89 
+5.8.89 
+20.8.89 
+4.9.89 
+19.9.89 
+5.10.89 
+20.10.89 
+Appendix 2. 1 
+Details of the sample data from Uchani (Karnal) 
+1989-90 
+( Date of inoculation - 20.7.89 ) 
+Red rot incidence 
+varieties 
+Co 7717 CoL 29 
+0.00 0.00 
+(0.0 10)* (0.0 10) 
+0.00 0.00 
+{0.0 10) (0.010) 
+18.30 19.59 
+(0.202) (0.218) 
+31.58 46.81 
+(0.380) (0.631) 
+78.73 47.48 
+(1.595) (0.645) 
+85.24 64.19 
+(1.911) ( 1.027) 
+100.00 94.04 
+(6.908) (2.813) 
+CoJ 64 
+0.00 
+( 0.010) 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+10.28 
+(0. 109) 
+12.73 
+(0. 136) 
+16.10 
+(0. 176) 
+19.54 
+{0.216) 
+* Values in parentheses are log e ( 1/1-x ) transformed value of disease 
+incidence in per cent. 
+I 
+j 
+l' 
+Date of 
+observation 
+5.8.89 
+20.8.89 
+4.9.89 
+19.9.89 
+5.10.89 
+20.10.89 
+Appendix 2.2 
+Details of the sample data from Uchani (Karnal) 
+1989-90 
+( Date of inoculation - 5.8.89 ) 
+Co 7717 
+0.00 
+(0.0 10)* 
+0.00 
+(0.0 10) 
+5.50 
+(0.057) 
+9.92 
+(0.099) 
+12.57 
+(0. 135} 
+19.12 
+(0.212) 
+Red rot incidence 
+varieties 
+CoL 29 
+0.00 
+(0.0 10) 
+5. 78 
+(0.060) 
+17.71 
+(0.195) 
+28.14 
+(0.330) 
+38.99 
+(0.494} 
+67.77 
+(1.136) 
+CoJ 64 
+0.00 
+(0.0 10) 
+0.00 
+(0.010) 
+1.06 
+(0.011) 
+2.77 
+(0.028) 
+6.28 
+(0.065) 
+7.76 
+(0.081) 
+* Values in parentheses are log ( 1/1-x ) transformed value of disease 
+incidence in per cent. e 
+Date of 
+observation 
+20.8.89 
+4.9.89 
+19.9.89 
+5.10.89 
+20.10.89 
+Appendicx 2.3 
+Details of the sample data from Uchani {Karnal) 
+1989-90 
+( Date of inoculation - 20.8.89 ) 
+Co 7717 
+0.00 
+(0.010)* 
+3.07 
+(0.031) 
+7.38 
+(0.077) 
+11.72 
+(0. 124) 
+16.73 
+(0.183) 
+Red rot incidence 
+varieties 
+CoL 29 
+0.00 
+(0.0 10) 
+4.31 
+(0.043) 
+7.88 
+(0.082) 
+10.56 
+(0. 112) 
+15.57 
+(0.170) 
+CoJ 64 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+1.41 
+(0.0 14) 
+3.67 
+(0.038) 
+5.23 
+(0.052) 
+* Values in parentheses are log e ( 1/1-x ) transformed value of disease 
+incidence in per cent. 
+Date of 
+observation 
+3. 7.90 
+19.7.90 
+2.8.90 
+17.8.90 
+2.9.90 
+17.9.90 
+2.10.90 
+17.10.90 
+1.11.90 
+Details of the sample data from Hisar 1990-91 
+( Date of inoculation - 3.7.1990 ) 
+Red rot incidence 
+var1eties 
+-=--.,.,~----.-
+Co 7717 
+0.00 
+(0.010)* 
+0.00 
+(0.010) 
+8.19 
+l0.086) 
+13.43 
+(0. 145) 
+29.48 
+{0.348) 
+35.01 
+(0.431) 
+39.50 
+(0.503) 
+40.42 
+(0.518) 
+46.63 
+(0.627) 
+CoL 29 
+0.00 
+( 0.0 10) 
+0.00 
+( 0.0 10) 
+0.00 
+(0.0 10) 
+0.65 
+(0.0 10) 
+5.24 
+(0.053) 
+8.53 
+(0.089) 
+11.27 
+(0.120) 
+11.80 
+(0.216) 
+19.81 
+(0.221) 
+Appendix 3. 1 
+* Values in parentheses are log e ( 1/ 1-x ) transformed value of disease 
+incidence in per cent. 
+Appendix 3.2 
+Details of the sample data from Hisar 1990-91 
+[ Date of inoculation - 19.7.1990) 
+Date of 
+observation 
+19.7.90 
+2.8.90 
+17.8.90 
+2.9.90 
+17.9.90 
+2.10.90 
+17.10.90 
+1.11.90 
+Red rot incidence 
+varieties 
+Co 7717 
+0.00 
+(0.010)* 
+0.00 
+(0.0 10) 
+3.84 
+(0.039) 
+6.19 
+(0.064) 
+9.14 
+(0.104) 
+11.77 
+(0.126) 
+14.10 
+(0.152) 
+20.78 
+(0.233) 
+CoL 29 
+0.00 
+(0.0 10) 
+0.00 
+(0.010) 
+0.00 
+(0.010) 
+1.00 
+(0.010) 
+2.62 
+(0.026) 
+4. 78 
+(0.049) 
+8.49 
+(0.089) 
+16.60 
+(0. 182 
+* Values in parentheses are log e ( 1/1-x ) transformed value of disease 
+incidence in per cent. 
+Appendix 3.3 
+Details of the sample data from Hisar 1990-91 
+( Date of inoculation - 2.8. 1990) 
+Date of 
+observation 
+2.8.90 
+17.8.90 
+2.9.90 
+17.9.90 
+2.10.90 
+17.10.90 
+1.11.90 
+Red rot incidence 
+varieties 
+Co 7717 
+0.00 
+(0.0 10)* 
+0.65 
+(0.0 10) 
+1.28 
+(0.0 13) 
+2.38 
+(0.024) 
+3.00 
+(0.030) 
+4.01 
+(0.041) 
+6.28 
+(0.065) 
+CoL 29 
+0.00 
+(0.0 10) 
+0.00 
+0.010) 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+1.30 
+(0.0 13) 
+1.56 
+(0.0 16) 
+2.00 
+(0.020) 
+* Values in parentheses are log ( 1 I 1-x ) transformed value of disease 
+incidence in per cent. e 
+Appendix 3.4 
+Details of the sample data from Hisar 1990-91 
+( Date of inoculation - 17.8.1990 ) 
+Date of 
+observation 
+17.8.90 
+2.9.90 
+17.9.90 
+2.10.90 
+17.10.90 
+1.11.90 
+Red rot incidence 
+varieties 
+Co 7717 
+0.00 
+(0.0 10)* 
+0.00 
+(0.0 10) 
+0.39 
+(0.0 10) 
+0.75 
+(0.010) 
+1.00 
+(0.0 10) 
+2.50 
+(0.025) 
+CoL 29 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+0.66 
+(0.010) 
+1.00 
+(0.0 10) 
+* Values in parentheses are log ( 1/1-x ) transformed value of disease e incidence in per cent. 
+Appendix 4.1 
+Details of the sample data from Uchani ( Karnal) 1990-91 
+( Date of inoculation - 5.7.1990 ) 
+Date of 
+Observation 
+5.7.90 
+21.7.90 
+6.8.90 
+21.8.90 
+5.9.90 
+20.9.90 
+5.10.90 
+20.10.90 
+5.11.90 
+20.11.90 
+4.12.90 
+Co 7717 
+0.00 
+(0.0 10)* 
+9.09 
+(0.095} 
+54.92 
+(0. 796) 
+99.07 
+(4.605) 
+100.00 
+(6.908) 
+100.00 
+(6.908) 
+100.00 
+(6.908) 
+100.00 
+(6.908) 
+100.00 
+(6.908) 
+100.00 
+(6.908) 
+100.00 
+(6.908) 
+* Values in parentheses at·e log ( . e m per cent. 
+Red rot incidence 
+varieties 
+CoL 29 
+0.00 
+(0.0 10) 
+0.00 
+{0.010} 
+2.27 
+(0.023} 
+8.07 
+(0.084) 
+33.48 
+(0.408) 
+43.13 
+(0.565) 
+51.67 
+(0. 728) 
+60.83 
+(0.937) 
+68.88 
+( 1. 168) 
+75.85 
+(1.423) 
+82.80 
+(1.720) 
+CoJ 64 
+0.00 
+(0.010) 
+0.00 
+(0.010} 
+0.00 
+(0.0 10) 
+1.19 
+(0.0 12) 
+2.38 
+(0.024) 
+3.31 
+(0.033) 
+7.45 
+(0.078) 
+10.39 
+(0. 110) 
+11.82 
+(0. 126) 
+12.15 
+(0. 130) 
+12.15 
+(0. 130) 
+1/1-x ) transformed value of disease incidence 
+Appendix 4.2 
+Details of the sample data from Uchani ( Karnal ) 1990-91 
+( Date of inoculation - 21.7.1990) 
+Date of 
+observation 
+21.7.90 
+6.8.90 
+21.8.90 
+5.9.90 
+20.9.90 
+5.10.90 
+20.10.90 
+5.11.90 
+20.11.90 
+4.12.90 
+Red rot incidence 
+varieties 
+Co 7717 CoL 29 
+0.00 0.00 
+(0.0 10)* (0.0 10) 
+1.50 0.00 
+(0.104) (0.010) 
+9.88 1.08 
+(0.278) (0.011) 
+23.80 11.26 
+(0.620) (0. 120) 
+96.45 13.71 
+(3.219) (0. 147) 
+100.00 16.17 
+(6.908) (0. 177) 
+100.00 21.26 
+(6. 908) (0.240) 
+100.00 24.94 
+(6.908) (0.286) 
+100.00 29.03 
+(6.908) (0.342) 
+100.00 30.64 
+(6.908) (0.365) 
+CoJ 64 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+0.00 
+(0.0 10) 
+0.00 
+(0.010) 
+3.55 
+(0.020) 
+4.99 
+0.020) 
+5.66 
+(0.027) 
+5.66 
+(0.034} 
+5.66 
+(0.034) 
+* values in parentheses are log ( 1/ 1-x) transformed value of disease incidence e in per cent. 
+Appendix 4.3 
+Details of the sample data from Uchani(Karnal) 1990-91 
+( Date of inoculation - 6.8. 1990) 
+Date of Red rot incidence 
+observation varieties 
+Co 7717 CoL 29 CoJ 64 
+6.8.90 0.00 0.00 0.00 
+(0.0 10)* (0.0 10) (0.0 10) 
+21.8.90 0.00 0.00 0.00 
+(0.010) (0.0 10) (0.0 10) 
+5.9.90 9.18 2.67 0.00 
+(0.097) (0.027) (0.010) 
+20.9.90 11.81 4.33 0.00 
+(0. 126) (0.044) (0.0 10) 
+5.10.90 21.32 6.67 2.10 
+(0.240) (0.069) (0.020) 
+20.10.90 60.90 9.33 2.10 
+(0.939) (0.098) (0.020) 
+5.11.90 72.70 12.51 2.67 
+(1.284) (0. 134) (0.027) 
+20. 11.90 81.22 16.00 3.33 
+(1.671) (0. 174) (0.034) 
+4.12.90 84.73 16.67 3.33 
+( 1.877) (0. 183) (0.034) 
+* Values in parentheses are log e ( 1/1-x) transformed value of disease incidence 
+in per cent. 
+Appendix 4.4 
+Details of the sample data from Uchani (Karnal) 1990-91 
+( Date of inoculation - 21.8.1990 ) 
+Date of Red rot incidence observation varieties 
+Co 7717 CoL 29 CoJ 64 
+21.8.90 0.00 0.00 0.00 (0.0 10)* {0.0 10) (0.0 10) 
+5.9.90 0.00 0.00 0.00 (0.0 10) (0.0 10) (0.010) 
+20.9.90 6.83 0.50 0.00 (0.070) (0.0 10} (0.0 10) 
+5.10.90 14.96 1.04 0.53 (0.163) (0.0 10) (0.0 10) 
+20.10.90 35.20 6.12 1.32 (0.434) (0.063) (0.0 13) 
+5.11.90 61.26 8.22 1.32 (0.945) (0.086) (0.0 13) 
+20.11.90 79.82 11.7 2 1.32 (1.599) (0.124) (0.0 13) 
+4.12.90 95.33 12.67 1.94 (3.058} (0. 136) (0.0 19) 
+* Values in parentheses are log ( 11 1_x ) transformed value of disease incidence in per cent. e 
+Appendix 5 
+INFORMATIONS OF WEATHER PARAMETERS 
+Hisar 1989-90 
+Period x, x2 x3 x4 x5 
+15.7.89 - 30.7.89 36.9 26.5 75.4 39.3 0.23 
+31.7.89 - 14.8.89 37.1 25.5 73.5 40.1 0.10 
+15.8.89 - 29.8.89 34.0 24.9 87.5 62.9 5.10 
+30.8.89 - 13.9.89 35.2 22.7 76.3 43.3 0.33 
+14.9.89 - 28.9.89 36.0 22.4 78.2 39.0 0.27 
+29.9.89 - 13. 10.89 36.3 18.4 72.7 23.5 0.00 
+14.10.89- 28.10.89 33.4 13.4 77.1 22.1 0.00 
+Karnal 1989-90 
+Period 
+20.7.89 - 4.8.89 33.1 25.6 85.3 69.0 5.43 
+5.8.89 - 19.8.89 33.4 25.7 91. 1 76.6 2.13 
+20.8.89 - 4.9.89 30.7 24.3 93.9 82.1 10.00 
+5.9.89 - 19.9.89 33.8 23.7 87.7 62.9 0.00 
+20.9.89 - 5.10.89 33.5 20.6 88.9 52.2 0.00 
+6.10.89 - 20.10.89 33.9 16.9 79.0 38.3 0.00 
+Contd ........ 
+Hisar 1990-91 
+Period 
+3.7.90 - 18.7.90 33.8 26.1 83.8 61.,~' 5.55 
+19.7.90 - 2.8.90 35.1 25.4 85.7 66.7 4.38 
+3.8.90 -17.8.90 34.1 25.3 89.1 63.8 3.36 
+18.8.90 - 2.9.90 35.8 25.5 84.3 54.4 0.14 
+3.9.90 -17.9.90 33.6 24.2 86.0 63.9 10.45 
+18.9.90 - 2.10.90 33.6 22.4 83.3 54.4 0. 71 
+3.10.90 -17.10.90 33.4 18.5 85.7 39.7 0.00 
+18. 10.90- 1.11.90 30.8 12.4 78.2 25.0 0.00 
+KarnaJ 1990-91 
+Period 
+5. 7.90 -20.7.90 32.6 25.8 83.2 78.8 4.21 
+21.7.90 - 5.8.90 32.9 25.7 90.2 75.9 15.34 
+6.8.90 -20.8.90. 31.9 25.6 87.5 82.2 2.89 
+21.8.90 - 4.9.90 33.1 25.5 86.6 73.7 8.10 
+5.9.90 -19.9.90 31.4 24.6 91.3 78.2 9.83 
+20.9.90 - 4.10.90 32.4 22.4 86.8 61.4 1.15 
+5.10.90 -19.10.90 30.7 18.8 83.3 57.5 1.87 
+20.10.90- 4.11.90 29.9 13.7 79.3 35.2 0.00 
+5. 11.90 -19.11.90 29.7 12.6 86.3 35.3 0.00 
+20.11.90 -4.12.90 24.8 9.3 84.5 54.3 1.61 
+Hisar 1990-91 
+Period x, 
+3.7.90 - 18.7.90 33.8 26.1 83.8 61.l~ 5.55 
+19.7.90 - 2.8.90 35.1 25.4 85.7 66.7 4.38 
+3.8.90 -17.8.90 34.1 25.3 89.1 63.8 3.36 
+18.8.90 - 2.9.90 35.8 25.5 84.3 54.4 0.14 
+3.9.90 -17.9.90 33.6 24.2 86.0 63.9 10.45 
+18.9.90 - 2.10.90 33.6 22.4 83.3 54.4 0. 71 
+3.10.90 -17.10.90 33.4 18.5 85.7 39.7 0.00 
+18.10.90- 1.11.90 30.8 12.4 78.2 25.0 0.00 
+~ 
+~ \.. ~ -1> . 
+~'-..; r"'"' ;...~ Ck ,. ' 
+Karnal 1990-91 (:I:! A~·t· ~, \i.-··.~ .. o. 
+ti z t;l· 3.¢.4. q s ) :P ' 
+) C::,i 
+Period x1 x2 x3 x4 x5 
+5.7.90 -20.7.90 32.6 25.8 83.2 78.8 4.21 
+21.7.9o - 5.8.90 32.9 25.7 90.2 75.9 15.34 
+6.8.90 -20.8.90. 31.9 25.6 87.5 82.2 2.89 
+21.8.90 - 4.9.90 33.1 25.5 86.6 73.7 B. 10 
+5.9.90 -19.9.90 31.4 24.6 91.3 78.2 9.83 
+20.9.90 - 4.10.90 32.4 22.4 86.8 61.4 1.15 
+s. 10.90 -19.10.90 30.7 18.8 83.3 57.5 1.87 
+20.10.90- 4.11.90 29.9 13.7 79.3 35.2 0.00 
+5.11.90 -19.11.90 29.7 12.6 86.3 35.3 0.00 
+20.11.90 -4.12.90 24.8 9.3 84.5 54.3 1.61 

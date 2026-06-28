@@ -1,0 +1,53 @@
+{
+    "paper_type": "climate",
+    "disease": "multiple",
+    "mechanism": {
+        "infection_process": "Climate change affects pathogen life cycles non-linearly. Increased CO2 favors some pathogens (e.g., Fusarium) while limiting others (e.g., Puccinia striiformis). Warming winters reduce pathogen kill periods, expanding infection windows.",
+        "spread_modes": [
+            "Warmer winters allow pathogen survival and range expansion",
+            "Heavy/unseasonal rains drive inoculum splash dispersal",
+            "Elevated CO2 increases plant biomass as pathogen substrate"
+        ],
+        "progression_pattern": "Climate-driven changes shift epidemic onset timing and alter the duration of conducive infection windows. Non-linear disease responses mean small climate shifts can trigger disproportionately large outbreak risk changes."
+    },
+    "environmental_drivers": {
+        "temperature": "Non-linear response: +1–3 °C can benefit some pathogens while suppressing others. Warmer winters extend growing seasons and infection windows. Critical for 14–28 day rolling window models.",
+        "humidity": "Increased CO2-driven canopy density creates higher internal crop humidity, favoring disease development even without external RH changes.",
+        "rainfall": "Heavy and unseasonal rains are key climate-change drivers. Drought conditions can also stress plants, increasing susceptibility.",
+        "variability": "Extreme events (not just mean changes) are the primary disease drivers. Multi-day accumulation of conducive conditions matters more than daily peaks."
+    },
+    "temporal_behavior": {
+        "latent_phase": true,
+        "requires_accumulation": true,
+        "delay_description": "Epidemic onset shifts by 14–28 days under projected climate changes. Multi-day accumulation of humidity + temperature within the conducive range is critical for outbreak prediction."
+    },
+    "feature_mapping": {
+        "weather_features": [
+            "T2M",
+            "T2M_MIN",
+            "T2M_MAX",
+            "RH2M",
+            "PRECTOTCORR"
+        ],
+        "temporal_features": [
+            "lag_features",
+            "rolling_windows (14-day and 28-day windows — validated for epidemic onset shift)"
+        ],
+        "agronomic_features": [
+            "variety_susceptibility",
+            "crop_calendar"
+        ]
+    },
+    "outbreak_logic": {
+        "requires_sustained_conditions": true,
+        "supports_early_warning": true,
+        "threshold_type": "variable"
+    },
+    "advisory_actions": [
+        "Use 14–28 day rolling windows in outbreak prediction models.",
+        "Include climate variability metrics (not just means) as model features.",
+        "Develop multi-factor quantitative outbreak models.",
+        "Incorporate altered planting schedules as an adaptive strategy."
+    ],
+    "confidence_level": "high"
+}

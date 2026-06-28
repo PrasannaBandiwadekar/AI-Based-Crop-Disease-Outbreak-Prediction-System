@@ -1,0 +1,5 @@
+=== Leakage Check Report ===
+
+1. Target shift (-5) used: YES
+2. Features used in raw: ['WS10M', 'T2M', 'RH2M', 'T2M_MIN', 'T2M_MAX', 'PRECTOTCORR']
+3. Any feature using future target? NO (Verified shift logic)

@@ -1,0 +1,60 @@
+
+=== STEP 3: 14-Day Historical Feature Validation ===
+Generated : 2026-04-20 11:50:57
+
+ Required 14-Day Features 
+   PRESENT  temp_mean_14d (column: temp_mean_14d)
+       Temperature 14d mean  captures thermal stability
+       mean=27.676  std=1.141  min=23.985  max=30.434
+
+   MISSING  humidity_mean_14d
+       Humidity 14d mean  critical for fungal buildup
+        Must be added to feature_engg.py
+
+   PRESENT  rain_sum_14d (column: rain_14d)
+       rain_14d  accumulated soil moisture
+       mean=25.443  std=42.220  min=0.000  max=273.110
+
+   MISSING  temp_variance_14d
+       Temperature 14d variance  temperature fluctuation stress
+        Must be added to feature_engg.py
+
+   MISSING  humidity_variance_14d
+       Humidity 14d variance  humidity persistence indicator
+        Must be added to feature_engg.py
+
+
+ Missing Features (must be added) 
+humidity_mean_14d
+temp_variance_14d
+humidity_variance_14d
+
+ Computed Audit Features (for validation only) 
+   humidity_mean_14d_audit computed (RH2M rolling 14d mean, shift 1)
+   humidity_var_14d_audit computed (RH2M rolling 14d std, shift 1)
+   temp_var_14d_audit computed (T2M rolling 14d std, shift 1)
+   rain_days_14d computed (consecutive rainy days in 14d window)
+
+ Biological Significance 
+  Red Rot (Colletotrichum falcatum) buildup requires:
+    1. ACCUMULATION   rain_14d captures soil saturation over 2 weeks
+    2. PERSISTENCE    humidity_mean_14d shows sustained fungal microclimate
+    3. STABILITY      temp_variance_14d reveals thermal stress patterns
+    4. TRIGGER        dry_to_wet_trigger marks regime shifts (spore release)
+
+  Without 14d depth  model learns season (monsoon) not disease cycle.
+
+ VERDICT 
+  temp_mean_14d present    : YES
+  humidity_mean_14d present: NO  MISSING (critical gap)
+  rain_14d present         : YES
+  temp_variance_14d present: NO  MISSING
+  humidity_var_14d present  : NO  MISSING
+
+ RECOMMENDATION 
+  Add to feature_engg.py (after rolling block):
+    df['humidity_mean_14d']  = df['RH2M'].rolling(14).mean().shift(1)
+    df['humidity_var_14d']   = df['RH2M'].rolling(14).std().shift(1)
+    df['temp_var_14d']       = df['T2M'].rolling(14).std().shift(1)
+    df['rain_days_14d']      = (df['PRECTOTCORR'] > 1).astype(int).rolling(14).sum().shift(1)
+    df['humid_persistence']  = (df['RH2M'] > 85).astype(int).rolling(14).sum().shift(1)

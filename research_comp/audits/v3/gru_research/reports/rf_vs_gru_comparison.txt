@@ -1,0 +1,15 @@
+### 1. Metric Comparison
+Metric | RF (14d) | GRU (14d)
+---|---|---
+F1-Score | 0.3161 | 0.2596
+Precision | 0.2480 | 0.2552
+Recall | 0.4357 | 0.2643
+ROC-AUC | 0.8289 | 0.8148
+
+### 2. Temporal Learning Comparison
+GRU Original F1: 0.2596
+GRU Shuffled F1: 0.2596
+Difference: 0.0000
+
+### 3. Stability Analysis
+The loss curve indicates stable convergence.

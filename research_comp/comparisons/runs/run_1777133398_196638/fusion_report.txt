@@ -1,0 +1,4 @@
+RUN_ID: run_1777133398_196638
+Status: SAFE
+Reason: Both stability and spike metrics are within safe limits.
+RF F1: 0.7690 | GRU F1: 0.8203

@@ -1,0 +1,12 @@
+Hidden: 128
+Layers: 2
+Dropout: 0.0
+LR: 0.001
+Epochs: 25
+Best Threshold: 0.1
+precision: 0.2538
+recall: 0.2357
+f1_score: 0.2444
+accuracy: 0.9065
+roc_auc: 0.8145
+Train Time: 121.57s

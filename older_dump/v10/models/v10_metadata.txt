@@ -1,0 +1,3 @@
+optimal_threshold=0.000000
+weather_features=RH_z90,Trigger_3d_sum,RH_persist,RH_season_z,Rain_sum_7
+agro_features=ratoon_flag,sanitation_score

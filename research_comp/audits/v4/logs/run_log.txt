@@ -1,0 +1,11 @@
+Raw data copied to v4\data\raw\POWER_Point_Daily_20050101_20241231_016d54N_069d78E_LST.csv
+Raw dataset shape: (7305, 8)
+Columns: ['YEAR', 'DOY', 'WS10M', 'T2M', 'RH2M', 'T2M_MIN', 'T2M_MAX', 'PRECTOTCORR']
+After removing -999 rows: (7305, 9)
+Target distribution: {0: np.int64(4681), 1: np.int64(2624)}
+Sequence dataset shape: (7291, 86)
+Sequence count: 7291
+RF training time: 0.87s
+RF F1: 0.8401
+GRU training time: 61.43s
+GRU F1: 0.8286

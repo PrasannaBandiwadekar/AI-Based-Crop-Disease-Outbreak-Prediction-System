@@ -1,0 +1,765 @@
+RASSA Journal of Science for Society 4(1): 36-44, April 2022
+DOI: 10.5958/2583-3715.2022.00005.3
+Scientific Correspondence
+*Corresponding Author
+rasaviswanathan@yahoo.co.in
+Key words
+Red rot, smut, wilt, leaf scald,
+sugarcane mosaic, yellow
+leaf, foliar diseasesReceived: January 12, 2022
+Accepted: April 02, 2022
+IndianJournals.com
+A product of Diva Enterprises Pvt. Ltd.
+Sugarcane Diseases: Diagnostics and Management
+R. Viswanathan*
+Division of Crop Protection, ICAR-Sugarcane Breeding Institute, Coimbatore-641007,
+Tamil Nadu, India
+Sugarcane is a major field crop grown essentially for sugar and other sweeteners in India and in
+many other tropical and subtropical countries. Recently, it has emerged as a bioenergy crop for
+producing bioethanol for automobiles. Diseases caused by fungi, bacteria, viruses, phytoplasma
+and nematodes have become major constraints for sugarcane productivity. In spite of all the efforts
+of breeding for disease resistant varieties, this crop is becoming more and more prone to many
+diseases. The disease incidences are increasing at an alarming rate and the yield is falling down
+every year and sugarcane diseases cause a loss of several billions of dollars across the globe,
+every season. About 10-15 per cent of the nations sugar produced are lost due to diseases. Among
+the diseases red rot, smut, wilt and pineapple disease (sett rot) are the important fungal diseases.
+Bacterial diseases like leaf scald (LSD) and ratoon stunting (RSD) are found to cause considerable
+yield loss in some states. Also red stripe are known to cause damage in subtropical regions in
+India. Among the viral diseases, mosaic and yellow leaf (YLD) are the major diseases affecting
+sugarcane. Besides these, grassy shoot caused by phytoplasmas is also a potential disease, which
+can cause considerable damage to sugarcane production in all the states. Foliar diseases such as
+yellow spot, brown spot, brown stripe, eye spot, ring spot, rust etc may cause loss to sugarcane
+depending on the prevailing environmental conditions. Many promising varieties were removed from
+cultivation in the past since they succumbed to new pathogenic variants of red rot with more
+virulence. Also slow build up of many non-fungal diseases in sugarcane causes decline in varietal
+performance and results in varietal degeneration. In this review, important diseases of sugarcane
+and their management are briefly described.
+MAJOR DISEASES AFFECTING SUGARCANE
+PRODUCTION IN INDIA
+Red rot
+It is one of the most widespread sugarcane diseases
+in the country and it has been a constraint for the past 100
+years in India and other South Asian countries. It was
+involved in the failure of important commercial varieties
+like Co 312, Co 419, Co 453, Co 658, Co 997, Co 1148,
+Co 6304, Co 7805, CoC 671, CoC 85061, CoC 92061, CoJ
+64, CoLk 8102, CoS 8436, SoSe 92423, CoSe 95422 etc
+(Viswanathan, 2021a). Currently the disease occurs in all
+the sugarcane growing states in India except Karnataka and
+Maharashtra states, more severely in the states of Uttar
+Pradesh and Bihar. The disease is caused by the fungal
+pathogen Colletotrichum falcatum  Went. The pathogen
+infection seriously affects crop productivity since infected
+stalks become unfit for milling and partial infection also
+affect the quality of canes due to inversion of sucrose to
+reducing sugars. In the advanced stages, entire stool dries
+up. When such canes are split open longitudinally they
+show reddened areas with horizontal white patches. The
+entire parenchymatous tissues are affected and in later
+stages they form a hollow cavity with dark grey mycelial
+growth of the fungal pathogens.  On the rind, dark brownish
+lesions of various sizes can be seen. Similarly necrosis on
+nodal region is also commonly observed. In such canes,
+cut ends show reddening with white patches.
+Smut
+The disease is caused by the fungus Sporisorium
+scitamineum (Syd.) M. Piepenbr., M. Stoll & Oberw . 2002
+(Syn: Ustilago scitaminea H. & P . Sydow). The fungus has
+no alternate hosts. Disease affected stools give out
+excessive tillers which are lanky and end up with black
+whip structures. Affected clumps show profuse tillering
+with lanky tillers. Occasionally whips are produced from
+axillary buds also. The infected plants within a field often
+arise from planting systemically infected setts or from
+ratoons of infected clumps of previous crop. The disease
+is very well adapted to aerial dispersal and spread. Smut is
+generally favoured by hot dry weather conditions. High
+rainfall reduces the severity of smut development. Disease
+severity usually increases through ratoon crops. Plant stress
+Sugarcane Diseases: Diagnostics and Management
+https://www .rassa.org.in/online-publications/rjss/ 37
+increases frequency of whip development; cultivars that
+normally would not have whips may show symptoms
+under high stress.
+Wilt
+Fusarium sacchari (E.J. Butler) W . Gams is the disease
+causative fungus. The affected stools turn yellowish and
+finally dry as in the case of red rot. Longitudinal splitting
+of the affected cane shows dull brownish discolouration of
+internal tissue with linear pith cavities and desiccation.
+Wilt fungi are weak soil borne pathogens. Abiotic factors
+like drought, waterlogging, drought followed by water
+logging weaken the root system and predisposes the plant
+for wilt infection. Subterranean soil pests such as white
+grub, root borer and nematode and insect pests like mealy
+bug, scale insect, fungal pathogen like red rot weakens the
+plant and root system paving the way for wilt infection.
+However, the myth of root borer is always associated with
+wilt does not exist under field conditions (Viswanathan et
+al., 2022). Wilt has caused significant losses in India where
+several epidemics have occurred. It is responsible for the
+elimination of many popular varieties from cultivation.
+Wilt is very common in certain locations where conducive
+environment and susceptible hosts are available
+(Viswanathan, 2013, 2020). In most of the delta regions
+and subtropical plains, endemic nature of the disease
+prevails. The disease adversely affects germination. Wilt
+incidence is always higher in ratoon crops compared with
+the plant crop. Combined infection of red rot and wilt
+causes more loss to the crop than their infection alone.
+Earlier it was thought that the disease occurs during
+maturity stage and its severity can be seen during harvest.
+It is now established that the disease occurs during
+germination onwards and cause death of the germinated
+settlings or young plants. Wilt infection in young crops can
+also be seen as dried canes with de-topped crown.
+Sett rot (Pineapple disease)
+Sett rot is caused by the fungal pathogen Cerotocystis
+paradoxa. The disease is common in germinating setts. The
+disease is primarily spread through soil borne inoculum
+under ill-drained conditions. The fungus infects the setts
+mainly through the cut ends and slowly spreads to the
+entire parenchyma tissues. Sett rot infected setts fail to
+germinate leaving many gaps in the field. In the early stage
+of rotting, a stinky odour of pineapple is emitted due to
+production of ethyl acetate and it helps in identifying the
+disease. The disease is also found to cause damage to
+standing canes in the field. Severe waterlogging, lodging
+of canes and other stresses favour disease build up in the
+field.
+Ratoon stunting (RSD)
+The disease is caused by the xylem limiting bacterium
+Leifsonia (Clavibacter) xyli subsp. xyli (Lxx) (Davis et al. ).
+Diseased clumps usually display stunted growth, reduced
+tillering, thin stalks with shortened internodes and
+yellowish foliage. The characteristic stunting and
+unthriftness associated with RSD are usually greater when
+there has been a growing period with moisture stress.
+Growth of a disease crop is slower than that of a healthy
+crop, and ultimately the yield is reduced. The reduction in
+yield is due to the production of thinner and shorter stalks
+rather than a reduction in the total number of canes. The
+affected plants may not show any abnormality in the root
+system or in the underground buds and portions of the
+stalk. In general, the disease severity is more in older
+varieties. The term ‘ratoon stunting’ is misnomer since the
+disease also causes severe damage in plant crops. Diseased
+stalks of some varieties may exhibit an internal
+discolouration of vascular bundles at the lower portion of
+nodes, but these symptoms are often ephemeral. They
+appear as yellow to reddish brown dots, commas, or short
+lines when viewed by slicing longitudinally through nodes.
+The discolouration does not extend into the internode
+unlike similar symptoms due to other diseases
+(Viswanathan, 2012).
+Grassy shoot
+The disease is caused by sugarcane grassy shoot
+(SCGS) phytoplasmas. It occurs throughout the country and
+its severity is more in the areas where proper seed nursery
+programmes are not there. Infected stools show excessive
+and stunted tillers with narrow leaves. Most of the tillers
+do not develop into millable canes. In the affected clump,
+the few canes formed and are stunted with leaves being
+yellow or white. In some cases, axillary bud sprouting with
+yellow or paper white leaves may be seen. The whole
+infected stool appears like a big bunch of grass (Nithya et
+al., 2020). Grassy shoot can cause very heavy yield losses
+particularly when planting material is obtained from
+infected sources. The disease severity will be more in
+ratoon crops and this contributes to poor yield in ratoons.
+R. Viswanathan
+38 RASSA Journal of Science for Society 4(1)
+Mosaic
+This is one of the oldest diseases recorded in India
+and is associated with varietal degeneration. Sugarcane
+mosaic virus  (SCMV) and Sugarcane streak mosaic virus
+(SCSMV) cause mosaic disease in sugarcane in India. The
+virus has abundant variation and a single strain can infect
+sugarcane, maize and sorghum. Symptoms of mosaic may
+vary in intensity with cultivar, growing conditions,
+temperature and strain of the virus. The chlorotic areas are
+most easily seen in young, rapidly growing leaves,
+particularly near the basal portion of the leaf. The
+proportion of the leaf that is covered by the chlorotic areas
+may vary from scattered, short yellowish stripes to
+chlorotic areas that predominate over the leaf with islands
+of normal green. On older leaves, the symptoms tend to
+recover and appear as healthy. The virus causes mild
+mottling in the leaves with dark and light areas of
+chlorophyll development. With more virulent strains,
+stunting, yellowing, chlorosis and sometimes necrosis are
+also noticed. Recently we found that infection of
+debilitating strains affects yield and quality in sugarcane
+(Viswanathan and Balamuralikrishnan, 2005). Generally,
+long chlorotic streaks alternate with the normal green
+portions of the leaf are observed in different varieties in
+the country.
+Yellow leaf (YLD)
+This disease is caused by Sugarcane yellow leaf virus
+(ScYLV) and reported in India during 1999 (Viswanathan,
+2002). The symptoms appear initially on matured leaves
+three through five usually in maturing plant or ratoon crop.
+The symptoms could be very clear after 5 to 6 months of
+crop growth. On the leaves, the symptom appears as
+yellowish midrib on the lower surface. The yellowing may
+be confined to midrib region or the yellow discolouration
+may spread laterally to adjoining laminar region parallel
+to midrib upto a distance of 2.0 cm. Reddish to pinkish
+discolouration of midrib and laminar region is also noticed
+in certain varieties.  In most susceptible varieties, typical
+yellowing of midribs and laminar region is noticed on
+upper surface of the leaves. Finally symptoms of necrosis
+of discoloured laminar region from leaf tip to bottom and
+subsequent drying of entire leaf is noticed. In ratoon crop,
+the intensity of the disease will be much higher than in
+plant crop. The sugarcane varieties showing mild
+symptoms usually record normal cane growth. In severely
+infected clumps, cane thickness and stalk height are
+significantly affected. Severe infection of the disease leads
+to shortening of internodes in the top. This effect culminates
+in bunching of leaves at the top. Usually such infection
+results in drying of entire clumps.  Severe infection of
+ScYLV leads to reduced juice quality and sugar recovery.
+Combined infection of ScYLV and RSD bacterium in
+sugarcane causes severe stunting than their infection alone
+(Viswanathan, 2002; 2004). The disease occurs in epidemic
+form on most of the cultivated varieties in India (Rao et
+al., 2000) and it adversely affects cane productivity in the
+tropical region. The disease infection may result in 25-30
+per cent loss to cane and juice yield in popular varieties
+(Viswanathan, 2012, 2021c). Further, impact of the virus
+infection on physiological parameters viz. photosynthetic
+rate (A), stomatal conductance (gs) and SPAD meter values
+and growth/yield parameters, such as stalk height, stalk
+thickness and number of internodes revealed significant
+reduction in sugarcane cultivars. In addition, to reductions
+in stalk weight, height and girth, YL also reduced juice
+yield in the affected canes up to 34.15% (Viswanathan et
+al., 2014a).
+Varietal degeneration
+Sugarcane pathogens like SCMV , SCSMV , ScYLV ,
+SCGS-phytoplasmas and ratoon stunting bacterium
+systemically infect sugarcane and over the years the
+varieties degenerate due to the systemic colonization of
+these pathogens (Bagyalakshmi et al., 2019; Viswanathan,
+2012, 2013, 2016, 2018). Decline in varietal performance
+over the years is mainly due to accumulated pathogens
+inside the stalk affecting cane growth and photosynthetic
+efficiency, which directly results in reduced cane yield and
+sugar yield. Although these viral/ bacterial pathogens cause
+limited symptoms in the field, continuous vegetative
+propagation results in enhanced pathogen load that would
+increase the pathogenic potential to cause severe disease
+symptoms. Combined infection of two or more viral/
+bacterial pathogens accelerates the damage to the crop in
+the field and this is due to infection of one pathogen makes
+the plant more susceptible to another. In this way, a variety
+degenerates faster and its potential comes down over the
+years. Author has witnessed such degeneration in a popular
+cv Co 419 in Karnataka state due its high susceptibility to
+mosaic, YLD and RSD. Similarly, the cv CoC 671 another
+popular variety of tropical region degenerated due its high
+Sugarcane Diseases: Diagnostics and Management
+https://www .rassa.org.in/online-publications/rjss/ 39
+susceptibility to mosaic and YLD in different parts of
+Karnataka and Maharashtra. In the subtropical region, CoS
+767, the popular variety recently adversely suffered from
+varietal degeneration caused by the pathogens causing
+SCGS, RSD, YLD and mosaic and it led to its replacement
+by the elite variety Co 0238 and it became very popular in
+the region.
+Pokkah boeng
+The disease is common during rainy months in the
+field. Although under normal situations it may not cause
+significant yield loss it has the potential to arrest the crop
+growth temporarily. The disease occurs throughout the
+world and severe forms of the disease are recorded in high
+humidity areas. Fusarium verticillioides  and F. sacchari are
+the causative fungi (Teleomorph:  Gibberella fujikuroi  (K.
+Sawada) H.W . Wollenweber). Recently association of F.
+proliferatum with the disease has been found in India. The
+disease manifests in two phases viz. pokkah boeng (PB) and
+top rot. The most common symptom is a malformed or
+twisted top, which gives this disease its name “ pokkah
+boeng” from the Javanese language. Symptoms develop
+during rainy periods which coincide with grand growth
+period. Initially, young leaves are chlorotic at their base
+and patchy elsewhere on the blade. Chlorosis is most
+obvious on the lower surface of the leaf or in twisted
+laminar regions, where white mycelium may be seen.
+Affected leaves tend to be narrow at the base. Development
+of further symptoms is dependent on the susceptibility of
+the variety and on environmental conditions conducive to
+the pathogen. Young leaves may become infected in the
+spindle, resulting in pronounced wrinkling, twisting and
+shortening of the leaves. Sometimes, the leaves are
+shortened to few inches without lamina having malformed
+midrib or growth of the leaves ceased to few inches without
+malformation giving a de-topped spindle. As the leaves
+mature, irregular reddish stripes and specks develop within
+the chlorotic areas. Infection in the spindle may reach the
+growing point and continue into the stalk (Viswanathan,
+2012; Viswanathan et al., 2014b). Upon recovery from the
+disease, varying intensities of retardation of internode
+growth, bud sprouting and ‘knife-cut’ symptoms on the
+stalks are observed.
+Sometimes, the growing point is killed leading to
+development of top rot. Due to death of spindle, sprouting
+of the lateral buds occurs. Most of the PB-affected canes
+generally recover from the symptoms but in cases of top
+rot recovery is not there. Upon recovery we notice the
+normal whorl with remnants of twisted leaf portions of
+affected leaves still twisting around the spindle. This disease
+is favoured by warm, moist growing conditions. Symptom
+development begins early in the rainy season which
+normally coincides with rapid and vigorous growth of the
+canes. The three to seven months-old are most susceptible
+to the disease. Conidia are air borne and are deposited on
+plants, then washed by rain into infection sites. Recently
+we found that the diseases wilt and PB are caused by the
+same fungal pathogen F. sacchari (Viswanathan et al., 2017).
+This has added a new finding in epidemiology of the two
+diseases caused by Fusarium. It was demonstrated that stalk
+infection of F. sacchari  led to foliar infections and vice
+versa. Such epidemiological behavior of the pathogen is
+also attributed to sudden emergence of PB in different
+states.
+Leaf fleck
+This is a virus disease, lesser known to personnel in
+sugar industry and sugarcane scientists. The disease is
+caused by Sugarcane bacilliform virus  (SCBV) and occurs
+throughout the country. Earlier, the disease was thought to
+be confined to sugarcane germplasm but detailed studies
+of the author evidenced virus infection in many popular
+varieties under field conditions in the country. Major
+symptoms of the disease include appearance of flecks or
+specks throughout leaf lamina. However, the flecks are
+more prominently seen on leaf margins and distal end of
+the leaf. Gradually, the chlorotic flecks increase in size, turn
+yellow and reddish. In extremely severe cases entire leaf
+turns yellow or reddish and symptoms appear close to
+yellow spot symptoms. Severe disease expression leads to
+premature drying and death of the leaves (Viswanathan et
+al., 2019). Such disease severity is noticed in east coast
+region in the popular varieties such as CoA 92081
+(87A298), CoV 09356 (2003V46), CoV 92102 (83V15) etc.
+Foliar diseases
+The foliar diseases such as rust, eye spot, yellow spot,
+brown stripe and ring spot are air borne and most of them
+survive on other collateral and weed hosts. None of the
+foliar pathogens are sett-borne. High moisture or relative
+humidity following rains accompanied by low or cool
+temperatures favours their incidence. During this period,
+R. Viswanathan
+40 RASSA Journal of Science for Society 4(1)
+excess irrigation and non-stripping off their lower leaves
+and dry leaves, leading to high relative humidity build up
+within the crop. Such microclimatic conditions help to
+build up of the disease to epidemic levels. Among the
+different foliar diseases, rust has become more severe and
+occurs in epidemic form in Maharashtra and Karnataka
+during post monsoon season. Almost all the varieties under
+cultivation such as CoM 0265, CoVSI 9805, Co 86032, Co
+92005, CoC 671, Co 94012, etc were affected by rust. The
+newly introduced variety CoM 0265 shows high
+susceptibility to brown spot in Maharashtra and Karnataka.
+Integrated disease management
+The various types of diseases on sugarcane determine
+the quality, quality and stability of crop yield. This long
+duration cash crop due to its vegetative propagation, high
+sugar accumulation and practice of ratooning makes it
+easily susceptible to the diseases in the field. Besides this,
+wide spread practice of monoculture and heavy wet
+condition add to its susceptibility. This unfavourable
+environment in host plant invites large number of
+pathogens. The pathogens are not only reducing the yield
+but also cause the deterioration of the variety due to their
+accumulation in the stalk over the time. This phenomenon
+is referred to as ‘varietal degeneration’ and this results in
+loss of full potential of a variety and subsequently such
+varieties are withdrawn from cultivation. In the past and
+even today many high yielding, high sugar and popular cane
+cultivar like Co 419, Co 740, CoC 671 etc are being
+withdrawn from cultivation only because of their high
+susceptibility to red rot, smut, grassy shoot and mosaic.
+No single method is efficient / available to control
+sugarcane diseases due to various reasons hence an
+integrated approach involving cultural, chemical/physical
+methods, host resistance and legislative measures is
+suggested for the sustainable management of sugarcane
+diseases (Viswanathan, 2012).
+Infected planting materials are responsible for the
+primary spread of the disease in the field. Hence, going for
+the disease-free setts would reduce the risk of disease
+introduction to disease free areas. Lack of awareness on
+seed cane health and ignoring quarantine regulations
+resulted in introduction of diseases, their epidemics and
+varietal degeneration in the country. To increase sugarcane
+productivity, supply of healthy seed canes is to be ensured
+in the field. As vegetative propagation in sugarcane favours
+harbouring of the pathogens causing red rot, smut, wilt,
+SCGS, LSD, YLD and RSD in the setts, adequate care
+should be taken while selecting seed canes. Since it is
+difficult to detect incipient infections of C. falcatum in seed-
+pieces, it is recommended to take the planting material from
+a disease free crop. Any crop with more than 5% smut or
+as high as 2% grassy shoot incidence is unsuitable for seed
+purpose. For red rot, if there is any infected clump in the
+field, the plot is to be rejected for seed. It is advised to select
+always a disease free area to raise the seed crop.
+Disease surveillance and diagnosis
+Many of the diseases do not cause diagnosable
+symptoms on the seed cane and different factors influence
+disease expression in the field hence we need to follow
+certain diagnostic techniques based on serology or
+molecular biology to detect them in the seed cane before
+planting in the field. Effort to detect and diagnose
+sugarcane pathogens using more advanced laboratory
+techniques has been achieved in the past two decades.
+Detailed studies conducted over the years at ICAR-SBI,
+Coimbatore resulted in standardizing molecular diagnosis
+of different pathogens infecting sugarcane. Currently, PCR
+assay is used to index sugarcane materials for SCGS
+infection and RT-PCR technique is used to index sugarcane
+for SCMV , SCSMV and ScYLV infections. These
+diagnostics tests have become imperative to raise disease-
+free planting materials. Hence tissue culture production
+units in the country are utilizing the indexing service from
+our lab, which had received accreditation for virus indexing
+from Department of Biotechnology, GoI during 2008. The
+molecular tests are highly sensitive to detect very low virus
+titre in in vitro stock culture or in seedlings.
+Since association of two viruses either alone or in
+combination in causing mosaic in sugarcane, duplex (D-)
+RT-PCR) assays were developed to detect the associated
+viruses in a single reaction (Viswanathan et al.,  2008).
+Further, the D-RT-PCR was found equally reliable to
+uniplex RT-PCR performed with SCMV and SCSMV
+primers in separate reactions. Subsequently, a multiplex-
+RT-PCR was developed for the detection of SCMV , SCSMV
+and ScYLV , three of the major RNA viruses widely
+prevailing in the sugarcane growing regions around the
+world (Viswanathan et al., 2010). Polyclonal antisera were
+produced against recombinant SCSMV coat protein (CP)
+and in direct antigen coating (DAC)-ELISA assays, the
+Sugarcane Diseases: Diagnostics and Management
+https://www .rassa.org.in/online-publications/rjss/ 41
+SCSMV-cp antiserum is highly efficient to detect SCSMV
+infection in naturally infected / asymptomatic sugarcane
+field samples (Viswanathan et al.,  2013a). Further, in
+immune-capture (IC)-RT-PCR assays, the same
+recombinant antiserum trapped both SCSMV and SCMV
+and it was sensitive enough to detect the two viruses causing
+mosaic (Viswanathan et al., 2013b). Although DAC-ELISA
+is simple and cost effective to diagnose these viruses, in
+samples with very low virus titre, IC-RT-PCR would be
+more sensitive. Recently RT-loop-mediated isothermal
+amplification (RT-LAMP) based assays were developed to
+detect sugarcane viruses in the lab without conventional
+PCR reactions (Anandakumar et al., 2018, 2020). Lateral
+flow immunochromatographic assays (LFIAs) are simple,
+rapid and portable detection now popular in biomedicine,
+food, environment, and agriculture. Taking advantages of
+the new LFIA technology, we developed LFIA for SCMV
+and SCSMV detection with a high sensitivity . The gold
+nanoparticle-based LFIA assay was found to be
+economical and affordable for farmers and is also a
+practically feasible diagnostic assay for diagnosing
+sugarcane viruses (Muthuramalingam et al., 2022).
+Ratoon management
+We notice more damages caused by the diseases in
+ratoons than plant crop due to different reasons. Inoculum
+level of systemic pathogens causing smut, grassy shoot,
+LSD, RSD, mosaic etc. gradually increases and results in
+severe expression of diseases in a ratoon crop.  Combined
+infection of two diseases such as RSD and mosaic or RSD
+and YLD adversely affects the crop growth and such effect
+is more pronounced in ratoons. Also establishment of
+ratoon crop in the field is severely affected by pathogen
+infection in plant crops. Similarly, more accumulation of
+pathogen in ratoons facilitates acquiring higher virulence
+among the pathogens. The popular sugarcane variety Co
+419 lost its prominence due to its susceptibility to RSD,
+mosaic and YLD. Higher RSD pathogen load favours YLD
+and entire foliage become yellowish and slowly crop
+degenerates and dries. This situation was found more in
+ratoons, due to high pathogen load/vigour. Since multi-
+ratooning of sugarcane has several advantages, it is being
+followed in many countries. However, to sustain sugarcane
+productivity and to improve ratoon productivity these
+points are to be given due consideration.
+Emerging new diseases
+Recently many diseases have emerged as serious ones
+in different countries. YL disease has spread to epidemic
+form in some varieties. Although mild infections of the
+disease do not cause much crop loss continuous use of seed
+from such fields lead to severe disease out break. Similarly,
+problems of wilt, RSD and SCGS have been ignored in
+certain pockets, as there was no previous history of their
+severity there. Due to introduction of new varieties or
+change in cultivation pattern, minor diseases become
+severe. Hence, we have to keep a constant vigil on the
+emerging diseases in the region and immediately suitable
+management practices are to be taken up to avert future
+losses.
+Chemical control
+Chemical controls are possible for few of the diseases,
+particularly those caused by fungal pathogens. Sett rot
+pathogen survives in the soil. As a prophylactic measure,
+the setts are to be dipped in fungicide solution to protect
+the cut-ends from the pathogen. Recent studies at the
+Institute revealed that sett treatment of thiophanate methyl
+fungicide in combination with biocontrol bacterium
+Pseudomonas  reduces soil borne infection of red rot
+pathogen surviving in debris. Similarly in case of smut,
+propiconazole was found effective and in ratoon crops. Two
+sprays immediately after sprouting reduce the disease build
+up in the ratoons. If rust is severe, five to six sprayings of
+mancozeb (0.2%) between November and March is
+recommended to control the disease under our conditions.
+Similarly to control eye spot spraying of copper oxy
+chloride or Mancozeb (0.2%) once in 30 days during
+initiation period is recommended. Whenever the disease
+is high, fungicidal application should be sprayed at 18-20
+day intervals. Recently detailed studies conducted at the
+institute on effective delivery of fungicides in single bud
+or two budded setts/ bud chips utilizing mechanized-
+vacuum infiltration approach and the treatment has resulted
+in more effective diffusion of the chemical into sugarcane
+setts / buds due to reduced pressure created in the
+treatment chamber. The newly devised sett treatment
+device is portable and simple to operate. Recycling of
+chemicals resulted in huge savings in chemicals used for
+pre-treatment, thus making the system environmental
+friendly. Field trials conducted at Coimbatore and red rot
+R. Viswanathan
+42 RASSA Journal of Science for Society 4(1)
+and smut endemic locations revealed that fungicide
+delivery through the new device efficiently protected the
+crop from these diseases. In addition, delivery of different
+agrochemicals for sugarcane multiplication nurseries (bud-
+chip or single bud) can be delivered through the device
+(Malathi et al., 2017; Viswanathan et al., 2016, 2017).
+Use of resistant varieties
+The use of resistant varieties is the most important
+means of managing sugarcane diseases in a sustainable way.
+Although frequent breakdown of sugarcane varieties is a
+cause of alarm, new varieties with high to moderate levels
+of resistance to the disease are introduced time to time and
+saved the crop from severe red rot epiphytotics
+(Viswanathan, 2021b). Unlike red rot, smut resistance in
+commercial varieties in the field is quite stable. Most of
+the ruling varieties are resistant to smut. While advocating
+sugarcane varieties to a factory care should be taken that
+there should be a proper varietal admixture in that region.
+In case of disease outbreaks, the disease spread will be
+rapid in case of monocropping as there is no barrier to
+check the disease. Also cultivating a single variety in more
+than 50 per cent of the area would result in development
+of highly virulent strain of the pathogen, which may cause
+more damage to the crop than the existing pathotypes.
+Heat therapy
+The scientific principle involved in heat therapy is
+that the pathogens present in seed materials are inactivated
+or eliminated at set temperatures not deleterious for the
+host tissues. Aerated stream therapy (AST) or moist hot
+air treatment (MHAT) is advocated to eliminate sett borne
+infections of SCGS and RSD. Any fault in the AST or
+MHAT unit may adversely affect the sett germination.
+Hence functioning of the heating unit and temperature
+control systems, proper volume and circulation of the
+heating medium and proper loading of the cane within the
+treatment chamber are to be monitored time to time.
+Treated setts should always be treated with fungicides
+(carbendazim 0.1%) to reduce the entry of soil pathogens
+through cut ends. In place of the thermotherapy, meristem-
+culture derived seedlings can be used in three tier seed
+nursery programme to get disease-free seedlings.
+Virus elimination
+Since many of the viruses are systemically infecting
+sugarcane virus elimination through meristem-tip culture
+is being followed in many countries. In vitro culture
+techniques employed for virus elimination involve indirect
+morphogenesis. Production of ScYLV-free seedlings has
+ensured supply of YL-free planting materials to the growers
+fields and such fields showed renewed vigour in the crop.
+Overall, virus elimination through meristem culture
+combined with molecular diagnosis has been demonstrated
+as a viable strategy to manage YLD, which occurred in
+epidemic form in sugarcane in the recent years. Utilization
+of these molecular techniques will be a boon to raise disease
+free planting materials for sugarcane plantations. This also
+aids maintaining the popular varieties for many years
+without degeneration to sustain higher productivity.
+Recently we have demonstrated that planting of YL-free
+planting materials gives cane yield of 250 tonnes per
+hectare in the popular variety Co 86032 in Erode Dt, Tamil
+Nadu (Viswanathan et al., 2018).
+CONCLUSION AND FUTURE PERSPECTIVES
+The fungal diseases like red rot, smut and wilt were
+responsible for the elimination of many elite commercial
+varieties in the past in different epidemics. Additionally
+many of the non-fungal diseases contribute to decline in
+their performance due to ‘varietal degeneration’. Lack of
+awareness on seed cane health and ignoring quarantine
+regulations resulted in introduction of diseases, their
+epidemics and varietal degeneration in the country. Hence
+sugar industry may follow strict quarantine norms when
+they bring new varieties from unknown sources or
+destinations. This would prevent introduction of new
+diseases which are not reported in the region from other
+zones or countries. Growing disease resistant varieties is
+the mainstay in disease management in sugarcane and
+introduction of disease resistant varieties after red rot or
+smut epidemics has saved sugar industry during several
+occasions. Although YLD has created a havoc to sugarcane
+cultivation in the country and SBI has evolved strategies
+to manage the disease through meristem culture combined
+with molecular diagnosis of the virus. Hence, need of the
+hour is to establish YLD-free nurseries in different sugar
+mills to reduce disease severity. Wherever appropriate,
+conventional seed nursery programme through aerated
+steam therapy needs to be followed to reduce severity of
+grassy shoot and RSD. Disease surveillance programmes
+in the country need further strengthening including use of
+remote sensing approach and usage of drones. This would
+Sugarcane Diseases: Diagnostics and Management
+https://www .rassa.org.in/online-publications/rjss/ 43
+lead to creation of disease maps for various diseases in
+sugarcane and this would facilitate developing possible
+forewarning systems and varietal deployment in a region
+in the future. We witnessed outbreak of pokkah boeng and
+rust recently in different parts of the country hence there
+is a need to create awareness about the potential diseases
+which may seriously affect sugarcane production. Hence
+the sugar industry should be prepared to tackle minor
+diseases when they become major diseases in sugarcane.
+REFERENCES
+Anandakumar L, Bagyalakshmi K, Muthuramalingam TR,
+Nithya K, Parameswari B and  Viswanathan R  (2020).
+Reverse transcription loop-mediated isothermal
+amplification based rapid detection of Sugarcane mosaic
+virus  and Sugarcane streak mosaic virus  associated with
+mosaic disease of sugarcane. Ind. Phytopathol., 73: 349-358.
+doi: 10.1007/s42360-020-00219-w
+Anandakumar L, Bagyalakshmi K, Nithya K, Parameswari B
+and Viswanathan R (2018). Reverse transcription loop-
+mediated isothermal amplification (RT-LAMP) assay for
+rapid diagnosis of Sugarcane yellow leaf virus  in
+sugarcane. Sugar Tech, 20: 708-716. doi: 10.1007/s12355-018-
+0606-2
+Bagyalakshmi K, Viswanathan R and Ravichandran V (2019).
+Impact of the viruses associated with mosaic and yellow
+leaf disease on varietal degeneration in sugarcane.
+Phytoparasitica, 47: 591–604.
+Malathi P , Viswanathan R and Sundar AR (2017). Mechanized
+means of sett treatment: an effective way of delivering
+fungicides for the management of red rot in sugarcane.
+Sugar Tech, 19: 176-182.
+Muthuramalingam TR, Nithya K, Parameswari B and
+Viswanathan R (2022). Ultrasensitive nano-gold labelled,
+duplex lateral flow immunochromatographic assay for
+early detection of sugarcane mosaic viruses. Sci. Rep.,  12:
+4144. https://doi.org/10.1038/s41598-022-07950-6
+Nithya K, Parameswari B, Bertaccini A, Rao GP and
+Viswanathan R (2020). Grassy shoot: the destructive
+disease of sugarcane. Phytopathogenic Mollicutes,  10(1): 10-
+24.
+Rao GP , Gaur RK, Singh M, Srivastava AK, Virk KS, Singh
+N, Viswanathan R, Patil AS and Jain RK (2000).
+Occurrence of sugarcane yellow leaf virus in India. Sugar
+Tech, 2(4): 37-38.
+Viswanathan R (2002). Sugarcane yellow leaf syndrome in
+India: Incidence and effect on yield parameters. Sugar
+Cane. Intern., 5: 17-23.
+Viswanathan R (2004). Ratoon stunting disease infection
+favours severity of yellow leaf syndrome caused by
+sugarcane yellow leaf virus in sugarcane. Sugar Cane.
+Intern., 22(2): 3-7.
+Viswanathan R (2012). Sugarcane diseases and their
+management. ICAR-Sugarcane Breeding Institute,
+Coimbatore, India, p140.
+Viswanathan R (2013). Status of sugarcane wilt: One hundred
+years after its occurrence in India. J. Sugarcane Res., 3: 86–
+106.
+Viswanathan R (2016). Varietal degeneration in sugarcane and
+its management in India. Sugar Tech, 18: 1–7.
+Viswanathan R (2020). Fusarium diseases affecting sugarcane
+production in India. Indian Phytopathol., 73: 415–424. https:/
+/doi.org/10.1007/s42360-020-00241-y
+Viswanathan R (2021a). Red rot of sugarcane ( Colletotrichum
+falcatum Went). CAB Reviews,  16, No. 023, doi: 10.1079/
+PAVSNNR202116023
+Viswanathan R (2021b). Sustainable sugarcane cultivation in
+India through threats of red rot by varietal management.
+Sugar Tech, 23: 239–253.
+Viswanathan R, Balaji CG, Selvakumar R, Malathi P and
+Sundar AR (2017). Epidemiology of Fusarium diseases in
+sugarcane: a new discovery of same Fusarium sacchari
+causing two distinct diseases, wilt and Pokkah Boeng.
+Sugar Tech, 19: 638-646.
+Viswanathan R and Balamuralikrishnan M (2005). Impact of
+mosaic infection on growth and yield of sugarcane. Sugar
+Tech, 7: 61–65.
+Viswanathan R, Balamuralikrishnan M and Karuppaiah R
+(2008). Duplex - reverse transcription - polymerase chain
+reaction (D-RT-PCR) - a technique for the simultaneous
+detection of viruses causing sugarcane mosaic. Sugar Tech,
+10: 81-86.
+Viswanathan R, Chinnaraja C, Malathi P , Gomathi R,
+Rakkiyappan P , Neelamathi D and Ravichandran V (2014).
+Impact of sugarcane yellow leaf virus (ScYLV) infection
+on physiological efficiency and growth parameters of
+sugarcane under tropical climatic conditions in India. Acta
+Physiol. Plant, 36: 1805–1822.
+Viswanathan R, Karuppaiah R, Bagyalakshmi K, Balan S and
+Kaverinathan K (2019). Emergence of leaf fleck caused
+by Sugarcane bacilliform virus  in sugarcane as a serious
+disease under field conditions in India. Intern Sugar J., 121:
+146-153.
+Viswanathan R, Malathi P , Annadurai A, Prasanth CN and
+Scindiya M (2014c). Sudden occurrence of wilt and pokkah
+boeng in sugarcane and status of resistance in the parental
+clones in national hybridization garden to these diseases.
+J. Sugarcane Res., 4(1): 62–81.
+Viswanathan R, Malathi P and Naik R (2016). A sett treatment
+device for fungal disease management and healthy nursery
+programme in sugarcane. Proc. Ann. Con. Sugar Technol.
+India, 77: 236-253.
+Viswanathan R, Malathi P and Neelamathi D (2018).
+Enhancing sugarcane yield per hectare through improved
+virus-free seed nursery programme. ICAR NEWS,  24(4):
+4-5.
+Viswanathan R, Malathi P , Prasanth CN, Naik R and
+Annamalai SJK (2017). Sett way of growing sugarcane for
+fungal treatment. ICAR NEWS,  23(2): 1-3.
+Viswanathan R, Selvakumar R, Geetha N, Balaji CG,
+Annadurai A, Pazhani AS, Malathi P ., Sundar AR,
+Nithiyanantham R and Manivannan K (2022).
+R. Viswanathan
+44 RASSA Journal of Science for Society 4(1)
+Epidemiology of sugarcane wilt: predisposition by root
+borer Polyocha depresella  a myth or reality. Ind. Phytopathol.,
+75: 3-14.
+Viswanathan R (2018). Changing scenario of sugarcane
+diseases in India since introduction of hybrid cane
+varieties: path travelled for a century. J. Sugarcane Res., 8(1):
+1–35.
+Viswanathan, R, Karuppaiah, R and Balamuralikrishnan M
+(2010).  Detection of three major RNA viruses infecting
+sugarcane by multiplex reverse transcription–polymerase
+chain reaction (multiplex-RT-PCR). Austral Plant Pathol.,
+39: 1–6.
+Viswanathan, R., Ganesh Kumar V , Karuppaiah R, Scindiya
+M and Chinnaraja C (2013a). Diagnosis of Sugarcane streak
+mosaic virus  using recombinant coat protein antiserum in
+sugarcane. Int. Sugar J., 115: 279-283.
+Viswanathan, R., Ganesh Kumar V , Karuppaiah R, Scindiya
+M and Chinnaraja C (2013b). Development of duplex-
+immunocapture (duplex-IC) RT-PCR for the detection of
+Sugarcane streak mosaic virus and Sugarcane mosaic virus in
+Sugarcane. Sugar Tech, 15: 399–405.
+Viswanathan R (2021c). Impact of yellow leaf disease in
+sugarcane and its successful disease management to sustain
+crop production. Indian Phytopathol., 74: 573–586
+DOI:10.1007/s42360-021-00391-7

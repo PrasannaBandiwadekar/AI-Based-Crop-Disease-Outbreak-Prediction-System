@@ -1,0 +1,57 @@
+{
+    "paper_type": "management",
+    "disease": "red_rot",
+    "mechanism": {
+        "infection_process": "Colletotrichum falcatum infects sugarcane stalks primarily through infected seed setts and soil-borne inoculum, causing reddish discoloration of internal tissues and invertase-driven sucrose breakdown.",
+        "spread_modes": [
+            "Infected seed setts",
+            "Soil-borne inoculum",
+            "Nodal and internodal infection"
+        ],
+        "progression_pattern": "Sett/stalk infection → reddish pith with white spots → degradation of cane juice quality (Brix, Pol, sucrose) → reduced germination and settling mortality → complete crop drying."
+    },
+    "environmental_drivers": {
+        "temperature": "Optimum pathogen growth/sporulation at 30 °C. Peak field incidence at T2M_MAX ~33.1 °C, T2M_MIN ~26.4 °C.",
+        "humidity": "Morning RH 80–90 %, evening RH 50–76 % coincide with peak incidence. Ideal growth RH 70–85 %.",
+        "rainfall": "Peak incidence (25.5 %) coincides with 115.8 mm rainfall in the second fortnight of August. Disease most prevalent July–September.",
+        "variability": "Disease incidence rises progressively: 0 % (May–Jun) → 2–10 % (Jul–Aug) → 5–15 % (Sep–Oct) → 10–20 % (Nov–Dec)."
+    },
+    "temporal_behavior": {
+        "latent_phase": true,
+        "requires_accumulation": true,
+        "delay_description": "Disease builds over the monsoon season. Accumulation of high humidity + rainfall over multiple fortnights drives the incidence peak in the second fortnight of August."
+    },
+    "feature_mapping": {
+        "weather_features": [
+            "T2M",
+            "T2M_MAX",
+            "T2M_MIN",
+            "RH2M",
+            "PRECTOTCORR"
+        ],
+        "temporal_features": [
+            "lag_features (15-day delay in disease response)",
+            "rolling_windows (14-day, 28-day rainfall/humidity accumulation)"
+        ],
+        "agronomic_features": [
+            "variety_susceptibility",
+            "intercropping_system",
+            "micronutrient_levels",
+            "soil_pH"
+        ]
+    },
+    "outbreak_logic": {
+        "requires_sustained_conditions": true,
+        "supports_early_warning": true,
+        "threshold_type": "variable"
+    },
+    "advisory_actions": [
+        "MHAT seed cane at 54 °C for 4 hours (RH 95–100 %).",
+        "Sett treatment with Carbendazim 50 WP or Thiophanate methyl 0.25 %.",
+        "Intercropping with Garlic or Coriander reduces incidence by ~20 %.",
+        "Apply ZnSO4 (30 kg/ha) + Boron as foliar application.",
+        "Biocontrol: Trichoderma harzianum or Pseudomonas spp. soil application.",
+        "Plant resistant varieties; avoid monocropping susceptible varieties."
+    ],
+    "confidence_level": "high"
+}
