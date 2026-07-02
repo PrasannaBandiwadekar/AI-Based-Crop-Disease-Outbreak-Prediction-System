@@ -14,7 +14,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from inference_engine import V11InferenceEngine
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RAW_WEATHER_PATH = os.path.join(os.path.dirname(BASE_DIR), "raw_data", "POWER_Point_Daily_20050101_20241231_016d54N_069d78E_LST.csv")
+RAW_WEATHER_PATH = os.path.join(os.path.dirname(BASE_DIR), "raw_data",
+    "POWER_Point_Daily_20050101_20241231_016d85N_074d58E_LST.csv")
 GT_PATH = os.path.join(os.path.dirname(BASE_DIR), "research_comp", "evidence_base", "outbreak_events", "sangli_synthetic_gt.csv")
 
 # Set to True to print every day's risk_score during evaluation -- useful for

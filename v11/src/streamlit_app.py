@@ -21,7 +21,7 @@ if 'api' not in st.session_state:
 
 st.title("🌾 Red Rot Early Warning System (V11)")
 st.markdown("""
-This system provides **3-7 day early warnings** for Red Rot disease in Sugarcane.
+This system provides **7-14 day early warnings** for Red Rot disease in Sugarcane.
 It uses causal temporal convolution networks (TCN) guided by biological knowledge and real-time NASA POWER weather data.
 """)
 

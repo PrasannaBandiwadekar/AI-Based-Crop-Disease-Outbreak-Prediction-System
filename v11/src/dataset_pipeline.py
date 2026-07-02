@@ -112,7 +112,9 @@ import numpy as np
 import pandas as pd
 
 BASE_DIR      = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RAW_DATA_PATH = os.path.join(BASE_DIR, "..", "raw_data", "POWER_Point_Daily_20050101_20241231_016d54N_069d78E_LST.csv")
+RAW_DATA_PATH = os.path.join(BASE_DIR, "..", "raw_data",
+    "POWER_Point_Daily_20050101_20241231_016d85N_074d58E_LST.csv")
+
 PROCESSED_DIR = os.path.join(BASE_DIR, "data", "processed")
 os.makedirs(PROCESSED_DIR, exist_ok=True)
 

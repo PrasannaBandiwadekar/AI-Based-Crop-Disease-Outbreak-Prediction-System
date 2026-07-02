@@ -23,7 +23,7 @@
   ],
   "seq_len": 28,
   "num_epochs": 60,
-  "optimal_threshold": 0.08607366681098938,
+  "optimal_threshold": 0.4616599977016449,
   "augmentation": {
     "factor": 4,
     "noise_std": 0.05,

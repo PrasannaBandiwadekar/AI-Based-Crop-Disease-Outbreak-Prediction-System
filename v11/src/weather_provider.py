@@ -13,11 +13,12 @@ from datetime import datetime, timedelta
 
 # Region to Lat/Lon mapping for production defaults
 REGION_COORDS = {
-    "Sangli": {"lat": 16.54, "lon": 69.78},
-    "Kolhapur": {"lat": 16.7050, "lon": 74.2433},
-    "Pune": {"lat": 18.5204, "lon": 73.8567},
-    "DEFAULT": {"lat": 16.54, "lon": 69.78}
+    "Sangli":   {"lat": 16.8524, "lon": 74.5816},
+    "Kolhapur": {"lat": 16.6975, "lon": 74.2226},
+    "Pune":     {"lat": 18.5204, "lon": 73.8567},
+    "DEFAULT":  {"lat": 16.8524, "lon": 74.5816}
 }
+
 
 class WeatherDataProvider:
     def __init__(self):
